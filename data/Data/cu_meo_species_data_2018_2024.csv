@@ -1,0 +1,366 @@
+Tên loài,Số lượng,Diện tích sinh sống (km²),Di cư,Tỷ lệ sinh sản,Rủi ro săn mồi,Mối đe dọa môi trường,Sách đỏ,Thời gian,Mùa,Vùng,Loại rừng,Đô thị hóa
+Cú mèo,50000,60,Không,3.38,Cao,9,Không,2018-01-07,Xuân,Trung du,Ôn đới,59
+Cú mèo,50125,410,Không,4.35,Cao,5,Không,2018-01-14,Hạ,Đồng bằng,Nhiệt đới,44
+Cú mèo,50250,147,Một phần,1.26,Trung bình,6,Không,2018-01-21,Hạ,Đồi núi,Rừng ngập mặn,11
+Cú mèo,50375,132,Một phần,1.91,Trung bình,9,Không,2018-01-28,Đông,Đồng bằng,Ôn đới,6
+Cú mèo,50501,219,Không,4.81,Thấp,10,Không,2018-02-04,Hạ,Đồi núi,Rừng ngập mặn,92
+Cú mèo,50628,45,Không,1.05,Thấp,10,Không,2018-02-11,Hạ,Trung du,Ôn đới,7
+Cú mèo,50754,110,Một phần,1.84,Thấp,1,Không,2018-02-18,Hạ,Đồng bằng,Ôn đới,36
+Cú mèo,50881,62,Không,3.66,Trung bình,8,Không,2018-02-25,Hạ,Đồng bằng,Rừng ngập mặn,38
+Cú mèo,51008,81,Không,2.44,Cao,2,Không,2018-03-04,Hạ,Trung du,Ôn đới,14
+Cú mèo,51136,252,Một phần,4.66,Thấp,3,Không,2018-03-11,Đông,Đồi núi,Rừng ngập mặn,3
+Cú mèo,51264,32,Có,4.62,Thấp,7,Không,2018-03-18,Thu,Đồng bằng,Ôn đới,83
+Cú mèo,51392,278,Không,2.63,Trung bình,9,Không,2018-03-25,Hạ,Đồi núi,Ôn đới,8
+Cú mèo,51520,402,Không,1.88,Trung bình,5,Không,2018-04-01,Thu,Trung du,Ôn đới,4
+Cú mèo,51649,104,Một phần,4.81,Thấp,9,Không,2018-04-08,Xuân,Đồi núi,Rừng ngập mặn,5
+Cú mèo,51778,430,Không,3.96,Cao,9,Không,2018-04-15,Xuân,Trung du,Ôn đới,7
+Cú mèo,51908,399,Một phần,1.3,Cao,5,Không,2018-04-22,Đông,Đồi núi,Nhiệt đới,6
+Cú mèo,52037,288,Không,2.63,Cao,1,Không,2018-04-29,Xuân,Trung du,Nhiệt đới,56
+Cú mèo,52168,296,Có,1.84,Trung bình,9,Không,2018-05-06,Hạ,Đồng bằng,Rừng ngập mặn,10
+Cú mèo,52298,220,Một phần,2.48,Cao,6,Không,2018-05-13,Thu,Đồng bằng,Nhiệt đới,56
+Cú mèo,52429,276,Một phần,1.71,Cao,9,Không,2018-05-20,Hạ,Đồi núi,Rừng ngập mặn,81
+Cú mèo,52560,119,Không,3.02,Cao,9,Không,2018-05-27,Xuân,Đồng bằng,Ôn đới,51
+Cú mèo,52691,205,Có,4.43,Trung bình,3,Không,2018-06-03,Xuân,Đồng bằng,Rừng ngập mặn,7
+Cú mèo,52823,67,Có,4.22,Thấp,1,Không,2018-06-10,Hạ,Đồng bằng,Rừng ngập mặn,98
+Cú mèo,52955,262,Không,4.82,Thấp,7,Không,2018-06-17,Thu,Trung du,Nhiệt đới,48
+Cú mèo,53087,485,Không,2.01,Cao,2,Không,2018-06-24,Thu,Đồi núi,Ôn đới,97
+Cú mèo,50628,241,Một phần,1.69,Cao,10,Không,2018-07-01,Thu,Đồng bằng,Rừng ngập mặn,41
+Cú mèo,50654,401,Có,3.38,Trung bình,10,Không,2018-07-08,Thu,Trung du,Rừng ngập mặn,74
+Cú mèo,50679,290,Một phần,2.51,Trung bình,10,Không,2018-07-15,Xuân,Đồi núi,Rừng ngập mặn,78
+Cú mèo,50704,283,Không,3.18,Trung bình,3,Không,2018-07-22,Đông,Đồi núi,Ôn đới,3
+Cú mèo,50730,132,Một phần,1.1,Cao,6,Không,2018-07-29,Đông,Đồi núi,Nhiệt đới,100
+Cú mèo,50755,256,Có,2.53,Trung bình,3,Không,2018-08-05,Đông,Đồi núi,Rừng ngập mặn,53
+Cú mèo,50780,319,Không,1.85,Cao,6,Không,2018-08-12,Hạ,Đồi núi,Rừng ngập mặn,75
+Cú mèo,50806,67,Không,1.43,Thấp,5,Không,2018-08-19,Xuân,Đồng bằng,Nhiệt đới,10
+Cú mèo,50831,167,Không,3.58,Cao,4,Không,2018-08-26,Đông,Đồi núi,Rừng ngập mặn,4
+Cú mèo,50857,195,Một phần,1.36,Trung bình,9,Không,2018-09-02,Xuân,Đồi núi,Nhiệt đới,72
+Cú mèo,50882,360,Có,2.72,Thấp,4,Không,2018-09-09,Hạ,Trung du,Rừng ngập mặn,48
+Cú mèo,50907,82,Một phần,4.69,Trung bình,1,Không,2018-09-16,Đông,Đồi núi,Ôn đới,21
+Cú mèo,50933,149,Có,1.01,Trung bình,8,Không,2018-09-23,Hạ,Trung du,Ôn đới,63
+Cú mèo,50958,370,Có,1.28,Thấp,9,Không,2018-09-30,Thu,Đồi núi,Rừng ngập mặn,31
+Cú mèo,50984,100,Không,1.17,Cao,2,Không,2018-10-07,Đông,Đồng bằng,Ôn đới,35
+Cú mèo,51009,207,Một phần,3.46,Thấp,7,Không,2018-10-14,Hạ,Trung du,Rừng ngập mặn,92
+Cú mèo,51035,246,Có,2.35,Cao,5,Không,2018-10-21,Thu,Trung du,Nhiệt đới,79
+Cú mèo,51060,270,Một phần,3.22,Cao,2,Không,2018-10-28,Thu,Trung du,Ôn đới,71
+Cú mèo,51086,491,Một phần,2.11,Thấp,3,Không,2018-11-04,Hạ,Trung du,Rừng ngập mặn,70
+Cú mèo,51111,273,Có,1.56,Cao,2,Không,2018-11-11,Xuân,Trung du,Ôn đới,7
+Cú mèo,51137,446,Không,2.31,Thấp,7,Không,2018-11-18,Xuân,Trung du,Nhiệt đới,71
+Cú mèo,51163,476,Không,1.51,Trung bình,3,Không,2018-11-25,Thu,Trung du,Rừng ngập mặn,44
+Cú mèo,51188,315,Có,2.85,Trung bình,3,Không,2018-12-02,Xuân,Đồi núi,Rừng ngập mặn,72
+Cú mèo,51214,137,Không,2.93,Trung bình,3,Không,2018-12-09,Thu,Trung du,Ôn đới,14
+Cú mèo,51239,95,Có,2.36,Trung bình,4,Không,2018-12-16,Thu,Đồng bằng,Rừng ngập mặn,49
+Cú mèo,51265,246,Một phần,1.47,Trung bình,7,Không,2018-12-23,Đông,Đồi núi,Nhiệt đới,96
+Cú mèo,51291,395,Một phần,3.82,Thấp,6,Không,2018-12-30,Đông,Trung du,Nhiệt đới,80
+Cú mèo,51987,126,Có,3.15,Thấp,10,Không,2019-01-06,Xuân,Đồi núi,Nhiệt đới,65
+Cú mèo,52026,147,Một phần,3.25,Thấp,5,Không,2019-01-13,Hạ,Trung du,Nhiệt đới,42
+Cú mèo,52065,74,Có,2.29,Cao,2,Không,2019-01-20,Xuân,Đồi núi,Nhiệt đới,44
+Cú mèo,52104,140,Một phần,3.52,Trung bình,2,Không,2019-01-27,Đông,Đồi núi,Ôn đới,3
+Cú mèo,52143,433,Một phần,1.19,Trung bình,7,Không,2019-02-03,Hạ,Trung du,Rừng ngập mặn,50
+Cú mèo,52183,267,Có,2.44,Thấp,2,Không,2019-02-10,Đông,Đồi núi,Rừng ngập mặn,72
+Cú mèo,52222,448,Có,1.19,Trung bình,5,Không,2019-02-17,Hạ,Trung du,Ôn đới,72
+Cú mèo,52261,307,Có,4.45,Cao,2,Không,2019-02-24,Thu,Đồi núi,Nhiệt đới,35
+Cú mèo,52300,219,Không,4.81,Trung bình,9,Không,2019-03-03,Đông,Trung du,Ôn đới,60
+Cú mèo,52339,461,Một phần,1.26,Cao,3,Không,2019-03-10,Xuân,Đồng bằng,Rừng ngập mặn,72
+Cú mèo,52378,184,Có,1.81,Thấp,9,Không,2019-03-17,Hạ,Trung du,Nhiệt đới,0
+Cú mèo,52418,98,Có,4.68,Trung bình,3,Không,2019-03-24,Hạ,Trung du,Nhiệt đới,22
+Cú mèo,52457,314,Có,2.24,Cao,9,Không,2019-03-31,Đông,Đồi núi,Nhiệt đới,49
+Cú mèo,52496,286,Không,4.46,Cao,4,Không,2019-04-07,Thu,Đồng bằng,Rừng ngập mặn,48
+Cú mèo,52536,297,Không,1.51,Cao,2,Không,2019-04-14,Xuân,Trung du,Rừng ngập mặn,68
+Cú mèo,52575,209,Không,3.64,Cao,1,Không,2019-04-21,Thu,Trung du,Rừng ngập mặn,100
+Cú mèo,52615,31,Một phần,2.76,Cao,7,Không,2019-04-28,Xuân,Đồng bằng,Rừng ngập mặn,68
+Cú mèo,52654,453,Không,4.79,Thấp,10,Không,2019-05-05,Xuân,Trung du,Ôn đới,79
+Cú mèo,52694,447,Không,1.69,Cao,10,Không,2019-05-12,Thu,Đồng bằng,Nhiệt đới,45
+Cú mèo,52733,248,Một phần,2.52,Trung bình,3,Không,2019-05-19,Thu,Trung du,Ôn đới,14
+Cú mèo,52773,446,Không,2.31,Cao,6,Không,2019-05-26,Thu,Trung du,Rừng ngập mặn,99
+Cú mèo,52812,88,Không,4.74,Thấp,2,Không,2019-06-02,Hạ,Đồng bằng,Nhiệt đới,28
+Cú mèo,52852,249,Một phần,2.67,Cao,7,Không,2019-06-09,Hạ,Đồng bằng,Ôn đới,30
+Cú mèo,52891,261,Không,1.5,Thấp,3,Không,2019-06-16,Hạ,Đồi núi,Nhiệt đới,90
+Cú mèo,52931,475,Có,2.76,Trung bình,9,Không,2019-06-23,Xuân,Đồi núi,Ôn đới,1
+Cú mèo,52971,459,Có,3.85,Trung bình,10,Không,2019-06-30,Hạ,Đồi núi,Ôn đới,36
+Cú mèo,47157,167,Có,3.53,Cao,2,Không,2019-07-07,Thu,Đồng bằng,Ôn đới,66
+Cú mèo,47122,330,Có,3.83,Cao,3,Không,2019-07-14,Hạ,Đồng bằng,Nhiệt đới,41
+Cú mèo,47087,59,Không,1.03,Thấp,3,Không,2019-07-21,Xuân,Đồng bằng,Ôn đới,35
+Cú mèo,47051,414,Một phần,2.02,Trung bình,1,Không,2019-07-28,Hạ,Đồng bằng,Nhiệt đới,49
+Cú mèo,47016,451,Có,1.98,Thấp,3,Không,2019-08-04,Hạ,Đồi núi,Nhiệt đới,98
+Cú mèo,46981,466,Có,1.42,Cao,6,Không,2019-08-11,Xuân,Đồi núi,Rừng ngập mặn,10
+Cú mèo,46946,136,Có,3.67,Cao,7,Không,2019-08-18,Thu,Đồng bằng,Rừng ngập mặn,82
+Cú mèo,46910,402,Một phần,1.26,Cao,5,Không,2019-08-25,Xuân,Đồng bằng,Rừng ngập mặn,36
+Cú mèo,46875,470,Không,3.22,Trung bình,8,Không,2019-09-01,Thu,Đồi núi,Ôn đới,48
+Cú mèo,46840,336,Không,2.94,Thấp,4,Không,2019-09-08,Đông,Đồi núi,Rừng ngập mặn,15
+Cú mèo,46805,196,Không,2.2,Cao,3,Không,2019-09-15,Xuân,Đồng bằng,Ôn đới,43
+Cú mèo,46770,357,Không,2.52,Thấp,3,Không,2019-09-22,Đông,Đồng bằng,Rừng ngập mặn,87
+Cú mèo,46735,89,Không,4.33,Thấp,8,Không,2019-09-29,Hạ,Đồi núi,Rừng ngập mặn,75
+Cú mèo,46700,21,Có,4.6,Trung bình,9,Không,2019-10-06,Thu,Đồng bằng,Nhiệt đới,1
+Cú mèo,46665,347,Một phần,1.69,Trung bình,9,Không,2019-10-13,Thu,Trung du,Ôn đới,42
+Cú mèo,46630,233,Không,3.13,Thấp,8,Không,2019-10-20,Thu,Đồng bằng,Ôn đới,22
+Cú mèo,46595,477,Có,1.13,Trung bình,5,Không,2019-10-27,Hạ,Đồi núi,Ôn đới,74
+Cú mèo,46560,147,Một phần,4.27,Trung bình,2,Không,2019-11-03,Đông,Đồi núi,Nhiệt đới,32
+Cú mèo,46525,492,Không,4.48,Cao,8,Không,2019-11-10,Xuân,Đồng bằng,Nhiệt đới,31
+Cú mèo,46490,171,Không,4.1,Trung bình,1,Không,2019-11-17,Thu,Đồi núi,Rừng ngập mặn,71
+Cú mèo,46455,255,Một phần,2.34,Cao,10,Không,2019-11-24,Xuân,Đồi núi,Ôn đới,38
+Cú mèo,46420,66,Một phần,3.15,Trung bình,1,Không,2019-12-01,Hạ,Đồng bằng,Ôn đới,66
+Cú mèo,46385,122,Có,2.48,Cao,8,Không,2019-12-08,Xuân,Trung du,Nhiệt đới,22
+Cú mèo,46351,298,Không,2.97,Trung bình,4,Không,2019-12-15,Xuân,Đồi núi,Ôn đới,20
+Cú mèo,46316,222,Không,1.6,Trung bình,9,Không,2019-12-22,Xuân,Trung du,Ôn đới,55
+Cú mèo,46281,184,Một phần,1.01,Thấp,8,Không,2019-12-29,Đông,Trung du,Rừng ngập mặn,74
+Cú mèo,42772,128,Không,3.48,Trung bình,3,Không,2020-01-05,Hạ,Trung du,Ôn đới,52
+Cú mèo,42708,22,Một phần,1.44,Trung bình,5,Không,2020-01-12,Xuân,Đồi núi,Nhiệt đới,77
+Cú mèo,42644,481,Một phần,4.01,Cao,6,Không,2020-01-19,Hạ,Trung du,Rừng ngập mặn,49
+Cú mèo,42580,341,Không,2.8,Cao,3,Không,2020-01-26,Thu,Trung du,Nhiệt đới,49
+Cú mèo,42516,407,Không,3.69,Trung bình,2,Không,2020-02-02,Hạ,Trung du,Ôn đới,9
+Cú mèo,42453,347,Một phần,2.54,Cao,7,Không,2020-02-09,Thu,Trung du,Rừng ngập mặn,24
+Cú mèo,42389,365,Không,1.89,Cao,5,Không,2020-02-16,Đông,Trung du,Ôn đới,90
+Cú mèo,42325,285,Một phần,4.04,Thấp,1,Không,2020-02-23,Thu,Đồng bằng,Nhiệt đới,36
+Cú mèo,42262,131,Một phần,2.11,Trung bình,8,Không,2020-03-01,Đông,Trung du,Rừng ngập mặn,96
+Cú mèo,42198,84,Một phần,4.12,Thấp,7,Không,2020-03-08,Xuân,Trung du,Nhiệt đới,7
+Cú mèo,42135,32,Một phần,4.98,Thấp,1,Không,2020-03-15,Xuân,Đồng bằng,Ôn đới,14
+Cú mèo,42072,399,Không,1.88,Cao,10,Không,2020-03-22,Hạ,Đồi núi,Ôn đới,72
+Cú mèo,42009,431,Có,4.27,Cao,9,Không,2020-03-29,Thu,Đồi núi,Rừng ngập mặn,71
+Cú mèo,41946,34,Một phần,2.17,Thấp,3,Không,2020-04-05,Thu,Đồi núi,Ôn đới,11
+Cú mèo,41883,53,Có,1.54,Thấp,10,Không,2020-04-12,Xuân,Đồng bằng,Ôn đới,100
+Cú mèo,41820,461,Có,1.79,Trung bình,8,Không,2020-04-19,Xuân,Đồi núi,Nhiệt đới,33
+Cú mèo,41757,269,Không,1.31,Cao,3,Không,2020-04-26,Đông,Đồng bằng,Ôn đới,6
+Cú mèo,41695,264,Có,4.91,Cao,8,Không,2020-05-03,Xuân,Đồi núi,Nhiệt đới,66
+Cú mèo,41632,196,Một phần,1.54,Thấp,1,Không,2020-05-10,Thu,Đồi núi,Ôn đới,63
+Cú mèo,41570,436,Có,2.66,Trung bình,7,Không,2020-05-17,Xuân,Trung du,Nhiệt đới,71
+Cú mèo,41507,92,Một phần,3.5,Thấp,7,Không,2020-05-24,Thu,Trung du,Ôn đới,95
+Cú mèo,41445,33,Có,1.82,Cao,2,Không,2020-05-31,Đông,Đồi núi,Nhiệt đới,5
+Cú mèo,41383,407,Có,4.69,Cao,3,Không,2020-06-07,Xuân,Đồi núi,Rừng ngập mặn,31
+Cú mèo,41321,420,Một phần,4.34,Cao,1,Không,2020-06-14,Đông,Trung du,Nhiệt đới,40
+Cú mèo,41259,275,Một phần,2.28,Cao,10,Không,2020-06-21,Đông,Đồng bằng,Rừng ngập mặn,39
+Cú mèo,41197,193,Một phần,2.35,Trung bình,9,Không,2020-06-28,Xuân,Đồi núi,Rừng ngập mặn,34
+Cú mèo,53357,41,Một phần,2.47,Thấp,9,Không,2020-07-05,Thu,Đồi núi,Rừng ngập mặn,61
+Cú mèo,53383,128,Có,1.47,Thấp,1,Không,2020-07-12,Hạ,Đồi núi,Nhiệt đới,25
+Cú mèo,53410,54,Có,3.41,Cao,9,Không,2020-07-19,Xuân,Trung du,Nhiệt đới,6
+Cú mèo,53437,251,Một phần,1.14,Cao,8,Không,2020-07-26,Đông,Trung du,Rừng ngập mặn,80
+Cú mèo,53463,353,Có,1.48,Thấp,3,Không,2020-08-02,Xuân,Đồng bằng,Rừng ngập mặn,75
+Cú mèo,53490,489,Có,2.69,Thấp,7,Không,2020-08-09,Đông,Đồi núi,Rừng ngập mặn,22
+Cú mèo,53517,500,Có,3.26,Cao,3,Không,2020-08-16,Xuân,Đồng bằng,Ôn đới,69
+Cú mèo,53544,422,Một phần,4.48,Cao,2,Không,2020-08-23,Đông,Trung du,Rừng ngập mặn,90
+Cú mèo,53570,436,Một phần,1.4,Thấp,9,Không,2020-08-30,Xuân,Đồi núi,Nhiệt đới,82
+Cú mèo,53597,269,Không,3.27,Cao,6,Không,2020-09-06,Thu,Trung du,Nhiệt đới,24
+Cú mèo,53624,213,Không,1.23,Cao,4,Không,2020-09-13,Xuân,Trung du,Rừng ngập mặn,24
+Cú mèo,53651,219,Một phần,4.57,Trung bình,3,Không,2020-09-20,Đông,Đồi núi,Rừng ngập mặn,21
+Cú mèo,53678,408,Có,2.77,Cao,3,Không,2020-09-27,Hạ,Đồi núi,Rừng ngập mặn,0
+Cú mèo,53704,368,Có,2.25,Trung bình,7,Không,2020-10-04,Thu,Đồi núi,Ôn đới,1
+Cú mèo,53731,340,Không,4.47,Trung bình,4,Không,2020-10-11,Hạ,Trung du,Ôn đới,54
+Cú mèo,53758,397,Một phần,2.3,Thấp,5,Không,2020-10-18,Xuân,Đồng bằng,Nhiệt đới,54
+Cú mèo,53785,289,Một phần,4.87,Cao,9,Không,2020-10-25,Đông,Đồi núi,Rừng ngập mặn,43
+Cú mèo,53812,284,Không,2.41,Cao,6,Không,2020-11-01,Thu,Trung du,Rừng ngập mặn,28
+Cú mèo,53839,335,Có,3.87,Thấp,1,Không,2020-11-08,Thu,Đồng bằng,Nhiệt đới,37
+Cú mèo,53866,26,Có,1.06,Thấp,5,Không,2020-11-15,Xuân,Đồng bằng,Nhiệt đới,4
+Cú mèo,53893,393,Một phần,4.19,Thấp,3,Không,2020-11-22,Hạ,Trung du,Rừng ngập mặn,15
+Cú mèo,53920,288,Một phần,2.92,Cao,9,Không,2020-11-29,Đông,Đồng bằng,Nhiệt đới,100
+Cú mèo,53947,406,Một phần,3.24,Trung bình,9,Không,2020-12-06,Hạ,Trung du,Ôn đới,62
+Cú mèo,53974,306,Không,1.47,Trung bình,5,Không,2020-12-13,Xuân,Trung du,Nhiệt đới,65
+Cú mèo,54001,342,Một phần,1.9,Trung bình,9,Không,2020-12-20,Đông,Trung du,Nhiệt đới,3
+Cú mèo,54028,290,Một phần,2.42,Cao,7,Không,2020-12-27,Đông,Đồi núi,Nhiệt đới,56
+Cú mèo,36587,263,Một phần,2.14,Trung bình,2,Không,2021-01-03,Xuân,Đồi núi,Ôn đới,20
+Cú mèo,36514,89,Không,2.12,Trung bình,8,Không,2021-01-10,Đông,Đồng bằng,Ôn đới,73
+Cú mèo,36441,258,Một phần,3.73,Thấp,9,Không,2021-01-17,Thu,Đồi núi,Ôn đới,37
+Cú mèo,36368,379,Không,4.9,Trung bình,8,Không,2021-01-24,Hạ,Trung du,Rừng ngập mặn,25
+Cú mèo,36295,459,Có,4.53,Trung bình,1,Không,2021-01-31,Hạ,Đồi núi,Nhiệt đới,41
+Cú mèo,36223,492,Có,1.84,Trung bình,1,Không,2021-02-07,Xuân,Trung du,Ôn đới,7
+Cú mèo,36150,132,Một phần,2.93,Thấp,5,Không,2021-02-14,Thu,Đồng bằng,Rừng ngập mặn,69
+Cú mèo,36078,482,Không,3.57,Thấp,7,Không,2021-02-21,Đông,Đồng bằng,Rừng ngập mặn,6
+Cú mèo,36006,140,Có,3.49,Cao,5,Không,2021-02-28,Đông,Đồi núi,Nhiệt đới,38
+Cú mèo,35934,207,Có,1.8,Thấp,8,Không,2021-03-07,Xuân,Đồng bằng,Nhiệt đới,83
+Cú mèo,35862,218,Không,1.25,Cao,10,Không,2021-03-14,Hạ,Đồng bằng,Nhiệt đới,99
+Cú mèo,35790,12,Không,3.65,Thấp,6,Không,2021-03-21,Thu,Trung du,Nhiệt đới,15
+Cú mèo,35719,185,Một phần,4.7,Trung bình,8,Không,2021-03-28,Xuân,Đồi núi,Nhiệt đới,23
+Cú mèo,35647,185,Không,1.32,Thấp,2,Không,2021-04-04,Hạ,Trung du,Nhiệt đới,62
+Cú mèo,35576,216,Một phần,4.4,Cao,10,Không,2021-04-11,Hạ,Trung du,Nhiệt đới,52
+Cú mèo,35505,440,Một phần,3.2,Trung bình,6,Không,2021-04-18,Thu,Đồi núi,Ôn đới,6
+Cú mèo,35434,86,Một phần,2.04,Trung bình,5,Không,2021-04-25,Hạ,Trung du,Ôn đới,43
+Cú mèo,35363,260,Có,1.43,Thấp,7,Không,2021-05-02,Xuân,Trung du,Ôn đới,29
+Cú mèo,35292,267,Không,4.36,Thấp,2,Không,2021-05-09,Thu,Đồng bằng,Ôn đới,92
+Cú mèo,35222,137,Không,4.15,Cao,4,Không,2021-05-16,Đông,Đồi núi,Nhiệt đới,45
+Cú mèo,35151,229,Một phần,4.51,Trung bình,7,Không,2021-05-23,Xuân,Đồng bằng,Rừng ngập mặn,52
+Cú mèo,35081,223,Một phần,2.81,Cao,8,Không,2021-05-30,Thu,Trung du,Rừng ngập mặn,38
+Cú mèo,35011,481,Có,2.04,Thấp,6,Không,2021-06-06,Đông,Đồi núi,Rừng ngập mặn,40
+Cú mèo,34941,456,Một phần,4.22,Trung bình,5,Không,2021-06-13,Xuân,Đồi núi,Ôn đới,38
+Cú mèo,34871,497,Một phần,2.65,Thấp,5,Không,2021-06-20,Xuân,Trung du,Ôn đới,34
+Cú mèo,34801,331,Một phần,4.87,Thấp,3,Không,2021-06-27,Xuân,Trung du,Rừng ngập mặn,2
+Cú mèo,47775,316,Một phần,1.7,Thấp,3,Không,2021-07-04,Hạ,Trung du,Rừng ngập mặn,1
+Cú mèo,47763,269,Không,4.3,Thấp,4,Không,2021-07-11,Thu,Trung du,Ôn đới,88
+Cú mèo,47751,364,Không,2.24,Trung bình,1,Không,2021-07-18,Thu,Trung du,Ôn đới,8
+Cú mèo,47739,44,Một phần,4.27,Trung bình,3,Không,2021-07-25,Đông,Trung du,Ôn đới,40
+Cú mèo,47727,112,Có,2.85,Trung bình,3,Không,2021-08-01,Thu,Trung du,Ôn đới,91
+Cú mèo,47716,84,Một phần,3.09,Cao,2,Không,2021-08-08,Thu,Đồi núi,Ôn đới,9
+Cú mèo,47704,401,Không,1.87,Trung bình,10,Không,2021-08-15,Xuân,Đồng bằng,Ôn đới,1
+Cú mèo,47692,481,Có,1.21,Trung bình,2,Không,2021-08-22,Thu,Đồng bằng,Ôn đới,98
+Cú mèo,47680,27,Không,2.08,Cao,2,Không,2021-08-29,Thu,Trung du,Ôn đới,2
+Cú mèo,47668,495,Có,2.53,Cao,1,Không,2021-09-05,Hạ,Đồng bằng,Nhiệt đới,74
+Cú mèo,47656,114,Có,3.79,Thấp,1,Không,2021-09-12,Xuân,Đồng bằng,Nhiệt đới,71
+Cú mèo,47644,101,Không,2.2,Thấp,9,Không,2021-09-19,Xuân,Trung du,Nhiệt đới,0
+Cú mèo,47632,245,Một phần,3.18,Trung bình,5,Không,2021-09-26,Hạ,Đồng bằng,Nhiệt đới,82
+Cú mèo,47620,65,Không,3.45,Trung bình,10,Không,2021-10-03,Đông,Đồi núi,Ôn đới,54
+Cú mèo,47608,46,Không,1.24,Trung bình,2,Không,2021-10-10,Xuân,Trung du,Ôn đới,18
+Cú mèo,47596,392,Không,1.14,Cao,10,Không,2021-10-17,Xuân,Đồng bằng,Rừng ngập mặn,45
+Cú mèo,47584,159,Có,3.63,Thấp,4,Không,2021-10-24,Đông,Đồng bằng,Rừng ngập mặn,40
+Cú mèo,47573,29,Không,2.01,Cao,6,Không,2021-10-31,Xuân,Trung du,Ôn đới,64
+Cú mèo,47561,83,Một phần,1.49,Trung bình,3,Không,2021-11-07,Thu,Đồng bằng,Ôn đới,48
+Cú mèo,47549,87,Không,3.55,Thấp,7,Không,2021-11-14,Xuân,Đồi núi,Nhiệt đới,44
+Cú mèo,47537,288,Không,2.54,Cao,5,Không,2021-11-21,Đông,Đồi núi,Ôn đới,78
+Cú mèo,47525,307,Không,4.92,Trung bình,10,Không,2021-11-28,Hạ,Trung du,Rừng ngập mặn,36
+Cú mèo,47513,303,Một phần,3.43,Thấp,7,Không,2021-12-05,Thu,Trung du,Rừng ngập mặn,73
+Cú mèo,47501,146,Một phần,4.76,Thấp,3,Không,2021-12-12,Xuân,Đồi núi,Rừng ngập mặn,71
+Cú mèo,47489,467,Không,3.27,Trung bình,6,Không,2021-12-19,Thu,Đồi núi,Rừng ngập mặn,51
+Cú mèo,47478,37,Một phần,1.8,Cao,1,Không,2021-12-26,Xuân,Trung du,Ôn đới,64
+Cú mèo,34733,62,Không,2.16,Thấp,3,Không,2022-01-02,Đông,Đồng bằng,Nhiệt đới,89
+Cú mèo,34672,72,Có,2.18,Trung bình,6,Không,2022-01-09,Xuân,Đồi núi,Rừng ngập mặn,46
+Cú mèo,34612,433,Có,4.99,Thấp,2,Không,2022-01-16,Thu,Đồi núi,Nhiệt đới,56
+Cú mèo,34551,76,Không,3.34,Thấp,9,Không,2022-01-23,Đông,Đồi núi,Ôn đới,39
+Cú mèo,34490,129,Một phần,3.04,Cao,4,Không,2022-01-30,Thu,Đồng bằng,Ôn đới,68
+Cú mèo,34430,73,Không,2.89,Trung bình,4,Không,2022-02-06,Hạ,Đồi núi,Rừng ngập mặn,63
+Cú mèo,34370,260,Một phần,4.09,Cao,9,Không,2022-02-13,Xuân,Đồi núi,Nhiệt đới,75
+Cú mèo,34310,356,Có,2.21,Thấp,9,Không,2022-02-20,Hạ,Trung du,Ôn đới,28
+Cú mèo,34250,157,Một phần,4.12,Trung bình,7,Không,2022-02-27,Thu,Đồng bằng,Ôn đới,31
+Cú mèo,34190,443,Có,3.68,Trung bình,3,Không,2022-03-06,Thu,Đồng bằng,Ôn đới,16
+Cú mèo,34130,72,Có,4.56,Thấp,1,Không,2022-03-13,Đông,Trung du,Ôn đới,67
+Cú mèo,34070,493,Có,4.25,Cao,9,Không,2022-03-20,Xuân,Đồng bằng,Nhiệt đới,62
+Cú mèo,34011,20,Một phần,2.69,Thấp,6,Không,2022-03-27,Hạ,Đồi núi,Nhiệt đới,58
+Cú mèo,33951,315,Một phần,1.99,Trung bình,7,Không,2022-04-03,Thu,Trung du,Nhiệt đới,8
+Cú mèo,33892,290,Không,3.69,Thấp,8,Không,2022-04-10,Hạ,Đồi núi,Nhiệt đới,77
+Cú mèo,33832,361,Không,4.45,Thấp,3,Không,2022-04-17,Hạ,Đồng bằng,Ôn đới,39
+Cú mèo,33773,481,Có,3.52,Thấp,4,Không,2022-04-24,Đông,Đồi núi,Nhiệt đới,81
+Cú mèo,33714,328,Không,1.25,Trung bình,4,Không,2022-05-01,Đông,Đồng bằng,Rừng ngập mặn,27
+Cú mèo,33655,91,Một phần,4.36,Trung bình,1,Không,2022-05-08,Xuân,Đồi núi,Rừng ngập mặn,36
+Cú mèo,33596,298,Không,1.92,Cao,1,Không,2022-05-15,Đông,Đồi núi,Rừng ngập mặn,83
+Cú mèo,33537,386,Có,4.29,Cao,1,Không,2022-05-22,Xuân,Trung du,Nhiệt đới,75
+Cú mèo,33479,38,Có,2.29,Cao,8,Không,2022-05-29,Thu,Đồng bằng,Nhiệt đới,34
+Cú mèo,33420,15,Có,1.32,Trung bình,5,Không,2022-06-05,Thu,Trung du,Nhiệt đới,96
+Cú mèo,33362,239,Có,3.6,Trung bình,2,Không,2022-06-12,Đông,Đồng bằng,Nhiệt đới,95
+Cú mèo,33303,24,Một phần,3.79,Cao,8,Không,2022-06-19,Thu,Đồi núi,Rừng ngập mặn,58
+Cú mèo,33245,118,Có,1.41,Thấp,5,Không,2022-06-26,Xuân,Trung du,Nhiệt đới,26
+Cú mèo,31298,419,Không,1.39,Trung bình,1,Không,2022-07-03,Đông,Đồi núi,Rừng ngập mặn,38
+Cú mèo,31235,137,Một phần,3.24,Cao,10,Không,2022-07-10,Thu,Đồng bằng,Nhiệt đới,82
+Cú mèo,31172,103,Không,3.04,Cao,8,Không,2022-07-17,Hạ,Đồi núi,Nhiệt đới,62
+Cú mèo,31110,156,Một phần,4.68,Thấp,2,Không,2022-07-24,Hạ,Đồng bằng,Ôn đới,90
+Cú mèo,31048,205,Có,4.55,Thấp,3,Không,2022-07-31,Đông,Đồi núi,Nhiệt đới,86
+Cú mèo,30986,134,Không,4.85,Trung bình,6,Không,2022-08-07,Hạ,Đồng bằng,Nhiệt đới,41
+Cú mèo,30924,169,Có,4.42,Trung bình,3,Không,2022-08-14,Hạ,Đồi núi,Nhiệt đới,50
+Cú mèo,30862,69,Có,2.94,Trung bình,9,Không,2022-08-21,Đông,Trung du,Ôn đới,2
+Cú mèo,30800,468,Không,2.98,Thấp,6,Không,2022-08-28,Xuân,Trung du,Nhiệt đới,16
+Cú mèo,30739,379,Không,3.97,Trung bình,9,Không,2022-09-04,Thu,Đồi núi,Rừng ngập mặn,79
+Cú mèo,30677,144,Một phần,4.98,Cao,3,Không,2022-09-11,Đông,Trung du,Nhiệt đới,8
+Cú mèo,30616,33,Không,4.13,Thấp,7,Không,2022-09-18,Đông,Đồng bằng,Ôn đới,85
+Cú mèo,30555,107,Có,2.7,Cao,6,Không,2022-09-25,Thu,Đồi núi,Nhiệt đới,95
+Cú mèo,30493,89,Có,4.75,Thấp,5,Không,2022-10-02,Xuân,Đồng bằng,Ôn đới,35
+Cú mèo,30432,480,Có,1.34,Trung bình,10,Không,2022-10-09,Xuân,Đồng bằng,Ôn đới,62
+Cú mèo,30372,348,Không,1.86,Trung bình,2,Không,2022-10-16,Thu,Trung du,Ôn đới,43
+Cú mèo,30311,397,Có,2.31,Trung bình,5,Không,2022-10-23,Xuân,Đồng bằng,Rừng ngập mặn,20
+Cú mèo,30250,452,Có,4.08,Cao,9,Không,2022-10-30,Thu,Đồng bằng,Ôn đới,79
+Cú mèo,30190,136,Một phần,2.99,Cao,5,Không,2022-11-06,Xuân,Trung du,Rừng ngập mặn,12
+Cú mèo,30129,319,Không,4.93,Cao,5,Không,2022-11-13,Hạ,Đồng bằng,Rừng ngập mặn,33
+Cú mèo,30069,469,Có,1.1,Trung bình,3,Không,2022-11-20,Xuân,Đồng bằng,Rừng ngập mặn,38
+Cú mèo,30009,459,Không,4.73,Thấp,8,Không,2022-11-27,Thu,Đồng bằng,Rừng ngập mặn,91
+Cú mèo,29949,356,Một phần,2.44,Trung bình,1,Không,2022-12-04,Xuân,Đồi núi,Nhiệt đới,42
+Cú mèo,29889,355,Một phần,3.4,Cao,8,Không,2022-12-11,Hạ,Đồi núi,Rừng ngập mặn,51
+Cú mèo,29829,493,Không,4.03,Trung bình,7,Không,2022-12-18,Xuân,Đồng bằng,Rừng ngập mặn,70
+Cú mèo,29770,292,Không,4.74,Thấp,6,Không,2022-12-25,Hạ,Trung du,Nhiệt đới,10
+Cú mèo,27836,149,Một phần,1.18,Trung bình,6,Không,2023-01-01,Xuân,Đồng bằng,Ôn đới,83
+Cú mèo,27774,419,Có,3.48,Thấp,9,Không,2023-01-08,Đông,Đồng bằng,Nhiệt đới,28
+Cú mèo,27711,350,Một phần,4.69,Thấp,9,Không,2023-01-15,Xuân,Đồi núi,Ôn đới,23
+Cú mèo,27649,87,Một phần,2.82,Trung bình,7,Không,2023-01-22,Đông,Đồi núi,Rừng ngập mặn,25
+Cú mèo,27587,377,Có,2.1,Thấp,3,Không,2023-01-29,Thu,Đồng bằng,Rừng ngập mặn,27
+Cú mèo,27525,166,Có,4.73,Cao,2,Không,2023-02-05,Hạ,Trung du,Ôn đới,49
+Cú mèo,27463,187,Không,2.14,Cao,5,Không,2023-02-12,Xuân,Đồng bằng,Rừng ngập mặn,29
+Cú mèo,27401,227,Một phần,3.45,Trung bình,5,Không,2023-02-19,Thu,Trung du,Nhiệt đới,13
+Cú mèo,27339,118,Có,1.95,Thấp,4,Không,2023-02-26,Hạ,Trung du,Ôn đới,22
+Cú mèo,27278,193,Có,1.04,Thấp,2,Không,2023-03-05,Xuân,Đồi núi,Ôn đới,68
+Cú mèo,27216,445,Có,2.56,Thấp,8,Không,2023-03-12,Hạ,Trung du,Nhiệt đới,26
+Cú mèo,27155,57,Có,1.04,Trung bình,8,Không,2023-03-19,Hạ,Đồng bằng,Ôn đới,58
+Cú mèo,27094,405,Một phần,2.54,Cao,1,Không,2023-03-26,Đông,Trung du,Rừng ngập mặn,67
+Cú mèo,27033,47,Không,3.03,Thấp,6,Không,2023-04-02,Thu,Trung du,Ôn đới,14
+Cú mèo,26972,412,Có,4.72,Cao,6,Không,2023-04-09,Đông,Đồi núi,Ôn đới,71
+Cú mèo,26912,63,Một phần,4.89,Trung bình,9,Không,2023-04-16,Xuân,Đồng bằng,Rừng ngập mặn,27
+Cú mèo,26851,282,Không,1.59,Cao,1,Không,2023-04-23,Đông,Đồi núi,Nhiệt đới,84
+Cú mèo,26791,85,Một phần,4.02,Cao,7,Không,2023-04-30,Hạ,Trung du,Ôn đới,40
+Cú mèo,26730,127,Có,2.95,Trung bình,9,Không,2023-05-07,Hạ,Đồng bằng,Nhiệt đới,77
+Cú mèo,26670,422,Có,3.13,Thấp,10,Không,2023-05-14,Xuân,Đồi núi,Rừng ngập mặn,50
+Cú mèo,26610,421,Có,4.96,Trung bình,7,Không,2023-05-21,Xuân,Trung du,Rừng ngập mặn,53
+Cú mèo,26550,14,Có,3.74,Trung bình,9,Không,2023-05-28,Thu,Đồi núi,Nhiệt đới,15
+Cú mèo,26491,453,Có,3.34,Cao,3,Không,2023-06-04,Đông,Đồng bằng,Ôn đới,45
+Cú mèo,26431,53,Một phần,1.21,Cao,7,Không,2023-06-11,Xuân,Trung du,Rừng ngập mặn,13
+Cú mèo,26372,68,Không,3.62,Cao,7,Không,2023-06-18,Xuân,Đồi núi,Rừng ngập mặn,21
+Cú mèo,26312,47,Có,2.75,Thấp,10,Không,2023-06-25,Thu,Đồng bằng,Nhiệt đới,92
+Cú mèo,24437,87,Có,2.59,Trung bình,8,Không,2023-07-02,Hạ,Đồi núi,Nhiệt đới,96
+Cú mèo,24376,173,Không,3.26,Trung bình,2,Không,2023-07-09,Hạ,Trung du,Rừng ngập mặn,23
+Cú mèo,24315,223,Có,3.77,Thấp,2,Không,2023-07-16,Thu,Đồi núi,Nhiệt đới,8
+Cú mèo,24254,162,Một phần,3.29,Thấp,7,Không,2023-07-23,Đông,Đồng bằng,Nhiệt đới,43
+Cú mèo,24194,99,Có,1.8,Trung bình,6,Không,2023-07-30,Xuân,Đồi núi,Rừng ngập mặn,73
+Cú mèo,24133,16,Có,2.38,Trung bình,4,Không,2023-08-06,Thu,Trung du,Nhiệt đới,99
+Cú mèo,24073,101,Có,1.49,Thấp,6,Không,2023-08-13,Hạ,Trung du,Ôn đới,57
+Cú mèo,24013,187,Có,1.93,Cao,6,Không,2023-08-20,Xuân,Đồi núi,Nhiệt đới,100
+Cú mèo,23953,16,Có,2.9,Thấp,5,Không,2023-08-27,Xuân,Đồi núi,Nhiệt đới,73
+Cú mèo,23893,472,Không,2.89,Thấp,8,Không,2023-09-03,Hạ,Đồi núi,Rừng ngập mặn,71
+Cú mèo,23833,488,Có,1.03,Thấp,2,Không,2023-09-10,Hạ,Trung du,Ôn đới,96
+Cú mèo,23774,84,Không,2.74,Cao,9,Không,2023-09-17,Xuân,Trung du,Ôn đới,7
+Cú mèo,23714,118,Có,2.86,Thấp,3,Không,2023-09-24,Thu,Trung du,Rừng ngập mặn,70
+Cú mèo,23655,14,Một phần,2.52,Trung bình,4,Không,2023-10-01,Hạ,Trung du,Ôn đới,49
+Cú mèo,23596,407,Một phần,2.23,Thấp,4,Không,2023-10-08,Xuân,Trung du,Ôn đới,77
+Cú mèo,23537,13,Không,3.13,Thấp,8,Không,2023-10-15,Xuân,Trung du,Ôn đới,2
+Cú mèo,23478,495,Có,3.8,Thấp,2,Không,2023-10-22,Đông,Đồi núi,Ôn đới,17
+Cú mèo,23419,382,Có,1.4,Thấp,7,Không,2023-10-29,Hạ,Đồi núi,Rừng ngập mặn,85
+Cú mèo,23361,121,Không,1.71,Cao,2,Không,2023-11-05,Thu,Trung du,Rừng ngập mặn,74
+Cú mèo,23302,349,Có,3.33,Cao,2,Không,2023-11-12,Xuân,Trung du,Rừng ngập mặn,20
+Cú mèo,23244,86,Không,1.54,Thấp,5,Không,2023-11-19,Thu,Đồng bằng,Ôn đới,5
+Cú mèo,23186,196,Một phần,2.61,Cao,2,Không,2023-11-26,Đông,Trung du,Rừng ngập mặn,9
+Cú mèo,23128,159,Một phần,4.56,Cao,6,Không,2023-12-03,Hạ,Đồi núi,Ôn đới,25
+Cú mèo,23070,76,Có,1.87,Trung bình,6,Không,2023-12-10,Hạ,Đồng bằng,Ôn đới,53
+Cú mèo,23012,419,Có,3.95,Cao,9,Không,2023-12-17,Hạ,Đồng bằng,Ôn đới,18
+Cú mèo,22955,120,Không,3.2,Trung bình,8,Không,2023-12-24,Hạ,Trung du,Nhiệt đới,62
+Cú mèo,22897,78,Không,3.05,Cao,4,Không,2023-12-31,Xuân,Đồng bằng,Ôn đới,36
+Cú mèo,22840,311,Không,2.28,Trung bình,4,Không,2024-01-07,Hạ,Trung du,Ôn đới,73
+Cú mèo,22783,274,Không,2.8,Trung bình,8,Không,2024-01-14,Xuân,Đồng bằng,Rừng ngập mặn,73
+Cú mèo,22726,377,Không,3.16,Trung bình,2,Không,2024-01-21,Đông,Đồi núi,Ôn đới,58
+Cú mèo,22669,358,Một phần,4.44,Cao,5,Không,2024-01-28,Xuân,Đồng bằng,Ôn đới,57
+Cú mèo,22613,286,Một phần,4.08,Cao,5,Không,2024-02-04,Xuân,Trung du,Ôn đới,100
+Cú mèo,22556,293,Một phần,3.57,Thấp,7,Không,2024-02-11,Thu,Trung du,Ôn đới,83
+Cú mèo,22500,474,Có,2.95,Thấp,1,Không,2024-02-18,Thu,Đồng bằng,Rừng ngập mặn,76
+Cú mèo,22443,366,Một phần,4.55,Trung bình,3,Không,2024-02-25,Thu,Đồng bằng,Nhiệt đới,3
+Cú mèo,22387,139,Một phần,4.33,Cao,4,Không,2024-03-03,Xuân,Trung du,Rừng ngập mặn,87
+Cú mèo,22331,77,Một phần,1.76,Thấp,1,Không,2024-03-10,Xuân,Trung du,Nhiệt đới,85
+Cú mèo,22276,271,Không,4.52,Thấp,1,Không,2024-03-17,Xuân,Đồng bằng,Nhiệt đới,74
+Cú mèo,22220,422,Một phần,1.23,Cao,5,Không,2024-03-24,Thu,Đồi núi,Rừng ngập mặn,0
+Cú mèo,22164,68,Không,4.02,Thấp,7,Không,2024-03-31,Thu,Đồng bằng,Rừng ngập mặn,61
+Cú mèo,22109,206,Một phần,2.26,Thấp,9,Không,2024-04-07,Xuân,Đồi núi,Rừng ngập mặn,3
+Cú mèo,22054,75,Một phần,2.81,Thấp,3,Không,2024-04-14,Hạ,Trung du,Nhiệt đới,43
+Cú mèo,21998,487,Một phần,3.48,Thấp,6,Không,2024-04-21,Đông,Trung du,Ôn đới,63
+Cú mèo,21943,434,Một phần,4.43,Thấp,10,Không,2024-04-28,Xuân,Trung du,Ôn đới,61
+Cú mèo,21889,272,Một phần,4.33,Cao,1,Không,2024-05-05,Xuân,Đồng bằng,Ôn đới,56
+Cú mèo,21834,344,Có,1.03,Cao,8,Không,2024-05-12,Đông,Trung du,Nhiệt đới,89
+Cú mèo,21779,495,Một phần,4.58,Thấp,2,Không,2024-05-19,Đông,Đồng bằng,Rừng ngập mặn,64
+Cú mèo,21725,278,Không,1.5,Thấp,5,Không,2024-05-26,Xuân,Đồi núi,Nhiệt đới,1
+Cú mèo,21671,416,Có,2.74,Cao,9,Không,2024-06-02,Xuân,Đồi núi,Rừng ngập mặn,8
+Cú mèo,21616,405,Không,4.91,Cao,2,Không,2024-06-09,Xuân,Đồi núi,Nhiệt đới,56
+Cú mèo,21562,25,Có,4.0,Thấp,1,Không,2024-06-16,Xuân,Trung du,Ôn đới,53
+Cú mèo,21508,190,Có,2.94,Thấp,1,Không,2024-06-23,Đông,Trung du,Nhiệt đới,38
+Cú mèo,21455,37,Một phần,4.41,Trung bình,5,Không,2024-06-30,Đông,Đồi núi,Ôn đới,7
+Cú mèo,16584,254,Không,1.32,Trung bình,10,Không,2024-07-07,Xuân,Đồng bằng,Nhiệt đới,43
+Cú mèo,16530,436,Một phần,4.42,Trung bình,8,Không,2024-07-14,Hạ,Đồi núi,Ôn đới,0
+Cú mèo,16477,285,Không,4.47,Thấp,10,Không,2024-07-21,Đông,Đồi núi,Nhiệt đới,23
+Cú mèo,16423,321,Không,1.35,Cao,10,Không,2024-07-28,Đông,Trung du,Ôn đới,39
+Cú mèo,16370,485,Không,1.18,Cao,7,Không,2024-08-04,Xuân,Trung du,Nhiệt đới,1
+Cú mèo,16316,373,Có,4.57,Thấp,9,Không,2024-08-11,Hạ,Đồi núi,Ôn đới,100
+Cú mèo,16263,154,Một phần,1.24,Thấp,3,Không,2024-08-18,Đông,Trung du,Nhiệt đới,33
+Cú mèo,16211,80,Một phần,3.65,Cao,4,Không,2024-08-25,Xuân,Trung du,Rừng ngập mặn,47
+Cú mèo,16158,176,Có,4.17,Thấp,9,Không,2024-09-01,Xuân,Đồng bằng,Nhiệt đới,84
+Cú mèo,16105,349,Không,4.97,Thấp,4,Không,2024-09-08,Thu,Đồi núi,Nhiệt đới,49
+Cú mèo,16053,483,Một phần,4.49,Thấp,3,Không,2024-09-15,Xuân,Đồi núi,Nhiệt đới,39
+Cú mèo,16001,393,Không,2.52,Thấp,2,Không,2024-09-22,Đông,Đồi núi,Rừng ngập mặn,50
+Cú mèo,15949,59,Không,3.24,Cao,6,Không,2024-09-29,Xuân,Đồi núi,Nhiệt đới,19
+Cú mèo,15897,367,Không,1.14,Thấp,5,Không,2024-10-06,Hạ,Đồng bằng,Rừng ngập mặn,21
+Cú mèo,15845,49,Một phần,2.9,Trung bình,1,Không,2024-10-13,Đông,Đồi núi,Rừng ngập mặn,7
+Cú mèo,15794,205,Có,2.38,Thấp,5,Không,2024-10-20,Thu,Trung du,Nhiệt đới,73
+Cú mèo,15742,186,Có,3.95,Thấp,4,Không,2024-10-27,Đông,Đồi núi,Nhiệt đới,69
+Cú mèo,15691,415,Không,2.14,Cao,4,Không,2024-11-03,Hạ,Trung du,Rừng ngập mặn,46
+Cú mèo,15640,319,Có,1.2,Thấp,7,Không,2024-11-10,Thu,Trung du,Ôn đới,85
+Cú mèo,15589,418,Có,2.67,Thấp,2,Không,2024-11-17,Đông,Đồng bằng,Ôn đới,36
+Cú mèo,15539,269,Có,4.16,Thấp,1,Không,2024-11-24,Đông,Đồi núi,Ôn đới,80
+Cú mèo,15488,45,Một phần,2.33,Trung bình,10,Không,2024-12-01,Đông,Trung du,Ôn đới,31
+Cú mèo,15438,351,Không,2.7,Cao,5,Không,2024-12-08,Đông,Đồi núi,Nhiệt đới,98
+Cú mèo,15388,126,Có,2.44,Thấp,10,Không,2024-12-15,Hạ,Đồng bằng,Rừng ngập mặn,14
+Cú mèo,15338,411,Không,2.67,Trung bình,4,Không,2024-12-22,Thu,Trung du,Rừng ngập mặn,9
+Cú mèo,15288,14,Một phần,3.95,Cao,3,Không,2024-12-29,Thu,Trung du,Ôn đới,11

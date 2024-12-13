@@ -1,0 +1,1 @@
+{"cmd": "\n#Plot the prediction from 2024 to 2026\nmodel_Yenui.plot(prediction_Yenui)\nplt.title('Yenui Population Prediction')\nplt.show()\n", "outhist_cell": "GGn4m5obH3", "output_complete": 1, "outhist_title": "Z21xyiHJrR", "is_md": 0, "cmd_opts": " --cell_id=UXebYX1Hh7 -s", "import_complete": 1, "terminal": "kitty"}

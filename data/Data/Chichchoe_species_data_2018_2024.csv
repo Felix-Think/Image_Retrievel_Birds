@@ -1,0 +1,366 @@
+Tên loài,Số lượng,Diện tích sinh sống (km²),Di cư,Tỷ lệ sinh sản,Rủi ro săn mồi,Mối đe dọa môi trường,Sách đỏ,Thời gian,Mùa,Vùng,Loại rừng,Đô thị hóa
+Chích chòe,100000,484,Có,1.74,Thấp,10,Không,2018-01-07,Hạ,Trung du,Rừng ngập mặn,39
+Chích chòe,100125,177,Một phần,1.93,Thấp,3,Không,2018-01-14,Hạ,Trung du,Ôn đới,21
+Chích chòe,100250,285,Có,1.1,Cao,9,Không,2018-01-21,Xuân,Trung du,Nhiệt đới,83
+Chích chòe,100375,260,Một phần,3.41,Cao,4,Không,2018-01-28,Xuân,Đồng bằng,Ôn đới,79
+Chích chòe,100500,209,Một phần,2.47,Thấp,10,Không,2018-02-04,Hạ,Trung du,Ôn đới,97
+Chích chòe,100626,485,Có,3.67,Trung bình,8,Không,2018-02-11,Xuân,Đồng bằng,Nhiệt đới,11
+Chích chòe,100752,201,Có,2.42,Thấp,3,Không,2018-02-18,Thu,Đồng bằng,Rừng ngập mặn,26
+Chích chòe,100878,135,Một phần,2.88,Trung bình,5,Không,2018-02-25,Hạ,Đồng bằng,Rừng ngập mặn,92
+Chích chòe,101004,151,Một phần,4.41,Trung bình,4,Không,2018-03-04,Thu,Trung du,Rừng ngập mặn,35
+Chích chòe,101130,435,Một phần,4.37,Thấp,7,Không,2018-03-11,Xuân,Trung du,Ôn đới,36
+Chích chòe,101257,302,Không,2.58,Trung bình,4,Không,2018-03-18,Xuân,Đồng bằng,Ôn đới,83
+Chích chòe,101383,303,Một phần,1.51,Trung bình,2,Không,2018-03-25,Hạ,Đồng bằng,Ôn đới,12
+Chích chòe,101510,369,Một phần,4.7,Cao,4,Không,2018-04-01,Xuân,Đồng bằng,Ôn đới,59
+Chích chòe,101637,141,Không,4.94,Trung bình,10,Không,2018-04-08,Hạ,Đồng bằng,Ôn đới,59
+Chích chòe,101764,229,Có,1.61,Thấp,5,Không,2018-04-15,Đông,Trung du,Rừng ngập mặn,79
+Chích chòe,101891,412,Có,3.05,Thấp,8,Không,2018-04-22,Hạ,Đồi núi,Rừng ngập mặn,26
+Chích chòe,102018,488,Không,4.94,Trung bình,10,Không,2018-04-29,Hạ,Trung du,Rừng ngập mặn,84
+Chích chòe,102146,186,Không,1.19,Thấp,10,Không,2018-05-06,Thu,Trung du,Nhiệt đới,52
+Chích chòe,102274,254,Có,4.07,Trung bình,10,Không,2018-05-13,Đông,Trung du,Rừng ngập mặn,52
+Chích chòe,102401,101,Có,3.64,Trung bình,9,Không,2018-05-20,Thu,Trung du,Rừng ngập mặn,33
+Chích chòe,102529,417,Không,3.92,Thấp,8,Không,2018-05-27,Xuân,Đồng bằng,Ôn đới,35
+Chích chòe,102658,304,Có,1.29,Thấp,1,Không,2018-06-03,Hạ,Trung du,Rừng ngập mặn,41
+Chích chòe,102786,377,Một phần,1.48,Thấp,7,Không,2018-06-10,Thu,Đồi núi,Ôn đới,6
+Chích chòe,102914,115,Một phần,2.74,Thấp,1,Không,2018-06-17,Xuân,Trung du,Ôn đới,35
+Chích chòe,103043,436,Không,2.39,Thấp,6,Không,2018-06-24,Xuân,Đồng bằng,Ôn đới,65
+Chích chòe,103818,161,Không,1.87,Thấp,8,Không,2018-07-01,Đông,Đồi núi,Nhiệt đới,64
+Chích chòe,103974,361,Có,4.41,Thấp,4,Không,2018-07-08,Hạ,Đồi núi,Rừng ngập mặn,77
+Chích chòe,104129,393,Không,4.61,Trung bình,1,Không,2018-07-15,Đông,Đồi núi,Rừng ngập mặn,83
+Chích chòe,104286,367,Có,1.29,Trung bình,3,Không,2018-07-22,Xuân,Đồi núi,Rừng ngập mặn,33
+Chích chòe,104442,120,Một phần,4.01,Thấp,7,Không,2018-07-29,Xuân,Trung du,Nhiệt đới,51
+Chích chòe,104599,19,Một phần,2.01,Thấp,9,Không,2018-08-05,Thu,Đồi núi,Rừng ngập mặn,99
+Chích chòe,104756,438,Không,1.74,Trung bình,4,Không,2018-08-12,Xuân,Đồi núi,Rừng ngập mặn,65
+Chích chòe,104913,124,Không,2.15,Trung bình,10,Không,2018-08-19,Đông,Đồng bằng,Nhiệt đới,11
+Chích chòe,105070,375,Một phần,1.74,Thấp,3,Không,2018-08-26,Xuân,Đồi núi,Nhiệt đới,0
+Chích chòe,105228,344,Không,4.25,Trung bình,10,Không,2018-09-02,Hạ,Đồng bằng,Nhiệt đới,86
+Chích chòe,105386,446,Không,3.11,Thấp,3,Không,2018-09-09,Hạ,Đồng bằng,Rừng ngập mặn,98
+Chích chòe,105544,135,Có,4.69,Cao,7,Không,2018-09-16,Thu,Đồng bằng,Nhiệt đới,7
+Chích chòe,105702,257,Có,4.58,Cao,6,Không,2018-09-23,Đông,Đồng bằng,Rừng ngập mặn,98
+Chích chòe,105861,292,Có,4.02,Trung bình,7,Không,2018-09-30,Xuân,Đồng bằng,Ôn đới,11
+Chích chòe,106019,204,Không,2.23,Cao,3,Không,2018-10-07,Thu,Đồi núi,Rừng ngập mặn,52
+Chích chòe,106178,485,Không,1.26,Trung bình,9,Không,2018-10-14,Đông,Đồng bằng,Rừng ngập mặn,10
+Chích chòe,106338,51,Không,4.69,Cao,8,Không,2018-10-21,Hạ,Đồi núi,Ôn đới,33
+Chích chòe,106497,284,Có,2.91,Trung bình,4,Không,2018-10-28,Xuân,Đồng bằng,Nhiệt đới,35
+Chích chòe,106657,493,Không,3.81,Cao,3,Không,2018-11-04,Thu,Trung du,Rừng ngập mặn,11
+Chích chòe,106817,97,Không,4.67,Trung bình,2,Không,2018-11-11,Hạ,Trung du,Rừng ngập mặn,15
+Chích chòe,106977,350,Có,4.02,Trung bình,10,Không,2018-11-18,Xuân,Trung du,Ôn đới,91
+Chích chòe,107138,311,Không,1.48,Thấp,2,Không,2018-11-25,Xuân,Đồi núi,Nhiệt đới,79
+Chích chòe,107298,463,Có,2.3,Trung bình,5,Không,2018-12-02,Hạ,Trung du,Nhiệt đới,36
+Chích chòe,107459,168,Có,1.72,Cao,5,Không,2018-12-09,Thu,Trung du,Rừng ngập mặn,95
+Chích chòe,107620,295,Có,3.34,Trung bình,2,Không,2018-12-16,Xuân,Đồi núi,Ôn đới,16
+Chích chòe,107782,202,Có,2.08,Thấp,3,Không,2018-12-23,Thu,Trung du,Nhiệt đới,69
+Chích chòe,107944,310,Một phần,3.65,Trung bình,5,Không,2018-12-30,Hạ,Đồi núi,Nhiệt đới,6
+Chích chòe,110948,373,Không,1.65,Thấp,9,Không,2019-01-06,Đông,Đồi núi,Ôn đới,39
+Chích chòe,111170,304,Có,2.33,Cao,7,Không,2019-01-13,Đông,Trung du,Ôn đới,69
+Chích chòe,111392,264,Một phần,3.58,Trung bình,5,Không,2019-01-20,Hạ,Đồng bằng,Rừng ngập mặn,31
+Chích chòe,111615,375,Có,4.82,Thấp,2,Không,2019-01-27,Xuân,Trung du,Rừng ngập mặn,23
+Chích chòe,111838,101,Có,1.16,Thấp,5,Không,2019-02-03,Thu,Đồi núi,Nhiệt đới,62
+Chích chòe,112062,101,Một phần,4.38,Thấp,6,Không,2019-02-10,Đông,Đồng bằng,Ôn đới,15
+Chích chòe,112286,119,Có,3.47,Trung bình,7,Không,2019-02-17,Đông,Đồng bằng,Ôn đới,73
+Chích chòe,112511,116,Có,3.3,Thấp,7,Không,2019-02-24,Xuân,Đồi núi,Nhiệt đới,96
+Chích chòe,112736,463,Có,3.89,Cao,9,Không,2019-03-03,Thu,Đồng bằng,Rừng ngập mặn,40
+Chích chòe,112961,474,Không,2.77,Trung bình,2,Không,2019-03-10,Thu,Trung du,Rừng ngập mặn,8
+Chích chòe,113187,363,Không,3.74,Cao,8,Không,2019-03-17,Đông,Đồi núi,Rừng ngập mặn,10
+Chích chòe,113413,63,Một phần,4.3,Trung bình,5,Không,2019-03-24,Thu,Đồi núi,Ôn đới,40
+Chích chòe,113640,31,Không,2.44,Cao,7,Không,2019-03-31,Đông,Trung du,Ôn đới,49
+Chích chòe,113868,383,Có,4.97,Trung bình,6,Không,2019-04-07,Thu,Đồng bằng,Nhiệt đới,48
+Chích chòe,114095,279,Một phần,4.61,Cao,8,Không,2019-04-14,Xuân,Đồi núi,Ôn đới,59
+Chích chòe,114323,439,Có,2.6,Cao,9,Không,2019-04-21,Hạ,Trung du,Rừng ngập mặn,88
+Chích chòe,114552,86,Một phần,2.31,Trung bình,2,Không,2019-04-28,Đông,Đồi núi,Ôn đới,65
+Chích chòe,114781,29,Có,3.03,Trung bình,2,Không,2019-05-05,Đông,Đồi núi,Nhiệt đới,85
+Chích chòe,115011,322,Không,4.52,Cao,10,Không,2019-05-12,Đông,Đồng bằng,Rừng ngập mặn,55
+Chích chòe,115241,82,Một phần,2.12,Trung bình,6,Không,2019-05-19,Thu,Đồng bằng,Ôn đới,100
+Chích chòe,115471,320,Một phần,2.26,Thấp,4,Không,2019-05-26,Thu,Đồi núi,Rừng ngập mặn,69
+Chích chòe,115702,173,Không,1.71,Trung bình,4,Không,2019-06-02,Đông,Trung du,Ôn đới,16
+Chích chòe,115934,183,Có,3.0,Cao,1,Không,2019-06-09,Đông,Đồng bằng,Ôn đới,60
+Chích chòe,116166,151,Không,1.62,Cao,7,Không,2019-06-16,Hạ,Đồng bằng,Rừng ngập mặn,20
+Chích chòe,116398,160,Không,3.32,Trung bình,5,Không,2019-06-23,Đông,Đồi núi,Nhiệt đới,10
+Chích chòe,116631,428,Có,1.07,Thấp,2,Không,2019-06-30,Đông,Đồng bằng,Nhiệt đới,70
+Chích chòe,114611,121,Không,1.22,Thấp,5,Không,2019-07-07,Đông,Đồng bằng,Nhiệt đới,26
+Chích chòe,114812,376,Không,4.86,Thấp,2,Không,2019-07-14,Thu,Đồng bằng,Rừng ngập mặn,35
+Chích chòe,115013,41,Một phần,4.84,Thấp,2,Không,2019-07-21,Thu,Trung du,Rừng ngập mặn,7
+Chích chòe,115214,334,Một phần,3.84,Trung bình,6,Không,2019-07-28,Hạ,Trung du,Rừng ngập mặn,72
+Chích chòe,115416,352,Một phần,4.18,Trung bình,8,Không,2019-08-04,Xuân,Trung du,Nhiệt đới,39
+Chích chòe,115618,313,Có,2.92,Thấp,3,Không,2019-08-11,Thu,Trung du,Nhiệt đới,90
+Chích chòe,115820,291,Một phần,1.95,Thấp,9,Không,2019-08-18,Thu,Trung du,Nhiệt đới,19
+Chích chòe,116023,282,Có,1.05,Cao,8,Không,2019-08-25,Đông,Trung du,Rừng ngập mặn,42
+Chích chòe,116226,220,Một phần,2.97,Trung bình,9,Không,2019-09-01,Đông,Đồng bằng,Ôn đới,87
+Chích chòe,116429,27,Có,1.22,Cao,8,Không,2019-09-08,Xuân,Đồng bằng,Rừng ngập mặn,78
+Chích chòe,116633,369,Có,3.13,Thấp,8,Không,2019-09-15,Xuân,Đồng bằng,Ôn đới,58
+Chích chòe,116837,128,Không,1.34,Thấp,4,Không,2019-09-22,Thu,Đồi núi,Nhiệt đới,85
+Chích chòe,117041,15,Không,3.98,Cao,10,Không,2019-09-29,Hạ,Trung du,Nhiệt đới,100
+Chích chòe,117246,422,Không,2.88,Cao,10,Không,2019-10-06,Đông,Đồi núi,Ôn đới,34
+Chích chòe,117451,376,Có,1.07,Thấp,3,Không,2019-10-13,Đông,Đồng bằng,Nhiệt đới,4
+Chích chòe,117657,330,Một phần,2.09,Trung bình,9,Không,2019-10-20,Thu,Đồi núi,Nhiệt đới,20
+Chích chòe,117863,319,Có,4.65,Cao,2,Không,2019-10-27,Thu,Đồi núi,Nhiệt đới,65
+Chích chòe,118069,50,Không,1.97,Trung bình,1,Không,2019-11-03,Đông,Đồi núi,Ôn đới,20
+Chích chòe,118276,367,Có,3.85,Cao,10,Không,2019-11-10,Đông,Đồng bằng,Ôn đới,30
+Chích chòe,118483,103,Không,2.26,Trung bình,5,Không,2019-11-17,Đông,Đồng bằng,Rừng ngập mặn,14
+Chích chòe,118690,325,Một phần,3.29,Cao,9,Không,2019-11-24,Đông,Trung du,Rừng ngập mặn,77
+Chích chòe,118898,179,Một phần,2.77,Trung bình,1,Không,2019-12-01,Xuân,Đồi núi,Nhiệt đới,69
+Chích chòe,119106,495,Có,4.73,Trung bình,4,Không,2019-12-08,Thu,Đồi núi,Rừng ngập mặn,24
+Chích chòe,119314,18,Không,4.94,Cao,3,Không,2019-12-15,Thu,Đồng bằng,Ôn đới,45
+Chích chòe,119523,146,Có,3.02,Thấp,9,Không,2019-12-22,Thu,Đồi núi,Ôn đới,78
+Chích chòe,119732,236,Một phần,1.87,Thấp,8,Không,2019-12-29,Xuân,Đồng bằng,Nhiệt đới,36
+Chích chòe,126331,163,Một phần,1.37,Cao,10,Không,2020-01-05,Đông,Đồi núi,Ôn đới,90
+Chích chòe,126615,369,Một phần,1.84,Cao,4,Không,2020-01-12,Thu,Trung du,Nhiệt đới,59
+Chích chòe,126900,457,Một phần,3.2,Cao,5,Không,2020-01-19,Đông,Đồi núi,Nhiệt đới,76
+Chích chòe,127185,348,Không,4.92,Trung bình,1,Không,2020-01-26,Thu,Trung du,Rừng ngập mặn,84
+Chích chòe,127472,346,Có,1.2,Trung bình,8,Không,2020-02-02,Hạ,Đồng bằng,Nhiệt đới,89
+Chích chòe,127758,475,Có,4.5,Cao,7,Không,2020-02-09,Đông,Đồng bằng,Rừng ngập mặn,8
+Chích chòe,128046,346,Một phần,3.07,Trung bình,5,Không,2020-02-16,Xuân,Đồi núi,Nhiệt đới,78
+Chích chòe,128334,343,Một phần,2.62,Thấp,4,Không,2020-02-23,Xuân,Đồi núi,Nhiệt đới,12
+Chích chòe,128623,208,Không,1.21,Trung bình,4,Không,2020-03-01,Xuân,Đồi núi,Ôn đới,48
+Chích chòe,128912,257,Có,3.08,Trung bình,8,Không,2020-03-08,Hạ,Đồi núi,Nhiệt đới,40
+Chích chòe,129202,373,Không,3.76,Trung bình,1,Không,2020-03-15,Hạ,Đồi núi,Nhiệt đới,22
+Chích chòe,129493,76,Một phần,4.92,Trung bình,5,Không,2020-03-22,Đông,Trung du,Ôn đới,79
+Chích chòe,129784,39,Một phần,3.13,Cao,10,Không,2020-03-29,Hạ,Đồng bằng,Rừng ngập mặn,8
+Chích chòe,130076,247,Có,4.44,Thấp,1,Không,2020-04-05,Thu,Đồi núi,Rừng ngập mặn,19
+Chích chòe,130369,420,Không,2.35,Trung bình,4,Không,2020-04-12,Thu,Đồi núi,Rừng ngập mặn,78
+Chích chòe,130662,270,Một phần,2.91,Thấp,7,Không,2020-04-19,Hạ,Đồng bằng,Nhiệt đới,29
+Chích chòe,130956,347,Không,4.6,Trung bình,5,Không,2020-04-26,Xuân,Trung du,Nhiệt đới,33
+Chích chòe,131251,158,Có,2.49,Cao,4,Không,2020-05-03,Xuân,Đồng bằng,Nhiệt đới,1
+Chích chòe,131546,299,Có,2.58,Thấp,2,Không,2020-05-10,Đông,Đồng bằng,Ôn đới,27
+Chích chòe,131842,107,Một phần,2.51,Cao,8,Không,2020-05-17,Xuân,Trung du,Nhiệt đới,56
+Chích chòe,132139,88,Một phần,2.88,Cao,5,Không,2020-05-24,Hạ,Trung du,Rừng ngập mặn,82
+Chích chòe,132436,346,Không,3.06,Cao,10,Không,2020-05-31,Đông,Đồi núi,Ôn đới,30
+Chích chòe,132734,35,Một phần,3.56,Trung bình,10,Không,2020-06-07,Xuân,Đồng bằng,Ôn đới,36
+Chích chòe,133033,18,Có,1.4,Trung bình,3,Không,2020-06-14,Thu,Đồng bằng,Nhiệt đới,19
+Chích chòe,133332,183,Không,3.6,Thấp,3,Không,2020-06-21,Thu,Đồi núi,Rừng ngập mặn,11
+Chích chòe,133632,225,Không,3.21,Thấp,1,Không,2020-06-28,Hạ,Đồi núi,Rừng ngập mặn,72
+Chích chòe,129659,259,Không,2.11,Trung bình,9,Không,2020-07-05,Xuân,Đồng bằng,Nhiệt đới,18
+Chích chòe,129918,461,Có,1.21,Trung bình,7,Không,2020-07-12,Đông,Đồi núi,Ôn đới,70
+Chích chòe,130178,498,Không,3.79,Thấp,8,Không,2020-07-19,Đông,Trung du,Rừng ngập mặn,82
+Chích chòe,130438,83,Không,3.34,Trung bình,5,Không,2020-07-26,Xuân,Đồng bằng,Rừng ngập mặn,83
+Chích chòe,130699,209,Có,3.97,Thấp,4,Không,2020-08-02,Hạ,Trung du,Rừng ngập mặn,33
+Chích chòe,130961,260,Một phần,2.01,Thấp,2,Không,2020-08-09,Hạ,Đồng bằng,Rừng ngập mặn,26
+Chích chòe,131223,102,Có,4.91,Thấp,4,Không,2020-08-16,Xuân,Đồng bằng,Ôn đới,14
+Chích chòe,131485,409,Có,2.88,Trung bình,1,Không,2020-08-23,Xuân,Trung du,Rừng ngập mặn,74
+Chích chòe,131748,313,Một phần,3.64,Cao,8,Không,2020-08-30,Hạ,Đồng bằng,Nhiệt đới,34
+Chích chòe,132011,153,Một phần,1.15,Thấp,4,Không,2020-09-06,Thu,Đồng bằng,Ôn đới,83
+Chích chòe,132275,427,Một phần,4.05,Thấp,6,Không,2020-09-13,Xuân,Đồng bằng,Ôn đới,65
+Chích chòe,132540,89,Một phần,3.0,Thấp,3,Không,2020-09-20,Xuân,Trung du,Nhiệt đới,93
+Chích chòe,132805,489,Một phần,3.28,Trung bình,10,Không,2020-09-27,Thu,Trung du,Ôn đới,53
+Chích chòe,133071,225,Không,2.67,Cao,6,Không,2020-10-04,Xuân,Trung du,Rừng ngập mặn,56
+Chích chòe,133337,195,Không,2.42,Cao,4,Không,2020-10-11,Xuân,Đồi núi,Ôn đới,20
+Chích chòe,133604,109,Một phần,3.65,Trung bình,4,Không,2020-10-18,Xuân,Trung du,Nhiệt đới,100
+Chích chòe,133871,205,Không,4.79,Trung bình,2,Không,2020-10-25,Xuân,Đồng bằng,Nhiệt đới,25
+Chích chòe,134139,299,Có,4.47,Trung bình,1,Không,2020-11-01,Thu,Đồi núi,Ôn đới,90
+Chích chòe,134407,448,Một phần,4.31,Trung bình,8,Không,2020-11-08,Xuân,Đồng bằng,Rừng ngập mặn,92
+Chích chòe,134676,417,Không,3.94,Thấp,3,Không,2020-11-15,Đông,Đồi núi,Nhiệt đới,48
+Chích chòe,134945,279,Có,1.19,Trung bình,4,Không,2020-11-22,Xuân,Đồi núi,Ôn đới,82
+Chích chòe,135215,124,Một phần,2.54,Cao,5,Không,2020-11-29,Đông,Trung du,Nhiệt đới,81
+Chích chòe,135485,361,Có,2.59,Thấp,10,Không,2020-12-06,Thu,Đồng bằng,Ôn đới,7
+Chích chòe,135756,232,Không,2.89,Thấp,7,Không,2020-12-13,Thu,Đồng bằng,Nhiệt đới,2
+Chích chòe,136028,399,Một phần,2.5,Thấp,3,Không,2020-12-20,Thu,Đồng bằng,Ôn đới,65
+Chích chòe,136300,308,Có,3.01,Trung bình,8,Không,2020-12-27,Xuân,Đồi núi,Nhiệt đới,53
+Chích chòe,131358,128,Có,1.08,Cao,2,Không,2021-01-03,Hạ,Đồi núi,Rừng ngập mặn,32
+Chích chòe,131588,379,Một phần,4.92,Thấp,10,Không,2021-01-10,Thu,Đồng bằng,Ôn đới,82
+Chích chòe,131818,274,Có,3.81,Cao,4,Không,2021-01-17,Hạ,Trung du,Ôn đới,34
+Chích chòe,132049,294,Một phần,4.68,Thấp,1,Không,2021-01-24,Hạ,Đồi núi,Rừng ngập mặn,19
+Chích chòe,132280,239,Một phần,2.3,Thấp,4,Không,2021-01-31,Đông,Trung du,Rừng ngập mặn,98
+Chích chòe,132512,23,Không,4.45,Trung bình,5,Không,2021-02-07,Thu,Đồi núi,Rừng ngập mặn,28
+Chích chòe,132743,95,Không,1.16,Trung bình,1,Không,2021-02-14,Hạ,Đồi núi,Rừng ngập mặn,73
+Chích chòe,132976,175,Một phần,1.98,Trung bình,5,Không,2021-02-21,Hạ,Đồng bằng,Ôn đới,90
+Chích chòe,133209,425,Không,4.27,Thấp,6,Không,2021-02-28,Thu,Đồi núi,Rừng ngập mặn,7
+Chích chòe,133442,396,Một phần,2.75,Cao,7,Không,2021-03-07,Hạ,Trung du,Ôn đới,79
+Chích chòe,133675,303,Không,4.16,Trung bình,3,Không,2021-03-14,Đông,Đồng bằng,Ôn đới,62
+Chích chòe,133909,152,Có,1.65,Thấp,1,Không,2021-03-21,Thu,Trung du,Nhiệt đới,10
+Chích chòe,134143,363,Có,3.15,Trung bình,6,Không,2021-03-28,Xuân,Đồi núi,Ôn đới,85
+Chích chòe,134378,287,Không,1.58,Cao,3,Không,2021-04-04,Đông,Đồi núi,Ôn đới,69
+Chích chòe,134613,498,Có,4.74,Trung bình,1,Không,2021-04-11,Xuân,Trung du,Ôn đới,86
+Chích chòe,134849,122,Có,1.26,Thấp,3,Không,2021-04-18,Hạ,Đồi núi,Nhiệt đới,23
+Chích chòe,135085,399,Có,3.18,Trung bình,3,Không,2021-04-25,Đông,Trung du,Nhiệt đới,20
+Chích chòe,135321,75,Có,1.81,Cao,10,Không,2021-05-02,Thu,Trung du,Ôn đới,3
+Chích chòe,135558,106,Một phần,3.53,Thấp,6,Không,2021-05-09,Thu,Đồng bằng,Ôn đới,96
+Chích chòe,135795,237,Một phần,3.79,Cao,1,Không,2021-05-16,Hạ,Đồi núi,Ôn đới,28
+Chích chòe,136033,199,Không,1.44,Trung bình,7,Không,2021-05-23,Hạ,Đồi núi,Ôn đới,44
+Chích chòe,136271,226,Không,4.48,Cao,6,Không,2021-05-30,Xuân,Trung du,Nhiệt đới,63
+Chích chòe,136510,87,Có,1.69,Thấp,7,Không,2021-06-06,Đông,Trung du,Nhiệt đới,58
+Chích chòe,136748,467,Một phần,4.49,Trung bình,5,Không,2021-06-13,Đông,Đồi núi,Ôn đới,70
+Chích chòe,136988,202,Một phần,3.79,Cao,6,Không,2021-06-20,Xuân,Đồng bằng,Rừng ngập mặn,22
+Chích chòe,137227,462,Không,2.03,Cao,7,Không,2021-06-27,Thu,Trung du,Rừng ngập mặn,1
+Chích chòe,131363,266,Không,2.76,Cao,2,Không,2021-07-04,Hạ,Đồi núi,Nhiệt đới,94
+Chích chòe,131560,237,Một phần,1.79,Cao,3,Không,2021-07-11,Hạ,Đồi núi,Ôn đới,62
+Chích chòe,131757,307,Không,2.56,Thấp,2,Không,2021-07-18,Đông,Đồi núi,Nhiệt đới,4
+Chích chòe,131955,83,Không,1.87,Thấp,5,Không,2021-07-25,Đông,Đồng bằng,Nhiệt đới,83
+Chích chòe,132153,440,Một phần,1.13,Thấp,9,Không,2021-08-01,Hạ,Đồi núi,Ôn đới,37
+Chích chòe,132351,130,Có,2.41,Thấp,10,Không,2021-08-08,Xuân,Đồng bằng,Ôn đới,9
+Chích chòe,132549,222,Có,2.52,Thấp,7,Không,2021-08-15,Đông,Đồi núi,Ôn đới,59
+Chích chòe,132748,365,Không,4.46,Cao,3,Không,2021-08-22,Đông,Trung du,Rừng ngập mặn,44
+Chích chòe,132947,127,Có,1.59,Cao,3,Không,2021-08-29,Đông,Đồi núi,Rừng ngập mặn,33
+Chích chòe,133147,246,Một phần,4.21,Cao,3,Không,2021-09-05,Thu,Trung du,Ôn đới,9
+Chích chòe,133346,328,Không,2.45,Thấp,4,Không,2021-09-12,Xuân,Trung du,Rừng ngập mặn,9
+Chích chòe,133546,162,Có,4.83,Thấp,4,Không,2021-09-19,Thu,Trung du,Ôn đới,39
+Chích chòe,133747,314,Một phần,2.44,Trung bình,8,Không,2021-09-26,Hạ,Đồng bằng,Nhiệt đới,37
+Chích chòe,133947,238,Có,2.36,Trung bình,3,Không,2021-10-03,Thu,Đồng bằng,Rừng ngập mặn,54
+Chích chòe,134148,303,Có,1.76,Thấp,9,Không,2021-10-10,Đông,Đồi núi,Nhiệt đới,11
+Chích chòe,134350,248,Một phần,3.87,Trung bình,6,Không,2021-10-17,Đông,Đồng bằng,Nhiệt đới,67
+Chích chòe,134551,401,Một phần,2.38,Cao,3,Không,2021-10-24,Hạ,Đồi núi,Rừng ngập mặn,92
+Chích chòe,134753,322,Không,4.8,Thấp,1,Không,2021-10-31,Thu,Đồi núi,Ôn đới,29
+Chích chòe,134955,164,Không,3.02,Thấp,3,Không,2021-11-07,Hạ,Trung du,Rừng ngập mặn,14
+Chích chòe,135157,444,Có,3.5,Trung bình,5,Không,2021-11-14,Xuân,Đồng bằng,Nhiệt đới,89
+Chích chòe,135360,282,Có,2.24,Cao,1,Không,2021-11-21,Xuân,Đồi núi,Rừng ngập mặn,14
+Chích chòe,135563,458,Có,2.48,Trung bình,4,Không,2021-11-28,Hạ,Đồi núi,Ôn đới,94
+Chích chòe,135767,87,Một phần,3.59,Cao,3,Không,2021-12-05,Thu,Đồng bằng,Ôn đới,8
+Chích chòe,135970,21,Một phần,1.54,Thấp,5,Không,2021-12-12,Hạ,Trung du,Rừng ngập mặn,77
+Chích chòe,136174,361,Có,4.01,Cao,5,Không,2021-12-19,Đông,Đồng bằng,Rừng ngập mặn,68
+Chích chòe,136378,435,Có,4.39,Thấp,5,Không,2021-12-26,Hạ,Trung du,Nhiệt đới,60
+Chích chòe,129671,37,Một phần,2.11,Cao,9,Không,2022-01-02,Hạ,Đồng bằng,Rừng ngập mặn,93
+Chích chòe,129834,446,Có,2.42,Cao,3,Không,2022-01-09,Xuân,Đồi núi,Ôn đới,0
+Chích chòe,129996,255,Một phần,4.46,Trung bình,2,Không,2022-01-16,Xuân,Đồi núi,Rừng ngập mặn,45
+Chích chòe,130158,120,Không,2.31,Cao,7,Không,2022-01-23,Hạ,Đồng bằng,Ôn đới,14
+Chích chòe,130321,223,Một phần,1.23,Thấp,8,Không,2022-01-30,Thu,Trung du,Ôn đới,12
+Chích chòe,130484,323,Có,4.13,Trung bình,7,Không,2022-02-06,Đông,Đồng bằng,Nhiệt đới,29
+Chích chòe,130647,436,Có,2.55,Cao,8,Không,2022-02-13,Xuân,Đồng bằng,Rừng ngập mặn,11
+Chích chòe,130810,369,Có,1.57,Trung bình,9,Không,2022-02-20,Hạ,Trung du,Nhiệt đới,68
+Chích chòe,130974,107,Không,3.34,Thấp,10,Không,2022-02-27,Xuân,Đồi núi,Nhiệt đới,33
+Chích chòe,131138,63,Có,1.07,Trung bình,10,Không,2022-03-06,Thu,Đồng bằng,Ôn đới,40
+Chích chòe,131302,13,Một phần,3.57,Trung bình,1,Không,2022-03-13,Xuân,Đồng bằng,Rừng ngập mặn,45
+Chích chòe,131466,380,Một phần,1.18,Thấp,3,Không,2022-03-20,Xuân,Đồi núi,Nhiệt đới,5
+Chích chòe,131630,197,Một phần,4.27,Cao,1,Không,2022-03-27,Hạ,Trung du,Rừng ngập mặn,38
+Chích chòe,131794,470,Một phần,2.68,Thấp,1,Không,2022-04-03,Thu,Đồng bằng,Ôn đới,26
+Chích chòe,131959,102,Không,3.62,Cao,7,Không,2022-04-10,Hạ,Đồng bằng,Ôn đới,55
+Chích chòe,132124,482,Có,2.87,Trung bình,9,Không,2022-04-17,Xuân,Trung du,Nhiệt đới,55
+Chích chòe,132289,400,Có,2.44,Thấp,2,Không,2022-04-24,Đông,Đồng bằng,Nhiệt đới,93
+Chích chòe,132455,147,Có,1.22,Trung bình,3,Không,2022-05-01,Xuân,Đồi núi,Nhiệt đới,51
+Chích chòe,132620,245,Không,2.48,Trung bình,6,Không,2022-05-08,Thu,Đồng bằng,Ôn đới,50
+Chích chòe,132786,279,Không,4.83,Cao,3,Không,2022-05-15,Thu,Đồi núi,Rừng ngập mặn,44
+Chích chòe,132952,181,Không,1.07,Thấp,1,Không,2022-05-22,Thu,Đồng bằng,Ôn đới,7
+Chích chòe,133118,167,Không,4.14,Thấp,9,Không,2022-05-29,Hạ,Đồi núi,Ôn đới,56
+Chích chòe,133285,177,Không,1.19,Cao,5,Không,2022-06-05,Hạ,Trung du,Rừng ngập mặn,17
+Chích chòe,133451,230,Không,4.36,Trung bình,5,Không,2022-06-12,Xuân,Đồng bằng,Rừng ngập mặn,6
+Chích chòe,133618,461,Không,4.32,Trung bình,1,Không,2022-06-19,Xuân,Trung du,Nhiệt đới,77
+Chích chòe,133785,127,Có,2.18,Trung bình,4,Không,2022-06-26,Xuân,Đồng bằng,Rừng ngập mặn,86
+Chích chòe,126349,100,Một phần,3.5,Trung bình,4,Không,2022-07-03,Xuân,Đồng bằng,Nhiệt đới,67
+Chích chòe,126476,36,Có,4.59,Thấp,3,Không,2022-07-10,Xuân,Đồng bằng,Ôn đới,58
+Chích chòe,126602,233,Có,3.7,Thấp,9,Không,2022-07-17,Thu,Đồi núi,Nhiệt đới,78
+Chích chòe,126729,118,Không,1.69,Trung bình,4,Không,2022-07-24,Xuân,Đồi núi,Ôn đới,89
+Chích chòe,126855,18,Không,4.25,Trung bình,4,Không,2022-07-31,Hạ,Trung du,Nhiệt đới,44
+Chích chòe,126982,259,Một phần,1.62,Trung bình,6,Không,2022-08-07,Xuân,Trung du,Ôn đới,31
+Chích chòe,127109,388,Có,4.55,Thấp,10,Không,2022-08-14,Hạ,Đồi núi,Rừng ngập mặn,44
+Chích chòe,127236,390,Có,2.22,Thấp,7,Không,2022-08-21,Đông,Đồng bằng,Ôn đới,18
+Chích chòe,127364,316,Có,1.11,Trung bình,1,Không,2022-08-28,Thu,Trung du,Nhiệt đới,100
+Chích chòe,127491,435,Không,2.69,Trung bình,4,Không,2022-09-04,Đông,Trung du,Nhiệt đới,59
+Chích chòe,127618,454,Một phần,1.87,Cao,3,Không,2022-09-11,Thu,Trung du,Ôn đới,58
+Chích chòe,127746,130,Một phần,4.58,Cao,7,Không,2022-09-18,Xuân,Đồng bằng,Nhiệt đới,80
+Chích chòe,127874,257,Không,1.2,Thấp,4,Không,2022-09-25,Xuân,Đồng bằng,Rừng ngập mặn,16
+Chích chòe,128002,268,Một phần,1.42,Thấp,1,Không,2022-10-02,Hạ,Đồi núi,Nhiệt đới,30
+Chích chòe,128130,219,Một phần,1.57,Trung bình,10,Không,2022-10-09,Hạ,Đồng bằng,Rừng ngập mặn,24
+Chích chòe,128258,485,Có,1.91,Cao,4,Không,2022-10-16,Thu,Trung du,Ôn đới,63
+Chích chòe,128386,136,Một phần,2.09,Cao,10,Không,2022-10-23,Xuân,Trung du,Nhiệt đới,37
+Chích chòe,128514,186,Không,1.55,Trung bình,2,Không,2022-10-30,Thu,Trung du,Ôn đới,53
+Chích chòe,128643,378,Có,4.27,Trung bình,6,Không,2022-11-06,Thu,Trung du,Ôn đới,19
+Chích chòe,128772,182,Không,2.65,Cao,8,Không,2022-11-13,Đông,Trung du,Nhiệt đới,52
+Chích chòe,128900,419,Một phần,4.8,Thấp,7,Không,2022-11-20,Đông,Đồng bằng,Ôn đới,57
+Chích chòe,129029,190,Một phần,4.16,Trung bình,1,Không,2022-11-27,Xuân,Trung du,Nhiệt đới,61
+Chích chòe,129158,78,Không,2.81,Thấp,5,Không,2022-12-04,Hạ,Trung du,Nhiệt đới,51
+Chích chòe,129287,270,Không,3.9,Cao,6,Không,2022-12-11,Hạ,Trung du,Rừng ngập mặn,79
+Chích chòe,129417,284,Không,4.75,Trung bình,5,Không,2022-12-18,Hạ,Đồng bằng,Nhiệt đới,40
+Chích chòe,129546,228,Có,1.2,Trung bình,2,Không,2022-12-25,Hạ,Đồng bằng,Nhiệt đới,93
+Chích chòe,147654,108,Có,2.71,Cao,8,Không,2023-01-01,Hạ,Trung du,Ôn đới,70
+Chích chòe,147876,463,Không,4.26,Thấp,2,Không,2023-01-08,Hạ,Đồi núi,Ôn đới,67
+Chích chòe,148098,229,Có,4.3,Thấp,1,Không,2023-01-15,Hạ,Trung du,Rừng ngập mặn,56
+Chích chòe,148320,196,Một phần,2.79,Thấp,7,Không,2023-01-22,Đông,Đồng bằng,Nhiệt đới,29
+Chích chòe,148542,490,Một phần,4.49,Thấp,5,Không,2023-01-29,Xuân,Đồng bằng,Ôn đới,63
+Chích chòe,148765,384,Một phần,1.14,Thấp,5,Không,2023-02-05,Thu,Đồi núi,Rừng ngập mặn,99
+Chích chòe,148988,177,Một phần,2.12,Cao,3,Không,2023-02-12,Đông,Đồng bằng,Ôn đới,47
+Chích chòe,149212,454,Một phần,2.47,Thấp,1,Không,2023-02-19,Hạ,Trung du,Ôn đới,71
+Chích chòe,149436,417,Một phần,2.85,Thấp,5,Không,2023-02-26,Hạ,Trung du,Nhiệt đới,93
+Chích chòe,149660,149,Không,1.05,Thấp,2,Không,2023-03-05,Thu,Trung du,Nhiệt đới,69
+Chích chòe,149884,222,Có,4.18,Thấp,6,Không,2023-03-12,Đông,Trung du,Rừng ngập mặn,46
+Chích chòe,150109,221,Không,1.4,Trung bình,10,Không,2023-03-19,Thu,Đồi núi,Nhiệt đới,89
+Chích chòe,150334,56,Có,2.0,Trung bình,6,Không,2023-03-26,Hạ,Đồi núi,Rừng ngập mặn,62
+Chích chòe,150560,233,Một phần,4.05,Trung bình,2,Không,2023-04-02,Hạ,Đồng bằng,Rừng ngập mặn,41
+Chích chòe,150786,69,Không,1.16,Thấp,5,Không,2023-04-09,Hạ,Trung du,Ôn đới,14
+Chích chòe,151012,188,Một phần,3.2,Trung bình,2,Không,2023-04-16,Đông,Trung du,Ôn đới,42
+Chích chòe,151238,493,Một phần,2.46,Trung bình,7,Không,2023-04-23,Hạ,Đồng bằng,Nhiệt đới,3
+Chích chòe,151465,339,Một phần,4.13,Cao,6,Không,2023-04-30,Hạ,Trung du,Nhiệt đới,86
+Chích chòe,151692,433,Không,1.39,Cao,3,Không,2023-05-07,Thu,Trung du,Rừng ngập mặn,98
+Chích chòe,151920,488,Một phần,4.56,Cao,1,Không,2023-05-14,Xuân,Đồng bằng,Nhiệt đới,8
+Chích chòe,152148,440,Không,3.37,Cao,10,Không,2023-05-21,Xuân,Đồi núi,Nhiệt đới,83
+Chích chòe,152376,264,Không,2.43,Cao,5,Không,2023-05-28,Hạ,Trung du,Ôn đới,79
+Chích chòe,152605,25,Một phần,1.35,Cao,7,Không,2023-06-04,Đông,Đồng bằng,Rừng ngập mặn,39
+Chích chòe,152833,112,Một phần,3.78,Cao,7,Không,2023-06-11,Thu,Đồi núi,Rừng ngập mặn,6
+Chích chòe,153063,232,Không,1.65,Thấp,1,Không,2023-06-18,Đông,Trung du,Ôn đới,22
+Chích chòe,153292,349,Không,3.12,Thấp,3,Không,2023-06-25,Thu,Đồi núi,Ôn đới,1
+Chích chòe,164882,146,Có,2.93,Cao,10,Không,2023-07-02,Đông,Đồng bằng,Nhiệt đới,44
+Chích chòe,165170,200,Có,3.38,Cao,4,Không,2023-07-09,Thu,Đồi núi,Rừng ngập mặn,35
+Chích chòe,165460,329,Một phần,1.06,Cao,3,Không,2023-07-16,Xuân,Trung du,Rừng ngập mặn,89
+Chích chòe,165749,137,Không,1.39,Cao,4,Không,2023-07-23,Thu,Đồng bằng,Nhiệt đới,9
+Chích chòe,166039,93,Một phần,1.63,Thấp,3,Không,2023-07-30,Hạ,Trung du,Nhiệt đới,99
+Chích chòe,166330,291,Có,1.72,Cao,6,Không,2023-08-06,Xuân,Đồng bằng,Rừng ngập mặn,9
+Chích chòe,166621,112,Một phần,4.41,Trung bình,2,Không,2023-08-13,Hạ,Đồng bằng,Nhiệt đới,78
+Chích chòe,166912,167,Có,1.86,Thấp,7,Không,2023-08-20,Xuân,Đồi núi,Rừng ngập mặn,6
+Chích chòe,167204,299,Có,4.36,Cao,10,Không,2023-08-27,Hạ,Đồng bằng,Ôn đới,16
+Chích chòe,167497,235,Một phần,4.41,Cao,1,Không,2023-09-03,Thu,Đồng bằng,Rừng ngập mặn,50
+Chích chòe,167790,371,Một phần,1.5,Trung bình,7,Không,2023-09-10,Thu,Đồi núi,Rừng ngập mặn,45
+Chích chòe,168084,240,Một phần,3.22,Trung bình,4,Không,2023-09-17,Xuân,Trung du,Ôn đới,61
+Chích chòe,168378,367,Một phần,3.35,Trung bình,5,Không,2023-09-24,Thu,Đồng bằng,Nhiệt đới,9
+Chích chòe,168673,23,Có,4.64,Thấp,7,Không,2023-10-01,Thu,Trung du,Rừng ngập mặn,83
+Chích chòe,168968,119,Không,4.97,Trung bình,1,Không,2023-10-08,Hạ,Trung du,Nhiệt đới,38
+Chích chòe,169264,233,Có,2.83,Cao,2,Không,2023-10-15,Đông,Đồi núi,Rừng ngập mặn,77
+Chích chòe,169560,479,Có,2.79,Thấp,4,Không,2023-10-22,Xuân,Đồi núi,Nhiệt đới,43
+Chích chòe,169856,178,Một phần,1.62,Trung bình,8,Không,2023-10-29,Hạ,Đồng bằng,Ôn đới,63
+Chích chòe,170154,15,Không,3.19,Cao,9,Không,2023-11-05,Hạ,Đồi núi,Ôn đới,52
+Chích chòe,170451,139,Một phần,4.05,Cao,2,Không,2023-11-12,Thu,Trung du,Ôn đới,15
+Chích chòe,170750,227,Không,5.0,Thấp,8,Không,2023-11-19,Xuân,Đồi núi,Rừng ngập mặn,29
+Chích chòe,171049,488,Có,1.24,Thấp,7,Không,2023-11-26,Hạ,Trung du,Ôn đới,95
+Chích chòe,171348,290,Một phần,4.17,Cao,6,Không,2023-12-03,Hạ,Trung du,Nhiệt đới,12
+Chích chòe,171648,460,Có,4.94,Trung bình,1,Không,2023-12-10,Xuân,Đồng bằng,Nhiệt đới,58
+Chích chòe,171948,425,Không,4.58,Thấp,7,Không,2023-12-17,Hạ,Đồng bằng,Ôn đới,79
+Chích chòe,172249,401,Một phần,1.16,Cao,9,Không,2023-12-24,Đông,Đồng bằng,Nhiệt đới,78
+Chích chòe,172551,275,Một phần,1.83,Trung bình,2,Không,2023-12-31,Hạ,Đồng bằng,Rừng ngập mặn,11
+Chích chòe,186894,207,Một phần,3.86,Trung bình,1,Không,2024-01-07,Hạ,Đồi núi,Ôn đới,97
+Chích chòe,187268,336,Không,4.25,Cao,8,Không,2024-01-14,Thu,Đồng bằng,Ôn đới,60
+Chích chòe,187642,109,Không,2.15,Trung bình,4,Không,2024-01-21,Xuân,Đồi núi,Rừng ngập mặn,14
+Chích chòe,188018,66,Không,1.42,Thấp,1,Không,2024-01-28,Xuân,Đồng bằng,Rừng ngập mặn,67
+Chích chòe,188394,305,Không,2.37,Cao,9,Không,2024-02-04,Hạ,Trung du,Ôn đới,95
+Chích chòe,188771,413,Có,1.41,Thấp,8,Không,2024-02-11,Đông,Đồi núi,Nhiệt đới,35
+Chích chòe,189148,134,Không,1.35,Trung bình,8,Không,2024-02-18,Hạ,Đồi núi,Nhiệt đới,27
+Chích chòe,189526,121,Không,1.59,Thấp,4,Không,2024-02-25,Đông,Đồi núi,Rừng ngập mặn,61
+Chích chòe,189905,347,Một phần,3.94,Trung bình,8,Không,2024-03-03,Đông,Đồng bằng,Rừng ngập mặn,55
+Chích chòe,190285,382,Có,4.84,Cao,10,Không,2024-03-10,Đông,Trung du,Rừng ngập mặn,25
+Chích chòe,190666,171,Một phần,4.47,Trung bình,7,Không,2024-03-17,Hạ,Đồi núi,Nhiệt đới,44
+Chích chòe,191047,221,Không,4.19,Trung bình,6,Không,2024-03-24,Đông,Đồng bằng,Ôn đới,46
+Chích chòe,191429,288,Có,1.99,Cao,10,Không,2024-03-31,Thu,Trung du,Nhiệt đới,56
+Chích chòe,191812,109,Có,3.15,Thấp,6,Không,2024-04-07,Hạ,Trung du,Nhiệt đới,16
+Chích chòe,192196,83,Có,3.32,Cao,1,Không,2024-04-14,Thu,Đồng bằng,Nhiệt đới,91
+Chích chòe,192580,264,Một phần,4.57,Cao,5,Không,2024-04-21,Hạ,Trung du,Ôn đới,6
+Chích chòe,192965,339,Không,4.43,Cao,5,Không,2024-04-28,Xuân,Trung du,Nhiệt đới,8
+Chích chòe,193351,344,Không,2.56,Trung bình,9,Không,2024-05-05,Hạ,Đồng bằng,Rừng ngập mặn,53
+Chích chòe,193738,304,Một phần,1.14,Trung bình,8,Không,2024-05-12,Đông,Đồng bằng,Rừng ngập mặn,4
+Chích chòe,194125,89,Không,1.69,Trung bình,6,Không,2024-05-19,Đông,Đồng bằng,Nhiệt đới,72
+Chích chòe,194514,368,Có,3.88,Cao,5,Không,2024-05-26,Thu,Trung du,Ôn đới,39
+Chích chòe,194903,380,Có,4.93,Thấp,4,Không,2024-06-02,Xuân,Trung du,Rừng ngập mặn,45
+Chích chòe,195293,318,Không,2.13,Cao,1,Không,2024-06-09,Xuân,Trung du,Ôn đới,43
+Chích chòe,195683,309,Không,3.1,Thấp,2,Không,2024-06-16,Hạ,Trung du,Rừng ngập mặn,43
+Chích chòe,196074,381,Có,2.8,Cao,10,Không,2024-06-23,Xuân,Trung du,Rừng ngập mặn,51
+Chích chòe,196467,161,Có,4.51,Trung bình,4,Không,2024-06-30,Đông,Đồng bằng,Rừng ngập mặn,51
+Chích chòe,214232,83,Không,1.84,Thấp,7,Không,2024-07-07,Xuân,Trung du,Rừng ngập mặn,6
+Chích chòe,214714,364,Không,3.66,Trung bình,6,Không,2024-07-14,Xuân,Đồng bằng,Ôn đới,9
+Chích chòe,215197,359,Một phần,3.96,Thấp,4,Không,2024-07-21,Hạ,Đồng bằng,Nhiệt đới,85
+Chích chòe,215682,463,Có,4.46,Thấp,2,Không,2024-07-28,Thu,Trung du,Rừng ngập mặn,12
+Chích chòe,216167,441,Có,2.45,Thấp,2,Không,2024-08-04,Xuân,Đồng bằng,Rừng ngập mặn,91
+Chích chòe,216653,43,Có,4.83,Thấp,1,Không,2024-08-11,Xuân,Trung du,Nhiệt đới,37
+Chích chòe,217141,241,Không,4.3,Cao,8,Không,2024-08-18,Thu,Đồng bằng,Rừng ngập mặn,65
+Chích chòe,217629,359,Không,4.65,Trung bình,2,Không,2024-08-25,Hạ,Đồi núi,Rừng ngập mặn,86
+Chích chòe,218119,485,Một phần,2.74,Thấp,1,Không,2024-09-01,Hạ,Trung du,Ôn đới,45
+Chích chòe,218610,482,Một phần,3.3,Cao,7,Không,2024-09-08,Đông,Đồng bằng,Nhiệt đới,19
+Chích chòe,219102,250,Một phần,1.18,Cao,1,Không,2024-09-15,Hạ,Đồi núi,Ôn đới,44
+Chích chòe,219595,434,Một phần,3.14,Cao,4,Không,2024-09-22,Hạ,Đồng bằng,Nhiệt đới,7
+Chích chòe,220089,13,Có,3.49,Cao,9,Không,2024-09-29,Hạ,Đồng bằng,Nhiệt đới,69
+Chích chòe,220584,60,Một phần,1.57,Cao,2,Không,2024-10-06,Đông,Đồi núi,Rừng ngập mặn,27
+Chích chòe,221080,157,Không,1.27,Cao,3,Không,2024-10-13,Đông,Đồng bằng,Rừng ngập mặn,43
+Chích chòe,221578,376,Một phần,2.37,Cao,3,Không,2024-10-20,Xuân,Trung du,Rừng ngập mặn,48
+Chích chòe,222076,103,Không,1.13,Trung bình,6,Không,2024-10-27,Đông,Đồng bằng,Ôn đới,90
+Chích chòe,222576,115,Có,1.37,Cao,7,Không,2024-11-03,Xuân,Trung du,Ôn đới,52
+Chích chòe,223077,231,Có,3.27,Trung bình,4,Không,2024-11-10,Hạ,Trung du,Ôn đới,41
+Chích chòe,223579,229,Không,3.82,Thấp,4,Không,2024-11-17,Xuân,Trung du,Rừng ngập mặn,20
+Chích chòe,224082,198,Một phần,1.93,Cao,5,Không,2024-11-24,Hạ,Đồng bằng,Ôn đới,59
+Chích chòe,224586,447,Một phần,1.48,Cao,4,Không,2024-12-01,Đông,Đồi núi,Nhiệt đới,100
+Chích chòe,225091,379,Một phần,2.49,Trung bình,6,Không,2024-12-08,Hạ,Đồng bằng,Nhiệt đới,16
+Chích chòe,225598,430,Một phần,3.79,Trung bình,2,Không,2024-12-15,Đông,Đồng bằng,Nhiệt đới,59
+Chích chòe,226105,62,Một phần,1.3,Cao,9,Không,2024-12-22,Thu,Đồng bằng,Nhiệt đới,9
+Chích chòe,226614,197,Một phần,2.82,Trung bình,10,Không,2024-12-29,Thu,Đồi núi,Nhiệt đới,62

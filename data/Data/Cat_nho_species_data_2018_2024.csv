@@ -1,0 +1,366 @@
+Tên loài,Số lượng,Diện tích sinh sống (km²),Di cư,Tỷ lệ sinh sản,Rủi ro săn mồi,Mối đe dọa môi trường,Sách đỏ,Thời gian,Mùa,Vùng,Loại rừng,Đô thị hóa
+Cắt nhỏ bụng vàng,40000,299,Có,1.79,Thấp,1,Không,2018-01-07,Hạ,Đồng bằng,Rừng ngập mặn,66
+Cắt nhỏ bụng vàng,40100,77,Có,3.0,Cao,4,Không,2018-01-14,Hạ,Đồng bằng,Rừng ngập mặn,70
+Cắt nhỏ bụng vàng,40200,47,Có,4.74,Trung bình,4,Không,2018-01-21,Hạ,Đồng bằng,Nhiệt đới,22
+Cắt nhỏ bụng vàng,40300,469,Có,2.66,Thấp,7,Không,2018-01-28,Thu,Trung du,Ôn đới,30
+Cắt nhỏ bụng vàng,40401,333,Có,2.32,Thấp,3,Không,2018-02-04,Hạ,Đồi núi,Nhiệt đới,85
+Cắt nhỏ bụng vàng,40502,265,Một phần,2.0,Thấp,5,Không,2018-02-11,Đông,Đồng bằng,Ôn đới,25
+Cắt nhỏ bụng vàng,40603,44,Một phần,2.59,Trung bình,1,Không,2018-02-18,Thu,Trung du,Nhiệt đới,50
+Cắt nhỏ bụng vàng,40705,402,Không,2.55,Trung bình,9,Không,2018-02-25,Đông,Đồng bằng,Nhiệt đới,11
+Cắt nhỏ bụng vàng,40807,466,Không,2.76,Trung bình,10,Không,2018-03-04,Xuân,Trung du,Ôn đới,64
+Cắt nhỏ bụng vàng,40909,86,Một phần,3.92,Thấp,5,Không,2018-03-11,Xuân,Đồng bằng,Nhiệt đới,62
+Cắt nhỏ bụng vàng,41011,46,Có,1.39,Cao,10,Không,2018-03-18,Đông,Trung du,Ôn đới,16
+Cắt nhỏ bụng vàng,41113,230,Một phần,4.47,Trung bình,5,Không,2018-03-25,Hạ,Trung du,Ôn đới,56
+Cắt nhỏ bụng vàng,41216,272,Không,2.57,Trung bình,7,Không,2018-04-01,Đông,Đồng bằng,Ôn đới,41
+Cắt nhỏ bụng vàng,41319,410,Có,4.02,Thấp,7,Không,2018-04-08,Thu,Đồi núi,Nhiệt đới,70
+Cắt nhỏ bụng vàng,41422,115,Không,1.69,Trung bình,1,Không,2018-04-15,Đông,Đồng bằng,Nhiệt đới,5
+Cắt nhỏ bụng vàng,41526,125,Không,1.25,Cao,2,Không,2018-04-22,Xuân,Đồng bằng,Ôn đới,4
+Cắt nhỏ bụng vàng,41630,160,Có,1.63,Trung bình,1,Không,2018-04-29,Đông,Đồi núi,Ôn đới,81
+Cắt nhỏ bụng vàng,41734,277,Có,2.52,Cao,2,Không,2018-05-06,Xuân,Trung du,Nhiệt đới,28
+Cắt nhỏ bụng vàng,41838,497,Không,2.57,Cao,4,Không,2018-05-13,Xuân,Đồng bằng,Ôn đới,72
+Cắt nhỏ bụng vàng,41943,225,Không,1.71,Trung bình,3,Không,2018-05-20,Đông,Trung du,Ôn đới,79
+Cắt nhỏ bụng vàng,42048,167,Không,2.96,Cao,10,Không,2018-05-27,Đông,Đồi núi,Nhiệt đới,97
+Cắt nhỏ bụng vàng,42153,479,Không,4.67,Thấp,1,Không,2018-06-03,Đông,Trung du,Nhiệt đới,55
+Cắt nhỏ bụng vàng,42258,280,Không,2.87,Trung bình,10,Không,2018-06-10,Hạ,Đồi núi,Rừng ngập mặn,25
+Cắt nhỏ bụng vàng,42364,438,Một phần,1.37,Cao,9,Không,2018-06-17,Đông,Đồi núi,Rừng ngập mặn,65
+Cắt nhỏ bụng vàng,42470,108,Có,3.98,Thấp,8,Không,2018-06-24,Xuân,Đồng bằng,Nhiệt đới,31
+Cắt nhỏ bụng vàng,41268,82,Có,1.93,Trung bình,1,Không,2018-07-01,Thu,Trung du,Nhiệt đới,76
+Cắt nhỏ bụng vàng,41320,264,Có,2.42,Cao,6,Không,2018-07-08,Thu,Đồng bằng,Ôn đới,52
+Cắt nhỏ bụng vàng,41372,290,Không,4.56,Thấp,9,Không,2018-07-15,Thu,Đồng bằng,Nhiệt đới,19
+Cắt nhỏ bụng vàng,41423,461,Có,3.17,Trung bình,6,Không,2018-07-22,Hạ,Trung du,Ôn đới,79
+Cắt nhỏ bụng vàng,41475,192,Có,1.62,Cao,5,Không,2018-07-29,Đông,Đồi núi,Ôn đới,59
+Cắt nhỏ bụng vàng,41527,352,Có,2.11,Trung bình,4,Không,2018-08-05,Xuân,Trung du,Ôn đới,35
+Cắt nhỏ bụng vàng,41579,413,Không,1.76,Thấp,7,Không,2018-08-12,Hạ,Đồng bằng,Nhiệt đới,8
+Cắt nhỏ bụng vàng,41631,406,Không,1.4,Thấp,10,Không,2018-08-19,Hạ,Đồng bằng,Rừng ngập mặn,26
+Cắt nhỏ bụng vàng,41683,107,Không,2.31,Cao,6,Không,2018-08-26,Hạ,Đồng bằng,Ôn đới,39
+Cắt nhỏ bụng vàng,41735,58,Một phần,1.8,Cao,8,Không,2018-09-02,Đông,Đồng bằng,Nhiệt đới,96
+Cắt nhỏ bụng vàng,41787,257,Có,3.47,Trung bình,7,Không,2018-09-09,Xuân,Đồi núi,Ôn đới,8
+Cắt nhỏ bụng vàng,41839,473,Có,2.07,Thấp,8,Không,2018-09-16,Hạ,Đồng bằng,Nhiệt đới,74
+Cắt nhỏ bụng vàng,41892,89,Không,4.34,Trung bình,4,Không,2018-09-23,Đông,Đồng bằng,Rừng ngập mặn,41
+Cắt nhỏ bụng vàng,41944,424,Có,1.77,Trung bình,2,Không,2018-09-30,Xuân,Đồi núi,Rừng ngập mặn,19
+Cắt nhỏ bụng vàng,41997,51,Không,2.2,Trung bình,8,Không,2018-10-07,Đông,Đồi núi,Ôn đới,9
+Cắt nhỏ bụng vàng,42049,338,Một phần,2.7,Thấp,1,Không,2018-10-14,Hạ,Đồi núi,Nhiệt đới,35
+Cắt nhỏ bụng vàng,42102,228,Không,2.89,Trung bình,6,Không,2018-10-21,Đông,Đồng bằng,Rừng ngập mặn,43
+Cắt nhỏ bụng vàng,42154,221,Một phần,1.3,Trung bình,8,Không,2018-10-28,Đông,Đồi núi,Rừng ngập mặn,6
+Cắt nhỏ bụng vàng,42207,52,Một phần,1.39,Cao,6,Không,2018-11-04,Thu,Trung du,Ôn đới,66
+Cắt nhỏ bụng vàng,42260,13,Không,2.41,Thấp,1,Không,2018-11-11,Thu,Đồng bằng,Rừng ngập mặn,31
+Cắt nhỏ bụng vàng,42312,90,Một phần,2.29,Trung bình,9,Không,2018-11-18,Thu,Đồng bằng,Rừng ngập mặn,17
+Cắt nhỏ bụng vàng,42365,20,Không,3.05,Thấp,2,Không,2018-11-25,Thu,Đồi núi,Ôn đới,88
+Cắt nhỏ bụng vàng,42418,176,Có,1.12,Cao,3,Không,2018-12-02,Xuân,Trung du,Rừng ngập mặn,14
+Cắt nhỏ bụng vàng,42471,216,Không,3.9,Trung bình,2,Không,2018-12-09,Xuân,Đồi núi,Rừng ngập mặn,49
+Cắt nhỏ bụng vàng,42524,112,Không,1.05,Thấp,6,Không,2018-12-16,Thu,Đồi núi,Rừng ngập mặn,93
+Cắt nhỏ bụng vàng,42578,273,Một phần,2.42,Trung bình,9,Không,2018-12-23,Đông,Trung du,Rừng ngập mặn,39
+Cắt nhỏ bụng vàng,42631,178,Một phần,2.57,Trung bình,6,Không,2018-12-30,Xuân,Đồi núi,Nhiệt đới,33
+Cắt nhỏ bụng vàng,38469,441,Có,3.33,Thấp,4,Không,2019-01-06,Hạ,Đồng bằng,Nhiệt đới,86
+Cắt nhỏ bụng vàng,38440,94,Không,1.35,Cao,10,Không,2019-01-13,Hạ,Đồng bằng,Ôn đới,89
+Cắt nhỏ bụng vàng,38411,434,Không,1.85,Thấp,1,Không,2019-01-20,Thu,Trung du,Ôn đới,100
+Cắt nhỏ bụng vàng,38382,45,Có,1.44,Thấp,4,Không,2019-01-27,Thu,Trung du,Rừng ngập mặn,77
+Cắt nhỏ bụng vàng,38354,310,Một phần,4.13,Trung bình,9,Không,2019-02-03,Hạ,Đồi núi,Ôn đới,78
+Cắt nhỏ bụng vàng,38325,136,Có,2.23,Thấp,7,Không,2019-02-10,Hạ,Trung du,Rừng ngập mặn,47
+Cắt nhỏ bụng vàng,38296,236,Có,3.57,Thấp,5,Không,2019-02-17,Đông,Trung du,Rừng ngập mặn,77
+Cắt nhỏ bụng vàng,38267,399,Có,4.05,Thấp,8,Không,2019-02-24,Hạ,Đồi núi,Nhiệt đới,34
+Cắt nhỏ bụng vàng,38239,397,Một phần,3.34,Thấp,8,Không,2019-03-03,Xuân,Đồi núi,Rừng ngập mặn,61
+Cắt nhỏ bụng vàng,38210,284,Có,2.03,Trung bình,1,Không,2019-03-10,Đông,Đồng bằng,Ôn đới,3
+Cắt nhỏ bụng vàng,38181,278,Có,4.83,Thấp,3,Không,2019-03-17,Xuân,Đồng bằng,Ôn đới,93
+Cắt nhỏ bụng vàng,38153,65,Có,1.7,Trung bình,3,Không,2019-03-24,Hạ,Trung du,Rừng ngập mặn,20
+Cắt nhỏ bụng vàng,38124,244,Có,2.71,Thấp,10,Không,2019-03-31,Hạ,Trung du,Nhiệt đới,70
+Cắt nhỏ bụng vàng,38096,332,Có,2.32,Thấp,10,Không,2019-04-07,Đông,Đồng bằng,Nhiệt đới,99
+Cắt nhỏ bụng vàng,38067,267,Có,2.83,Thấp,9,Không,2019-04-14,Thu,Đồng bằng,Nhiệt đới,94
+Cắt nhỏ bụng vàng,38038,207,Có,4.18,Thấp,5,Không,2019-04-21,Xuân,Đồng bằng,Rừng ngập mặn,32
+Cắt nhỏ bụng vàng,38010,377,Một phần,4.8,Cao,2,Không,2019-04-28,Xuân,Đồi núi,Rừng ngập mặn,63
+Cắt nhỏ bụng vàng,37981,11,Không,2.65,Cao,9,Không,2019-05-05,Hạ,Đồi núi,Ôn đới,92
+Cắt nhỏ bụng vàng,37953,284,Một phần,3.59,Cao,1,Không,2019-05-12,Thu,Trung du,Rừng ngập mặn,9
+Cắt nhỏ bụng vàng,37924,428,Không,1.92,Cao,5,Không,2019-05-19,Hạ,Trung du,Ôn đới,45
+Cắt nhỏ bụng vàng,37896,137,Có,4.2,Thấp,8,Không,2019-05-26,Thu,Đồng bằng,Nhiệt đới,6
+Cắt nhỏ bụng vàng,37868,441,Có,3.53,Thấp,9,Không,2019-06-02,Hạ,Đồi núi,Rừng ngập mặn,69
+Cắt nhỏ bụng vàng,37839,209,Một phần,1.32,Cao,2,Không,2019-06-09,Đông,Trung du,Ôn đới,96
+Cắt nhỏ bụng vàng,37811,45,Có,1.04,Trung bình,2,Không,2019-06-16,Thu,Trung du,Nhiệt đới,48
+Cắt nhỏ bụng vàng,37782,307,Không,4.66,Thấp,1,Không,2019-06-23,Đông,Đồi núi,Ôn đới,84
+Cắt nhỏ bụng vàng,37754,338,Một phần,4.28,Trung bình,8,Không,2019-06-30,Hạ,Đồi núi,Ôn đới,51
+Cắt nhỏ bụng vàng,36997,393,Một phần,1.9,Thấp,7,Không,2019-07-07,Hạ,Đồi núi,Nhiệt đới,73
+Cắt nhỏ bụng vàng,36960,209,Một phần,3.58,Cao,5,Không,2019-07-14,Hạ,Đồng bằng,Rừng ngập mặn,91
+Cắt nhỏ bụng vàng,36923,289,Một phần,2.41,Thấp,10,Không,2019-07-21,Hạ,Đồng bằng,Ôn đới,60
+Cắt nhỏ bụng vàng,36886,471,Có,3.55,Thấp,7,Không,2019-07-28,Hạ,Đồng bằng,Nhiệt đới,68
+Cắt nhỏ bụng vàng,36849,386,Một phần,3.44,Cao,1,Không,2019-08-04,Xuân,Đồng bằng,Nhiệt đới,44
+Cắt nhỏ bụng vàng,36812,337,Có,1.52,Trung bình,5,Không,2019-08-11,Hạ,Đồi núi,Rừng ngập mặn,87
+Cắt nhỏ bụng vàng,36775,357,Một phần,3.09,Cao,9,Không,2019-08-18,Thu,Trung du,Nhiệt đới,2
+Cắt nhỏ bụng vàng,36738,174,Có,1.75,Trung bình,4,Không,2019-08-25,Hạ,Đồi núi,Rừng ngập mặn,42
+Cắt nhỏ bụng vàng,36702,305,Có,4.58,Cao,5,Không,2019-09-01,Đông,Đồi núi,Ôn đới,29
+Cắt nhỏ bụng vàng,36665,341,Có,1.62,Cao,9,Không,2019-09-08,Hạ,Trung du,Nhiệt đới,85
+Cắt nhỏ bụng vàng,36628,37,Không,1.64,Thấp,6,Không,2019-09-15,Thu,Trung du,Nhiệt đới,93
+Cắt nhỏ bụng vàng,36592,16,Một phần,3.6,Thấp,8,Không,2019-09-22,Đông,Đồi núi,Ôn đới,59
+Cắt nhỏ bụng vàng,36555,51,Có,4.29,Cao,10,Không,2019-09-29,Đông,Trung du,Ôn đới,56
+Cắt nhỏ bụng vàng,36519,138,Một phần,1.42,Thấp,1,Không,2019-10-06,Đông,Đồi núi,Rừng ngập mặn,38
+Cắt nhỏ bụng vàng,36482,123,Có,3.65,Trung bình,6,Không,2019-10-13,Thu,Đồng bằng,Rừng ngập mặn,40
+Cắt nhỏ bụng vàng,36446,169,Có,2.62,Thấp,8,Không,2019-10-20,Xuân,Đồng bằng,Nhiệt đới,59
+Cắt nhỏ bụng vàng,36409,447,Không,1.94,Trung bình,3,Không,2019-10-27,Đông,Trung du,Rừng ngập mặn,79
+Cắt nhỏ bụng vàng,36373,324,Một phần,4.21,Thấp,2,Không,2019-11-03,Thu,Đồi núi,Rừng ngập mặn,53
+Cắt nhỏ bụng vàng,36336,245,Có,2.07,Trung bình,2,Không,2019-11-10,Hạ,Đồi núi,Ôn đới,55
+Cắt nhỏ bụng vàng,36300,63,Có,1.7,Thấp,5,Không,2019-11-17,Hạ,Trung du,Rừng ngập mặn,48
+Cắt nhỏ bụng vàng,36264,412,Không,3.3,Trung bình,10,Không,2019-11-24,Thu,Đồng bằng,Ôn đới,12
+Cắt nhỏ bụng vàng,36227,271,Không,1.12,Thấp,1,Không,2019-12-01,Thu,Trung du,Ôn đới,37
+Cắt nhỏ bụng vàng,36191,260,Một phần,4.69,Trung bình,2,Không,2019-12-08,Hạ,Đồi núi,Rừng ngập mặn,89
+Cắt nhỏ bụng vàng,36155,461,Không,4.04,Thấp,6,Không,2019-12-15,Hạ,Đồi núi,Ôn đới,9
+Cắt nhỏ bụng vàng,36119,41,Không,2.64,Cao,5,Không,2019-12-22,Đông,Trung du,Rừng ngập mặn,79
+Cắt nhỏ bụng vàng,36083,379,Không,1.34,Thấp,9,Không,2019-12-29,Hạ,Trung du,Nhiệt đới,23
+Cắt nhỏ bụng vàng,32481,43,Có,1.45,Thấp,4,Không,2020-01-05,Thu,Đồng bằng,Rừng ngập mặn,2
+Cắt nhỏ bụng vàng,32416,22,Một phần,1.09,Thấp,7,Không,2020-01-12,Thu,Đồi núi,Ôn đới,75
+Cắt nhỏ bụng vàng,32351,320,Không,2.15,Thấp,8,Không,2020-01-19,Hạ,Đồng bằng,Nhiệt đới,60
+Cắt nhỏ bụng vàng,32287,355,Có,3.34,Thấp,6,Không,2020-01-26,Xuân,Đồi núi,Rừng ngập mặn,86
+Cắt nhỏ bụng vàng,32222,120,Không,4.72,Trung bình,3,Không,2020-02-02,Thu,Trung du,Nhiệt đới,31
+Cắt nhỏ bụng vàng,32157,481,Có,4.17,Thấp,7,Không,2020-02-09,Hạ,Đồng bằng,Rừng ngập mặn,66
+Cắt nhỏ bụng vàng,32093,429,Có,4.63,Cao,3,Không,2020-02-16,Hạ,Đồi núi,Nhiệt đới,68
+Cắt nhỏ bụng vàng,32029,420,Có,3.98,Trung bình,6,Không,2020-02-23,Xuân,Trung du,Ôn đới,98
+Cắt nhỏ bụng vàng,31965,79,Một phần,3.03,Trung bình,5,Không,2020-03-01,Hạ,Đồi núi,Rừng ngập mặn,8
+Cắt nhỏ bụng vàng,31901,333,Một phần,1.38,Trung bình,5,Không,2020-03-08,Xuân,Đồng bằng,Rừng ngập mặn,20
+Cắt nhỏ bụng vàng,31837,342,Một phần,3.84,Trung bình,6,Không,2020-03-15,Xuân,Đồi núi,Ôn đới,20
+Cắt nhỏ bụng vàng,31774,466,Một phần,4.38,Cao,10,Không,2020-03-22,Hạ,Đồi núi,Ôn đới,31
+Cắt nhỏ bụng vàng,31710,495,Có,1.44,Cao,3,Không,2020-03-29,Xuân,Đồng bằng,Nhiệt đới,31
+Cắt nhỏ bụng vàng,31647,45,Không,3.56,Cao,1,Không,2020-04-05,Đông,Đồi núi,Rừng ngập mặn,65
+Cắt nhỏ bụng vàng,31583,317,Có,1.88,Cao,9,Không,2020-04-12,Hạ,Trung du,Rừng ngập mặn,42
+Cắt nhỏ bụng vàng,31520,398,Không,3.61,Cao,10,Không,2020-04-19,Hạ,Đồng bằng,Nhiệt đới,97
+Cắt nhỏ bụng vàng,31457,368,Một phần,1.37,Thấp,4,Không,2020-04-26,Xuân,Trung du,Ôn đới,54
+Cắt nhỏ bụng vàng,31394,57,Không,1.93,Trung bình,5,Không,2020-05-03,Hạ,Trung du,Ôn đới,65
+Cắt nhỏ bụng vàng,31331,131,Có,4.02,Trung bình,2,Không,2020-05-10,Thu,Đồi núi,Rừng ngập mặn,2
+Cắt nhỏ bụng vàng,31269,24,Có,2.59,Trung bình,6,Không,2020-05-17,Thu,Đồng bằng,Rừng ngập mặn,15
+Cắt nhỏ bụng vàng,31206,346,Có,1.61,Cao,6,Không,2020-05-24,Xuân,Trung du,Ôn đới,52
+Cắt nhỏ bụng vàng,31144,466,Có,2.85,Cao,5,Không,2020-05-31,Xuân,Đồi núi,Nhiệt đới,36
+Cắt nhỏ bụng vàng,31081,179,Có,4.04,Trung bình,4,Không,2020-06-07,Hạ,Trung du,Ôn đới,20
+Cắt nhỏ bụng vàng,31019,307,Có,5.0,Cao,9,Không,2020-06-14,Thu,Đồng bằng,Nhiệt đới,8
+Cắt nhỏ bụng vàng,30957,182,Có,1.05,Cao,10,Không,2020-06-21,Thu,Đồng bằng,Nhiệt đới,52
+Cắt nhỏ bụng vàng,30895,285,Có,1.36,Cao,2,Không,2020-06-28,Thu,Trung du,Rừng ngập mặn,25
+Cắt nhỏ bụng vàng,37482,248,Một phần,2.55,Trung bình,10,Không,2020-07-05,Xuân,Đồi núi,Rừng ngập mặn,1
+Cắt nhỏ bụng vàng,37463,116,Một phần,4.55,Cao,4,Không,2020-07-12,Đông,Trung du,Rừng ngập mặn,60
+Cắt nhỏ bụng vàng,37444,93,Một phần,2.47,Cao,2,Không,2020-07-19,Hạ,Trung du,Ôn đới,25
+Cắt nhỏ bụng vàng,37425,281,Một phần,3.12,Thấp,8,Không,2020-07-26,Hạ,Đồng bằng,Nhiệt đới,13
+Cắt nhỏ bụng vàng,37407,466,Một phần,4.25,Thấp,4,Không,2020-08-02,Hạ,Đồi núi,Rừng ngập mặn,22
+Cắt nhỏ bụng vàng,37388,25,Có,1.62,Trung bình,3,Không,2020-08-09,Xuân,Đồi núi,Rừng ngập mặn,41
+Cắt nhỏ bụng vàng,37369,51,Một phần,4.11,Thấp,7,Không,2020-08-16,Xuân,Đồng bằng,Ôn đới,45
+Cắt nhỏ bụng vàng,37351,304,Một phần,3.2,Trung bình,2,Không,2020-08-23,Thu,Đồng bằng,Rừng ngập mặn,75
+Cắt nhỏ bụng vàng,37332,159,Không,2.59,Cao,5,Không,2020-08-30,Thu,Đồng bằng,Rừng ngập mặn,30
+Cắt nhỏ bụng vàng,37313,35,Không,2.72,Thấp,7,Không,2020-09-06,Hạ,Đồng bằng,Rừng ngập mặn,85
+Cắt nhỏ bụng vàng,37295,35,Có,4.17,Cao,4,Không,2020-09-13,Đông,Trung du,Ôn đới,77
+Cắt nhỏ bụng vàng,37276,386,Có,2.42,Thấp,7,Không,2020-09-20,Thu,Đồi núi,Nhiệt đới,77
+Cắt nhỏ bụng vàng,37257,125,Có,1.38,Trung bình,1,Không,2020-09-27,Xuân,Trung du,Rừng ngập mặn,43
+Cắt nhỏ bụng vàng,37239,160,Một phần,2.7,Trung bình,7,Không,2020-10-04,Đông,Trung du,Nhiệt đới,72
+Cắt nhỏ bụng vàng,37220,88,Một phần,4.8,Thấp,1,Không,2020-10-11,Hạ,Đồng bằng,Nhiệt đới,31
+Cắt nhỏ bụng vàng,37201,140,Có,3.79,Trung bình,5,Không,2020-10-18,Thu,Trung du,Nhiệt đới,90
+Cắt nhỏ bụng vàng,37183,220,Có,2.88,Cao,1,Không,2020-10-25,Đông,Trung du,Ôn đới,61
+Cắt nhỏ bụng vàng,37164,43,Một phần,3.65,Trung bình,7,Không,2020-11-01,Thu,Đồng bằng,Rừng ngập mặn,6
+Cắt nhỏ bụng vàng,37146,160,Một phần,3.36,Trung bình,7,Không,2020-11-08,Thu,Trung du,Nhiệt đới,15
+Cắt nhỏ bụng vàng,37127,134,Có,4.48,Thấp,3,Không,2020-11-15,Thu,Đồng bằng,Ôn đới,96
+Cắt nhỏ bụng vàng,37109,461,Không,2.63,Trung bình,2,Không,2020-11-22,Đông,Trung du,Rừng ngập mặn,35
+Cắt nhỏ bụng vàng,37090,376,Không,4.63,Cao,4,Không,2020-11-29,Xuân,Đồng bằng,Ôn đới,100
+Cắt nhỏ bụng vàng,37071,47,Không,1.66,Cao,7,Không,2020-12-06,Thu,Đồng bằng,Ôn đới,68
+Cắt nhỏ bụng vàng,37053,478,Một phần,2.44,Cao,5,Không,2020-12-13,Đông,Trung du,Ôn đới,24
+Cắt nhỏ bụng vàng,37034,253,Có,4.65,Thấp,4,Không,2020-12-20,Xuân,Đồi núi,Ôn đới,77
+Cắt nhỏ bụng vàng,37016,29,Có,4.57,Cao,5,Không,2020-12-27,Thu,Đồi núi,Ôn đới,49
+Cắt nhỏ bụng vàng,28703,268,Không,4.38,Cao,9,Không,2021-01-03,Đông,Trung du,Ôn đới,95
+Cắt nhỏ bụng vàng,28642,85,Một phần,4.55,Thấp,9,Không,2021-01-10,Đông,Trung du,Rừng ngập mặn,81
+Cắt nhỏ bụng vàng,28581,275,Không,2.76,Thấp,1,Không,2021-01-17,Thu,Đồng bằng,Nhiệt đới,63
+Cắt nhỏ bụng vàng,28521,297,Không,3.45,Trung bình,1,Không,2021-01-24,Hạ,Đồi núi,Rừng ngập mặn,85
+Cắt nhỏ bụng vàng,28460,423,Có,1.24,Cao,3,Không,2021-01-31,Thu,Đồi núi,Ôn đới,5
+Cắt nhỏ bụng vàng,28400,79,Có,1.87,Thấp,8,Không,2021-02-07,Thu,Đồng bằng,Rừng ngập mặn,8
+Cắt nhỏ bụng vàng,28339,354,Có,3.61,Thấp,3,Không,2021-02-14,Thu,Trung du,Ôn đới,36
+Cắt nhỏ bụng vàng,28279,150,Một phần,2.43,Cao,3,Không,2021-02-21,Đông,Trung du,Ôn đới,68
+Cắt nhỏ bụng vàng,28219,85,Một phần,4.26,Trung bình,7,Không,2021-02-28,Xuân,Trung du,Nhiệt đới,52
+Cắt nhỏ bụng vàng,28159,366,Một phần,2.52,Trung bình,3,Không,2021-03-07,Đông,Trung du,Nhiệt đới,68
+Cắt nhỏ bụng vàng,28099,378,Không,3.32,Cao,2,Không,2021-03-14,Hạ,Đồng bằng,Ôn đới,84
+Cắt nhỏ bụng vàng,28039,490,Có,4.78,Thấp,9,Không,2021-03-21,Xuân,Đồng bằng,Rừng ngập mặn,75
+Cắt nhỏ bụng vàng,27980,419,Một phần,4.13,Thấp,4,Không,2021-03-28,Hạ,Trung du,Ôn đới,95
+Cắt nhỏ bụng vàng,27920,281,Không,2.36,Trung bình,1,Không,2021-04-04,Đông,Đồng bằng,Ôn đới,47
+Cắt nhỏ bụng vàng,27861,472,Có,2.43,Cao,5,Không,2021-04-11,Đông,Đồi núi,Nhiệt đới,45
+Cắt nhỏ bụng vàng,27802,76,Có,4.45,Trung bình,8,Không,2021-04-18,Thu,Đồi núi,Ôn đới,13
+Cắt nhỏ bụng vàng,27743,272,Có,4.43,Cao,8,Không,2021-04-25,Đông,Đồng bằng,Ôn đới,59
+Cắt nhỏ bụng vàng,27684,62,Không,4.2,Trung bình,9,Không,2021-05-02,Thu,Đồng bằng,Nhiệt đới,2
+Cắt nhỏ bụng vàng,27625,76,Có,1.41,Trung bình,7,Không,2021-05-09,Hạ,Trung du,Nhiệt đới,53
+Cắt nhỏ bụng vàng,27566,130,Không,1.09,Cao,3,Không,2021-05-16,Thu,Đồi núi,Nhiệt đới,81
+Cắt nhỏ bụng vàng,27508,215,Một phần,1.53,Cao,8,Không,2021-05-23,Đông,Đồng bằng,Rừng ngập mặn,45
+Cắt nhỏ bụng vàng,27449,371,Một phần,2.08,Trung bình,9,Không,2021-05-30,Thu,Đồng bằng,Ôn đới,83
+Cắt nhỏ bụng vàng,27391,372,Có,3.94,Thấp,5,Không,2021-06-06,Hạ,Trung du,Rừng ngập mặn,78
+Cắt nhỏ bụng vàng,27333,368,Không,3.34,Trung bình,8,Không,2021-06-13,Xuân,Đồng bằng,Nhiệt đới,89
+Cắt nhỏ bụng vàng,27275,40,Không,4.36,Cao,5,Không,2021-06-20,Xuân,Trung du,Nhiệt đới,17
+Cắt nhỏ bụng vàng,27217,356,Có,2.34,Thấp,1,Không,2021-06-27,Xuân,Đồng bằng,Rừng ngập mặn,74
+Cắt nhỏ bụng vàng,31856,198,Một phần,1.65,Thấp,4,Không,2021-07-04,Xuân,Trung du,Ôn đới,33
+Cắt nhỏ bụng vàng,31816,131,Không,2.23,Trung bình,5,Không,2021-07-11,Thu,Đồi núi,Ôn đới,68
+Cắt nhỏ bụng vàng,31776,422,Có,2.84,Thấp,7,Không,2021-07-18,Thu,Đồi núi,Rừng ngập mặn,21
+Cắt nhỏ bụng vàng,31737,435,Một phần,4.01,Thấp,1,Không,2021-07-25,Đông,Đồng bằng,Ôn đới,53
+Cắt nhỏ bụng vàng,31697,208,Có,3.34,Thấp,6,Không,2021-08-01,Thu,Đồng bằng,Rừng ngập mặn,40
+Cắt nhỏ bụng vàng,31657,316,Không,4.81,Thấp,2,Không,2021-08-08,Hạ,Đồi núi,Ôn đới,87
+Cắt nhỏ bụng vàng,31618,219,Có,1.45,Thấp,1,Không,2021-08-15,Đông,Đồng bằng,Ôn đới,50
+Cắt nhỏ bụng vàng,31578,401,Có,3.35,Thấp,4,Không,2021-08-22,Xuân,Đồi núi,Nhiệt đới,40
+Cắt nhỏ bụng vàng,31539,50,Không,4.64,Cao,4,Không,2021-08-29,Đông,Đồng bằng,Nhiệt đới,83
+Cắt nhỏ bụng vàng,31499,276,Có,3.24,Trung bình,6,Không,2021-09-05,Hạ,Đồi núi,Nhiệt đới,95
+Cắt nhỏ bụng vàng,31460,94,Không,4.94,Trung bình,5,Không,2021-09-12,Đông,Đồng bằng,Nhiệt đới,25
+Cắt nhỏ bụng vàng,31421,397,Một phần,3.8,Cao,6,Không,2021-09-19,Đông,Trung du,Rừng ngập mặn,26
+Cắt nhỏ bụng vàng,31381,394,Có,2.5,Trung bình,9,Không,2021-09-26,Xuân,Đồi núi,Rừng ngập mặn,14
+Cắt nhỏ bụng vàng,31342,331,Không,3.1,Cao,1,Không,2021-10-03,Hạ,Đồi núi,Nhiệt đới,84
+Cắt nhỏ bụng vàng,31303,72,Không,3.07,Trung bình,3,Không,2021-10-10,Đông,Trung du,Rừng ngập mặn,6
+Cắt nhỏ bụng vàng,31264,57,Không,4.87,Cao,8,Không,2021-10-17,Xuân,Đồi núi,Nhiệt đới,12
+Cắt nhỏ bụng vàng,31225,209,Một phần,4.7,Trung bình,5,Không,2021-10-24,Xuân,Đồi núi,Ôn đới,82
+Cắt nhỏ bụng vàng,31186,368,Có,4.59,Cao,2,Không,2021-10-31,Thu,Đồi núi,Nhiệt đới,9
+Cắt nhỏ bụng vàng,31147,392,Không,3.33,Cao,2,Không,2021-11-07,Xuân,Trung du,Nhiệt đới,72
+Cắt nhỏ bụng vàng,31108,337,Không,2.84,Thấp,10,Không,2021-11-14,Hạ,Đồng bằng,Rừng ngập mặn,4
+Cắt nhỏ bụng vàng,31069,279,Có,2.74,Thấp,6,Không,2021-11-21,Thu,Đồng bằng,Ôn đới,80
+Cắt nhỏ bụng vàng,31030,29,Có,1.91,Cao,2,Không,2021-11-28,Thu,Đồng bằng,Ôn đới,28
+Cắt nhỏ bụng vàng,30991,200,Có,2.38,Trung bình,9,Không,2021-12-05,Thu,Trung du,Ôn đới,85
+Cắt nhỏ bụng vàng,30952,295,Có,3.23,Cao,3,Không,2021-12-12,Xuân,Đồng bằng,Ôn đới,43
+Cắt nhỏ bụng vàng,30914,465,Không,3.37,Cao,8,Không,2021-12-19,Thu,Đồi núi,Ôn đới,6
+Cắt nhỏ bụng vàng,30875,160,Không,2.19,Trung bình,4,Không,2021-12-26,Hạ,Đồi núi,Rừng ngập mặn,52
+Cắt nhỏ bụng vàng,27786,206,Có,4.24,Trung bình,1,Không,2022-01-02,Hạ,Đồng bằng,Nhiệt đới,60
+Cắt nhỏ bụng vàng,27738,434,Có,3.62,Cao,9,Không,2022-01-09,Hạ,Đồng bằng,Ôn đới,12
+Cắt nhỏ bụng vàng,27689,267,Có,4.27,Thấp,4,Không,2022-01-16,Đông,Đồng bằng,Ôn đới,65
+Cắt nhỏ bụng vàng,27641,225,Không,2.61,Trung bình,9,Không,2022-01-23,Thu,Đồng bằng,Nhiệt đới,45
+Cắt nhỏ bụng vàng,27592,42,Một phần,3.54,Cao,5,Không,2022-01-30,Đông,Trung du,Ôn đới,100
+Cắt nhỏ bụng vàng,27544,79,Không,1.32,Cao,8,Không,2022-02-06,Thu,Đồng bằng,Nhiệt đới,58
+Cắt nhỏ bụng vàng,27496,17,Có,3.47,Thấp,4,Không,2022-02-13,Xuân,Trung du,Ôn đới,64
+Cắt nhỏ bụng vàng,27448,329,Không,3.71,Thấp,5,Không,2022-02-20,Hạ,Trung du,Ôn đới,59
+Cắt nhỏ bụng vàng,27400,393,Một phần,3.07,Trung bình,7,Không,2022-02-27,Thu,Trung du,Nhiệt đới,82
+Cắt nhỏ bụng vàng,27352,176,Có,3.32,Thấp,7,Không,2022-03-06,Xuân,Đồng bằng,Ôn đới,14
+Cắt nhỏ bụng vàng,27304,352,Có,3.01,Trung bình,9,Không,2022-03-13,Đông,Đồi núi,Nhiệt đới,45
+Cắt nhỏ bụng vàng,27256,97,Có,3.41,Thấp,3,Không,2022-03-20,Thu,Trung du,Rừng ngập mặn,59
+Cắt nhỏ bụng vàng,27208,193,Không,3.56,Trung bình,1,Không,2022-03-27,Thu,Đồi núi,Rừng ngập mặn,13
+Cắt nhỏ bụng vàng,27161,425,Không,2.02,Cao,1,Không,2022-04-03,Xuân,Trung du,Nhiệt đới,58
+Cắt nhỏ bụng vàng,27113,201,Có,4.4,Trung bình,5,Không,2022-04-10,Xuân,Trung du,Nhiệt đới,0
+Cắt nhỏ bụng vàng,27066,489,Có,1.09,Trung bình,2,Không,2022-04-17,Đông,Đồi núi,Ôn đới,29
+Cắt nhỏ bụng vàng,27018,237,Có,4.94,Trung bình,7,Không,2022-04-24,Xuân,Đồng bằng,Ôn đới,5
+Cắt nhỏ bụng vàng,26971,125,Không,4.72,Trung bình,10,Không,2022-05-01,Xuân,Đồng bằng,Nhiệt đới,100
+Cắt nhỏ bụng vàng,26924,220,Không,1.03,Thấp,3,Không,2022-05-08,Thu,Trung du,Ôn đới,50
+Cắt nhỏ bụng vàng,26877,335,Có,2.92,Trung bình,3,Không,2022-05-15,Hạ,Đồng bằng,Rừng ngập mặn,81
+Cắt nhỏ bụng vàng,26830,358,Có,4.99,Cao,2,Không,2022-05-22,Thu,Đồi núi,Rừng ngập mặn,93
+Cắt nhỏ bụng vàng,26783,382,Không,1.58,Thấp,9,Không,2022-05-29,Xuân,Đồng bằng,Nhiệt đới,67
+Cắt nhỏ bụng vàng,26736,80,Có,2.87,Cao,6,Không,2022-06-05,Xuân,Đồi núi,Ôn đới,76
+Cắt nhỏ bụng vàng,26689,417,Một phần,2.62,Cao,7,Không,2022-06-12,Xuân,Đồng bằng,Ôn đới,8
+Cắt nhỏ bụng vàng,26642,421,Một phần,2.99,Trung bình,9,Không,2022-06-19,Thu,Đồi núi,Nhiệt đới,68
+Cắt nhỏ bụng vàng,26596,36,Có,3.86,Trung bình,3,Không,2022-06-26,Hạ,Đồi núi,Nhiệt đới,22
+Cắt nhỏ bụng vàng,33559,79,Có,1.82,Thấp,5,Không,2022-07-03,Thu,Đồi núi,Ôn đới,67
+Cắt nhỏ bụng vàng,33534,475,Không,3.11,Trung bình,2,Không,2022-07-10,Thu,Trung du,Nhiệt đới,98
+Cắt nhỏ bụng vàng,33508,421,Không,1.27,Cao,4,Không,2022-07-17,Thu,Trung du,Nhiệt đới,89
+Cắt nhỏ bụng vàng,33483,469,Một phần,4.47,Cao,6,Không,2022-07-24,Hạ,Đồi núi,Nhiệt đới,55
+Cắt nhỏ bụng vàng,33458,97,Có,2.12,Thấp,4,Không,2022-07-31,Xuân,Đồi núi,Ôn đới,6
+Cắt nhỏ bụng vàng,33433,25,Không,3.3,Trung bình,6,Không,2022-08-07,Thu,Trung du,Nhiệt đới,92
+Cắt nhỏ bụng vàng,33408,157,Một phần,2.52,Trung bình,8,Không,2022-08-14,Xuân,Đồi núi,Rừng ngập mặn,78
+Cắt nhỏ bụng vàng,33383,293,Một phần,1.77,Thấp,7,Không,2022-08-21,Xuân,Đồi núi,Nhiệt đới,73
+Cắt nhỏ bụng vàng,33358,378,Có,4.37,Cao,10,Không,2022-08-28,Đông,Đồi núi,Nhiệt đới,62
+Cắt nhỏ bụng vàng,33333,72,Không,1.53,Thấp,5,Không,2022-09-04,Xuân,Đồng bằng,Rừng ngập mặn,5
+Cắt nhỏ bụng vàng,33308,244,Không,3.55,Cao,4,Không,2022-09-11,Hạ,Trung du,Rừng ngập mặn,13
+Cắt nhỏ bụng vàng,33283,34,Không,3.59,Thấp,8,Không,2022-09-18,Thu,Đồi núi,Ôn đới,16
+Cắt nhỏ bụng vàng,33258,404,Không,3.06,Thấp,3,Không,2022-09-25,Đông,Đồi núi,Rừng ngập mặn,71
+Cắt nhỏ bụng vàng,33233,353,Một phần,1.98,Thấp,8,Không,2022-10-02,Đông,Đồng bằng,Nhiệt đới,70
+Cắt nhỏ bụng vàng,33208,129,Một phần,4.99,Thấp,5,Không,2022-10-09,Hạ,Đồng bằng,Ôn đới,90
+Cắt nhỏ bụng vàng,33183,102,Không,4.75,Trung bình,9,Không,2022-10-16,Xuân,Đồi núi,Nhiệt đới,2
+Cắt nhỏ bụng vàng,33158,211,Có,2.63,Cao,5,Không,2022-10-23,Thu,Đồi núi,Ôn đới,30
+Cắt nhỏ bụng vàng,33133,73,Không,2.69,Cao,7,Không,2022-10-30,Đông,Đồi núi,Nhiệt đới,93
+Cắt nhỏ bụng vàng,33109,22,Một phần,2.39,Cao,1,Không,2022-11-06,Đông,Trung du,Nhiệt đới,37
+Cắt nhỏ bụng vàng,33084,490,Có,2.5,Thấp,8,Không,2022-11-13,Đông,Trung du,Rừng ngập mặn,50
+Cắt nhỏ bụng vàng,33059,181,Có,3.02,Thấp,8,Không,2022-11-20,Hạ,Trung du,Nhiệt đới,2
+Cắt nhỏ bụng vàng,33034,460,Một phần,2.77,Cao,10,Không,2022-11-27,Xuân,Đồng bằng,Nhiệt đới,53
+Cắt nhỏ bụng vàng,33009,329,Không,3.57,Trung bình,10,Không,2022-12-04,Hạ,Đồng bằng,Ôn đới,35
+Cắt nhỏ bụng vàng,32985,347,Không,4.06,Thấp,6,Không,2022-12-11,Đông,Đồng bằng,Rừng ngập mặn,4
+Cắt nhỏ bụng vàng,32960,15,Không,3.7,Cao,8,Không,2022-12-18,Hạ,Trung du,Nhiệt đới,23
+Cắt nhỏ bụng vàng,32935,471,Có,1.87,Trung bình,7,Không,2022-12-25,Xuân,Đồng bằng,Rừng ngập mặn,49
+Cắt nhỏ bụng vàng,22269,165,Không,3.22,Thấp,4,Không,2023-01-01,Xuân,Đồi núi,Ôn đới,52
+Cắt nhỏ bụng vàng,22219,199,Không,4.79,Cao,6,Không,2023-01-08,Xuân,Đồng bằng,Rừng ngập mặn,33
+Cắt nhỏ bụng vàng,22169,208,Không,4.97,Thấp,9,Không,2023-01-15,Xuân,Đồng bằng,Nhiệt đới,20
+Cắt nhỏ bụng vàng,22119,246,Một phần,3.28,Thấp,1,Không,2023-01-22,Hạ,Trung du,Ôn đới,76
+Cắt nhỏ bụng vàng,22069,11,Một phần,3.15,Cao,1,Không,2023-01-29,Thu,Đồng bằng,Ôn đới,47
+Cắt nhỏ bụng vàng,22020,323,Có,2.65,Thấp,3,Không,2023-02-05,Xuân,Trung du,Ôn đới,21
+Cắt nhỏ bụng vàng,21970,448,Không,4.21,Thấp,1,Không,2023-02-12,Thu,Đồi núi,Ôn đới,74
+Cắt nhỏ bụng vàng,21921,230,Không,2.87,Cao,4,Không,2023-02-19,Thu,Trung du,Ôn đới,23
+Cắt nhỏ bụng vàng,21871,59,Có,1.43,Trung bình,6,Không,2023-02-26,Đông,Đồng bằng,Rừng ngập mặn,19
+Cắt nhỏ bụng vàng,21822,256,Một phần,4.03,Trung bình,8,Không,2023-03-05,Hạ,Đồng bằng,Rừng ngập mặn,11
+Cắt nhỏ bụng vàng,21773,64,Không,2.08,Thấp,4,Không,2023-03-12,Đông,Đồi núi,Rừng ngập mặn,12
+Cắt nhỏ bụng vàng,21724,364,Một phần,2.59,Thấp,2,Không,2023-03-19,Thu,Trung du,Nhiệt đới,17
+Cắt nhỏ bụng vàng,21675,293,Có,3.98,Cao,7,Không,2023-03-26,Xuân,Đồng bằng,Ôn đới,46
+Cắt nhỏ bụng vàng,21626,173,Một phần,4.48,Cao,1,Không,2023-04-02,Hạ,Đồi núi,Nhiệt đới,76
+Cắt nhỏ bụng vàng,21578,100,Một phần,3.79,Trung bình,10,Không,2023-04-09,Hạ,Trung du,Rừng ngập mặn,93
+Cắt nhỏ bụng vàng,21529,447,Không,3.28,Cao,10,Không,2023-04-16,Xuân,Đồng bằng,Rừng ngập mặn,99
+Cắt nhỏ bụng vàng,21481,41,Có,3.61,Cao,6,Không,2023-04-23,Đông,Đồi núi,Ôn đới,33
+Cắt nhỏ bụng vàng,21432,261,Một phần,1.61,Cao,4,Không,2023-04-30,Thu,Đồng bằng,Ôn đới,86
+Cắt nhỏ bụng vàng,21384,34,Không,4.27,Trung bình,5,Không,2023-05-07,Thu,Đồng bằng,Ôn đới,72
+Cắt nhỏ bụng vàng,21336,221,Không,4.88,Trung bình,6,Không,2023-05-14,Thu,Đồng bằng,Ôn đới,97
+Cắt nhỏ bụng vàng,21288,377,Có,2.68,Thấp,6,Không,2023-05-21,Xuân,Đồi núi,Rừng ngập mặn,100
+Cắt nhỏ bụng vàng,21240,437,Có,1.58,Trung bình,2,Không,2023-05-28,Xuân,Trung du,Ôn đới,25
+Cắt nhỏ bụng vàng,21192,220,Có,3.24,Trung bình,9,Không,2023-06-04,Xuân,Đồng bằng,Rừng ngập mặn,16
+Cắt nhỏ bụng vàng,21145,11,Một phần,2.16,Cao,2,Không,2023-06-11,Thu,Đồi núi,Rừng ngập mặn,72
+Cắt nhỏ bụng vàng,21097,322,Có,4.95,Trung bình,7,Không,2023-06-18,Xuân,Đồng bằng,Nhiệt đới,99
+Cắt nhỏ bụng vàng,21050,251,Có,3.62,Thấp,8,Không,2023-06-25,Thu,Trung du,Nhiệt đới,28
+Cắt nhỏ bụng vàng,21002,84,Một phần,2.24,Trung bình,10,Không,2023-07-02,Hạ,Đồng bằng,Rừng ngập mặn,13
+Cắt nhỏ bụng vàng,20955,271,Có,2.01,Thấp,9,Không,2023-07-09,Xuân,Đồi núi,Nhiệt đới,83
+Cắt nhỏ bụng vàng,20908,100,Không,2.08,Trung bình,8,Không,2023-07-16,Thu,Đồi núi,Ôn đới,48
+Cắt nhỏ bụng vàng,20861,29,Không,3.93,Cao,5,Không,2023-07-23,Hạ,Đồng bằng,Ôn đới,6
+Cắt nhỏ bụng vàng,20814,339,Một phần,1.1,Thấp,9,Không,2023-07-30,Hạ,Trung du,Ôn đới,35
+Cắt nhỏ bụng vàng,20767,444,Một phần,2.97,Trung bình,6,Không,2023-08-06,Thu,Đồi núi,Ôn đới,32
+Cắt nhỏ bụng vàng,20720,108,Không,2.93,Trung bình,2,Không,2023-08-13,Xuân,Đồi núi,Nhiệt đới,57
+Cắt nhỏ bụng vàng,20674,347,Một phần,1.39,Cao,10,Không,2023-08-20,Đông,Trung du,Rừng ngập mặn,40
+Cắt nhỏ bụng vàng,20627,170,Có,3.43,Trung bình,7,Không,2023-08-27,Xuân,Đồng bằng,Ôn đới,54
+Cắt nhỏ bụng vàng,20581,281,Một phần,3.35,Thấp,2,Không,2023-09-03,Hạ,Đồng bằng,Rừng ngập mặn,24
+Cắt nhỏ bụng vàng,20534,425,Có,1.86,Cao,5,Không,2023-09-10,Hạ,Trung du,Ôn đới,96
+Cắt nhỏ bụng vàng,20488,409,Không,4.09,Cao,9,Không,2023-09-17,Đông,Đồng bằng,Nhiệt đới,43
+Cắt nhỏ bụng vàng,20442,159,Không,2.6,Trung bình,7,Không,2023-09-24,Xuân,Đồng bằng,Ôn đới,19
+Cắt nhỏ bụng vàng,20396,251,Không,1.18,Trung bình,8,Không,2023-10-01,Đông,Đồi núi,Rừng ngập mặn,37
+Cắt nhỏ bụng vàng,20350,174,Một phần,4.57,Trung bình,5,Không,2023-10-08,Thu,Đồng bằng,Ôn đới,25
+Cắt nhỏ bụng vàng,20304,68,Có,2.55,Thấp,7,Không,2023-10-15,Hạ,Trung du,Ôn đới,12
+Cắt nhỏ bụng vàng,20259,235,Không,2.04,Thấp,9,Không,2023-10-22,Xuân,Đồi núi,Ôn đới,34
+Cắt nhỏ bụng vàng,20213,126,Có,2.91,Cao,6,Không,2023-10-29,Xuân,Đồng bằng,Rừng ngập mặn,98
+Cắt nhỏ bụng vàng,20168,242,Một phần,1.59,Thấp,4,Không,2023-11-05,Đông,Đồng bằng,Rừng ngập mặn,14
+Cắt nhỏ bụng vàng,20122,25,Không,1.36,Trung bình,4,Không,2023-11-12,Xuân,Trung du,Nhiệt đới,15
+Cắt nhỏ bụng vàng,20077,168,Một phần,1.9,Trung bình,9,Không,2023-11-19,Xuân,Đồi núi,Ôn đới,53
+Cắt nhỏ bụng vàng,20032,257,Một phần,3.57,Cao,7,Không,2023-11-26,Hạ,Trung du,Rừng ngập mặn,61
+Cắt nhỏ bụng vàng,19987,422,Không,1.25,Thấp,1,Không,2023-12-03,Đông,Đồng bằng,Rừng ngập mặn,54
+Cắt nhỏ bụng vàng,19942,261,Một phần,4.79,Cao,10,Không,2023-12-10,Đông,Trung du,Rừng ngập mặn,26
+Cắt nhỏ bụng vàng,19897,465,Một phần,2.08,Cao,1,Không,2023-12-17,Thu,Trung du,Ôn đới,44
+Cắt nhỏ bụng vàng,19852,354,Có,2.96,Trung bình,3,Không,2023-12-24,Đông,Đồi núi,Ôn đới,10
+Cắt nhỏ bụng vàng,19808,62,Có,3.71,Cao,5,Không,2023-12-31,Hạ,Trung du,Ôn đới,69
+Cắt nhỏ bụng vàng,19763,109,Không,1.61,Cao,5,Không,2024-01-07,Thu,Trung du,Ôn đới,19
+Cắt nhỏ bụng vàng,19719,129,Không,1.96,Trung bình,5,Không,2024-01-14,Hạ,Trung du,Nhiệt đới,61
+Cắt nhỏ bụng vàng,19674,490,Một phần,3.68,Cao,2,Không,2024-01-21,Hạ,Đồng bằng,Rừng ngập mặn,99
+Cắt nhỏ bụng vàng,19630,315,Một phần,4.7,Cao,10,Không,2024-01-28,Đông,Đồng bằng,Rừng ngập mặn,24
+Cắt nhỏ bụng vàng,19586,342,Một phần,1.64,Thấp,4,Không,2024-02-04,Đông,Trung du,Rừng ngập mặn,3
+Cắt nhỏ bụng vàng,19542,270,Một phần,1.67,Thấp,8,Không,2024-02-11,Hạ,Đồi núi,Rừng ngập mặn,34
+Cắt nhỏ bụng vàng,19498,247,Có,4.61,Cao,9,Không,2024-02-18,Xuân,Đồi núi,Nhiệt đới,37
+Cắt nhỏ bụng vàng,19454,385,Không,4.54,Thấp,3,Không,2024-02-25,Xuân,Đồi núi,Ôn đới,70
+Cắt nhỏ bụng vàng,19410,440,Một phần,3.96,Trung bình,7,Không,2024-03-03,Xuân,Đồng bằng,Nhiệt đới,15
+Cắt nhỏ bụng vàng,19366,183,Không,5.0,Thấp,9,Không,2024-03-10,Thu,Đồi núi,Rừng ngập mặn,34
+Cắt nhỏ bụng vàng,19323,144,Một phần,3.8,Trung bình,9,Không,2024-03-17,Thu,Trung du,Rừng ngập mặn,0
+Cắt nhỏ bụng vàng,19279,468,Không,3.68,Cao,3,Không,2024-03-24,Hạ,Trung du,Ôn đới,99
+Cắt nhỏ bụng vàng,19236,482,Không,4.92,Thấp,5,Không,2024-03-31,Thu,Trung du,Nhiệt đới,50
+Cắt nhỏ bụng vàng,19193,137,Một phần,2.8,Trung bình,10,Không,2024-04-07,Hạ,Trung du,Ôn đới,78
+Cắt nhỏ bụng vàng,19149,241,Không,1.35,Thấp,4,Không,2024-04-14,Hạ,Đồng bằng,Nhiệt đới,89
+Cắt nhỏ bụng vàng,19106,202,Không,3.27,Cao,9,Không,2024-04-21,Đông,Trung du,Nhiệt đới,27
+Cắt nhỏ bụng vàng,19063,168,Có,2.19,Thấp,4,Không,2024-04-28,Xuân,Đồi núi,Nhiệt đới,57
+Cắt nhỏ bụng vàng,19020,294,Một phần,1.38,Trung bình,9,Không,2024-05-05,Đông,Trung du,Ôn đới,71
+Cắt nhỏ bụng vàng,18978,465,Một phần,2.9,Thấp,3,Không,2024-05-12,Thu,Đồng bằng,Rừng ngập mặn,8
+Cắt nhỏ bụng vàng,18935,260,Có,2.78,Trung bình,3,Không,2024-05-19,Xuân,Đồng bằng,Rừng ngập mặn,23
+Cắt nhỏ bụng vàng,18892,292,Không,4.03,Cao,6,Không,2024-05-26,Hạ,Đồng bằng,Nhiệt đới,36
+Cắt nhỏ bụng vàng,18850,196,Có,3.82,Cao,6,Không,2024-06-02,Đông,Trung du,Ôn đới,31
+Cắt nhỏ bụng vàng,18807,174,Một phần,4.85,Trung bình,8,Không,2024-06-09,Xuân,Đồng bằng,Rừng ngập mặn,74
+Cắt nhỏ bụng vàng,18765,456,Có,3.75,Cao,3,Không,2024-06-16,Xuân,Đồng bằng,Ôn đới,55
+Cắt nhỏ bụng vàng,18723,352,Một phần,1.76,Thấp,4,Không,2024-06-23,Hạ,Trung du,Rừng ngập mặn,20
+Cắt nhỏ bụng vàng,18681,368,Một phần,4.42,Thấp,10,Không,2024-06-30,Hạ,Trung du,Nhiệt đới,82
+Cắt nhỏ bụng vàng,17864,187,Một phần,2.04,Cao,9,Không,2024-07-07,Hạ,Đồi núi,Rừng ngập mặn,45
+Cắt nhỏ bụng vàng,17821,185,Có,4.77,Trung bình,1,Không,2024-07-14,Xuân,Đồi núi,Nhiệt đới,94
+Cắt nhỏ bụng vàng,17779,176,Có,3.85,Trung bình,8,Không,2024-07-21,Thu,Trung du,Nhiệt đới,58
+Cắt nhỏ bụng vàng,17737,429,Có,4.94,Trung bình,5,Không,2024-07-28,Hạ,Đồng bằng,Rừng ngập mặn,41
+Cắt nhỏ bụng vàng,17695,69,Có,1.57,Trung bình,6,Không,2024-08-04,Thu,Trung du,Ôn đới,79
+Cắt nhỏ bụng vàng,17653,34,Không,2.36,Thấp,5,Không,2024-08-11,Xuân,Đồi núi,Rừng ngập mặn,60
+Cắt nhỏ bụng vàng,17611,238,Một phần,3.15,Thấp,3,Không,2024-08-18,Hạ,Trung du,Ôn đới,96
+Cắt nhỏ bụng vàng,17569,361,Có,4.4,Cao,3,Không,2024-08-25,Thu,Đồng bằng,Nhiệt đới,83
+Cắt nhỏ bụng vàng,17527,364,Một phần,1.51,Trung bình,1,Không,2024-09-01,Hạ,Trung du,Nhiệt đới,55
+Cắt nhỏ bụng vàng,17485,310,Có,2.77,Cao,8,Không,2024-09-08,Thu,Trung du,Ôn đới,60
+Cắt nhỏ bụng vàng,17444,497,Không,3.74,Cao,10,Không,2024-09-15,Thu,Trung du,Nhiệt đới,98
+Cắt nhỏ bụng vàng,17402,50,Có,4.56,Trung bình,9,Không,2024-09-22,Hạ,Đồi núi,Rừng ngập mặn,52
+Cắt nhỏ bụng vàng,17361,206,Không,2.24,Thấp,6,Không,2024-09-29,Hạ,Đồi núi,Rừng ngập mặn,21
+Cắt nhỏ bụng vàng,17320,301,Có,4.58,Trung bình,2,Không,2024-10-06,Thu,Đồi núi,Ôn đới,83
+Cắt nhỏ bụng vàng,17279,17,Một phần,1.19,Thấp,8,Không,2024-10-13,Hạ,Trung du,Rừng ngập mặn,73
+Cắt nhỏ bụng vàng,17238,432,Không,1.23,Trung bình,6,Không,2024-10-20,Xuân,Đồi núi,Nhiệt đới,27
+Cắt nhỏ bụng vàng,17197,235,Có,2.71,Thấp,1,Không,2024-10-27,Hạ,Đồi núi,Ôn đới,3
+Cắt nhỏ bụng vàng,17156,468,Có,2.09,Cao,10,Không,2024-11-03,Xuân,Đồi núi,Rừng ngập mặn,23
+Cắt nhỏ bụng vàng,17115,348,Có,2.36,Cao,5,Không,2024-11-10,Thu,Đồi núi,Ôn đới,10
+Cắt nhỏ bụng vàng,17075,29,Có,2.78,Cao,6,Không,2024-11-17,Hạ,Trung du,Rừng ngập mặn,54
+Cắt nhỏ bụng vàng,17034,477,Một phần,2.94,Thấp,7,Không,2024-11-24,Hạ,Đồi núi,Ôn đới,0
+Cắt nhỏ bụng vàng,16994,259,Không,3.64,Trung bình,4,Không,2024-12-01,Đông,Đồng bằng,Rừng ngập mặn,10
+Cắt nhỏ bụng vàng,16953,460,Không,3.78,Cao,5,Không,2024-12-08,Xuân,Trung du,Nhiệt đới,62
+Cắt nhỏ bụng vàng,16913,233,Có,3.01,Thấp,2,Không,2024-12-15,Hạ,Đồi núi,Ôn đới,8
+Cắt nhỏ bụng vàng,16873,431,Có,1.93,Trung bình,2,Không,2024-12-22,Đông,Trung du,Ôn đới,53
+Cắt nhỏ bụng vàng,16833,431,Không,2.65,Thấp,10,Không,2024-12-29,Xuân,Trung du,Rừng ngập mặn,47

@@ -1,0 +1,366 @@
+Tên loài,Số lượng,Diện tích sinh sống (km²),Di cư,Tỷ lệ sinh sản,Rủi ro săn mồi,Mối đe dọa môi trường,Sách đỏ,Thời gian,Mùa,Vùng,Loại rừng,Đô thị hóa
+Yến núi,50000000,290,Không,1.39,Thấp,10,Không,2018-01-07,Xuân,Đồng bằng,Ôn đới,42
+Yến núi,51971315,267,Một phần,1.53,Trung bình,10,Không,2018-01-14,Thu,Đồng bằng,Ôn đới,28
+Yến núi,54745838,484,Có,3.66,Trung bình,10,Không,2018-01-21,Thu,Đồng bằng,Nhiệt đới,41
+Yến núi,53891912,354,Có,1.22,Cao,4,Không,2018-01-28,Hạ,Đồi núi,Rừng ngập mặn,83
+Yến núi,58040841,383,Một phần,3.84,Trung bình,8,Không,2018-02-04,Xuân,Trung du,Ôn đới,65
+Yến núi,58780463,354,Có,2.81,Thấp,4,Không,2018-02-11,Thu,Trung du,Ôn đới,43
+Yến núi,66099971,244,Một phần,4.12,Trung bình,1,Không,2018-02-18,Thu,Đồi núi,Ôn đới,81
+Yến núi,65144068,341,Không,4.28,Thấp,9,Không,2018-02-25,Thu,Đồng bằng,Rừng ngập mặn,31
+Yến núi,68331217,304,Một phần,3.45,Trung bình,9,Không,2018-03-04,Đông,Đồng bằng,Ôn đới,46
+Yến núi,76684523,205,Một phần,3.79,Cao,2,Không,2018-03-11,Thu,Đồng bằng,Ôn đới,42
+Yến núi,71346051,270,Có,2.56,Cao,5,Không,2018-03-18,Xuân,Đồi núi,Nhiệt đới,20
+Yến núi,84121530,65,Không,3.68,Trung bình,3,Không,2018-03-25,Xuân,Đồng bằng,Ôn đới,38
+Yến núi,89753343,225,Một phần,2.17,Trung bình,1,Không,2018-04-01,Thu,Đồng bằng,Ôn đới,23
+Yến núi,69299670,302,Không,2.23,Thấp,4,Không,2018-04-08,Hạ,Đồi núi,Nhiệt đới,94
+Yến núi,75107697,16,Có,1.86,Cao,9,Không,2018-04-15,Xuân,Đồng bằng,Nhiệt đới,50
+Yến núi,98846857,16,Một phần,1.1,Cao,7,Không,2018-04-22,Hạ,Đồi núi,Rừng ngập mặn,44
+Yến núi,81356975,188,Không,2.98,Cao,2,Không,2018-04-29,Đông,Đồng bằng,Ôn đới,55
+Yến núi,114282684,353,Có,2.05,Thấp,7,Không,2018-05-06,Hạ,Đồng bằng,Ôn đới,68
+Yến núi,85792512,303,Một phần,3.63,Thấp,6,Không,2018-05-13,Hạ,Đồng bằng,Nhiệt đới,20
+Yến núi,89140510,276,Không,1.48,Thấp,10,Không,2018-05-20,Thu,Trung du,Ôn đới,18
+Yến núi,92460105,140,Một phần,4.25,Thấp,7,Không,2018-05-27,Xuân,Đồng bằng,Nhiệt đới,35
+Yến núi,129293393,400,Không,2.85,Trung bình,2,Không,2018-06-03,Thu,Trung du,Rừng ngập mặn,56
+Yến núi,96529425,351,Có,4.04,Thấp,3,Không,2018-06-10,Hạ,Đồi núi,Nhiệt đới,65
+Yến núi,103127732,280,Một phần,2.06,Thấp,10,Không,2018-06-17,Hạ,Đồi núi,Nhiệt đới,28
+Yến núi,129668081,427,Có,2.02,Trung bình,2,Không,2018-06-24,Thu,Đồi núi,Ôn đới,43
+Yến núi,154987932,152,Không,1.84,Thấp,3,Không,2018-07-01,Thu,Đồi núi,Nhiệt đới,74
+Yến núi,143355519,53,Không,3.27,Thấp,7,Không,2018-07-08,Xuân,Đồng bằng,Rừng ngập mặn,81
+Yến núi,149568071,483,Không,1.81,Thấp,5,Không,2018-07-15,Đông,Trung du,Ôn đới,16
+Yến núi,114316821,328,Một phần,1.24,Thấp,9,Không,2018-07-22,Đông,Đồng bằng,Nhiệt đới,30
+Yến núi,201338334,159,Một phần,1.09,Trung bình,6,Không,2018-07-29,Hạ,Trung du,Rừng ngập mặn,42
+Yến núi,130719769,407,Có,1.97,Trung bình,2,Không,2018-08-05,Hạ,Đồi núi,Rừng ngập mặn,68
+Yến núi,117280704,404,Không,3.35,Cao,1,Không,2018-08-12,Hạ,Đồi núi,Rừng ngập mặn,7
+Yến núi,113394709,478,Một phần,2.02,Cao,1,Không,2018-08-19,Xuân,Trung du,Nhiệt đới,15
+Yến núi,222788165,245,Có,1.19,Trung bình,7,Không,2018-08-26,Xuân,Đồng bằng,Rừng ngập mặn,77
+Yến núi,121531723,142,Một phần,3.61,Trung bình,5,Không,2018-09-02,Đông,Đồi núi,Ôn đới,86
+Yến núi,226606415,245,Có,4.29,Thấp,3,Không,2018-09-09,Đông,Đồi núi,Rừng ngập mặn,5
+Yến núi,170960824,166,Không,3.32,Thấp,10,Không,2018-09-16,Thu,Trung du,Ôn đới,15
+Yến núi,196658042,21,Không,2.55,Trung bình,4,Không,2018-09-23,Thu,Đồi núi,Nhiệt đới,7
+Yến núi,176002646,159,Một phần,1.23,Thấp,9,Không,2018-09-30,Đông,Trung du,Nhiệt đới,30
+Yến núi,172622942,405,Không,4.99,Thấp,2,Không,2018-10-07,Xuân,Trung du,Rừng ngập mặn,94
+Yến núi,251686289,249,Có,1.44,Trung bình,1,Không,2018-10-14,Thu,Đồng bằng,Rừng ngập mặn,4
+Yến núi,176689284,468,Có,1.04,Cao,5,Không,2018-10-21,Xuân,Trung du,Ôn đới,17
+Yến núi,292124659,377,Một phần,3.58,Cao,9,Không,2018-10-28,Đông,Đồng bằng,Nhiệt đới,73
+Yến núi,282138748,175,Không,3.64,Thấp,4,Không,2018-11-04,Đông,Đồi núi,Rừng ngập mặn,36
+Yến núi,228312026,346,Có,2.8,Trung bình,9,Không,2018-11-11,Hạ,Trung du,Ôn đới,77
+Yến núi,253286222,50,Không,2.82,Trung bình,5,Không,2018-11-18,Đông,Đồng bằng,Rừng ngập mặn,24
+Yến núi,283225624,345,Một phần,1.1,Trung bình,5,Không,2018-11-25,Hạ,Đồi núi,Ôn đới,10
+Yến núi,188117263,104,Không,1.39,Thấp,1,Không,2018-12-02,Xuân,Trung du,Nhiệt đới,63
+Yến núi,330961139,325,Một phần,2.75,Thấp,1,Không,2018-12-09,Thu,Trung du,Nhiệt đới,40
+Yến núi,291829258,231,Một phần,2.81,Cao,1,Không,2018-12-16,Thu,Đồi núi,Nhiệt đới,11
+Yến núi,449005018,369,Không,1.29,Cao,1,Không,2018-12-23,Xuân,Trung du,Rừng ngập mặn,76
+Yến núi,251569651,346,Không,4.98,Cao,10,Không,2018-12-30,Thu,Đồng bằng,Rừng ngập mặn,1
+Yến núi,56932182,488,Một phần,4.79,Trung bình,1,Không,2019-01-06,Đông,Trung du,Rừng ngập mặn,20
+Yến núi,57074512,386,Có,2.66,Cao,8,Không,2019-01-13,Thu,Trung du,Nhiệt đới,70
+Yến núi,57217199,251,Một phần,4.44,Cao,6,Không,2019-01-20,Đông,Đồng bằng,Rừng ngập mặn,91
+Yến núi,57360242,163,Có,4.91,Trung bình,10,Không,2019-01-27,Xuân,Đồi núi,Nhiệt đới,74
+Yến núi,57503642,51,Một phần,2.63,Trung bình,1,Không,2019-02-03,Xuân,Đồng bằng,Nhiệt đới,65
+Yến núi,57647401,79,Không,4.41,Trung bình,6,Không,2019-02-10,Hạ,Đồng bằng,Nhiệt đới,12
+Yến núi,57791520,428,Không,1.2,Trung bình,1,Không,2019-02-17,Đông,Đồi núi,Rừng ngập mặn,88
+Yến núi,57935999,142,Không,2.27,Cao,2,Không,2019-02-24,Hạ,Đồi núi,Rừng ngập mặn,40
+Yến núi,58080839,334,Có,1.26,Trung bình,7,Không,2019-03-03,Thu,Trung du,Ôn đới,12
+Yến núi,58226041,364,Một phần,3.61,Cao,4,Không,2019-03-10,Đông,Đồi núi,Rừng ngập mặn,28
+Yến núi,58371606,386,Có,3.98,Trung bình,3,Không,2019-03-17,Thu,Trung du,Nhiệt đới,59
+Yến núi,58517535,93,Có,4.13,Trung bình,1,Không,2019-03-24,Thu,Đồi núi,Ôn đới,75
+Yến núi,58663829,51,Không,2.33,Trung bình,9,Không,2019-03-31,Thu,Đồng bằng,Nhiệt đới,1
+Yến núi,58810488,239,Không,2.25,Trung bình,10,Không,2019-04-07,Xuân,Trung du,Rừng ngập mặn,26
+Yến núi,58957514,125,Có,4.32,Cao,5,Không,2019-04-14,Xuân,Trung du,Rừng ngập mặn,71
+Yến núi,59104908,13,Có,4.83,Cao,10,Không,2019-04-21,Thu,Đồng bằng,Nhiệt đới,54
+Yến núi,59252670,260,Một phần,1.83,Trung bình,7,Không,2019-04-28,Thu,Đồng bằng,Ôn đới,52
+Yến núi,59400802,45,Không,4.44,Trung bình,10,Không,2019-05-05,Xuân,Đồng bằng,Rừng ngập mặn,41
+Yến núi,59549304,275,Một phần,1.5,Cao,2,Không,2019-05-12,Hạ,Trung du,Nhiệt đới,13
+Yến núi,59698177,71,Không,2.72,Thấp,9,Không,2019-05-19,Hạ,Trung du,Nhiệt đới,48
+Yến núi,59847423,18,Có,2.27,Trung bình,1,Không,2019-05-26,Đông,Trung du,Nhiệt đới,42
+Yến núi,59997041,183,Không,1.94,Thấp,9,Không,2019-06-02,Hạ,Đồng bằng,Nhiệt đới,3
+Yến núi,60147034,346,Có,4.51,Trung bình,4,Không,2019-06-09,Hạ,Đồng bằng,Rừng ngập mặn,60
+Yến núi,60297402,286,Có,2.97,Thấp,10,Không,2019-06-16,Hạ,Đồi núi,Ôn đới,19
+Yến núi,60448145,308,Có,1.73,Thấp,10,Không,2019-06-23,Đông,Đồng bằng,Nhiệt đới,36
+Yến núi,60599265,500,Có,3.02,Trung bình,4,Không,2019-06-30,Đông,Đồi núi,Rừng ngập mặn,42
+Yến núi,60750764,236,Không,4.62,Cao,4,Không,2019-07-07,Xuân,Đồi núi,Ôn đới,14
+Yến núi,60902641,228,Một phần,3.52,Cao,7,Không,2019-07-14,Thu,Trung du,Rừng ngập mặn,5
+Yến núi,61054897,62,Không,3.45,Thấp,8,Không,2019-07-21,Xuân,Đồng bằng,Ôn đới,55
+Yến núi,61207534,438,Không,1.81,Thấp,10,Không,2019-07-28,Xuân,Đồi núi,Ôn đới,24
+Yến núi,61360553,411,Một phần,2.92,Cao,5,Không,2019-08-04,Hạ,Đồng bằng,Nhiệt đới,92
+Yến núi,61513955,267,Có,3.12,Cao,5,Không,2019-08-11,Đông,Trung du,Ôn đới,19
+Yến núi,61667740,261,Có,3.57,Trung bình,6,Không,2019-08-18,Hạ,Đồi núi,Ôn đới,12
+Yến núi,61821909,269,Một phần,4.94,Cao,2,Không,2019-08-25,Đông,Trung du,Ôn đới,94
+Yến núi,61976464,291,Không,1.11,Cao,7,Không,2019-09-01,Thu,Đồi núi,Ôn đới,69
+Yến núi,62131405,434,Có,2.19,Cao,10,Không,2019-09-08,Thu,Đồng bằng,Rừng ngập mặn,77
+Yến núi,62286733,295,Có,1.74,Cao,2,Không,2019-09-15,Xuân,Đồng bằng,Ôn đới,55
+Yến núi,62442450,339,Không,1.18,Trung bình,7,Không,2019-09-22,Hạ,Đồng bằng,Ôn đới,100
+Yến núi,62598556,361,Một phần,2.32,Trung bình,2,Không,2019-09-29,Hạ,Đồi núi,Rừng ngập mặn,79
+Yến núi,62755053,388,Có,4.04,Thấp,10,Không,2019-10-06,Hạ,Đồng bằng,Ôn đới,20
+Yến núi,62911940,463,Một phần,2.08,Trung bình,2,Không,2019-10-13,Hạ,Đồng bằng,Ôn đới,98
+Yến núi,63069220,296,Một phần,2.91,Trung bình,8,Không,2019-10-20,Hạ,Đồng bằng,Rừng ngập mặn,44
+Yến núi,63226893,401,Một phần,4.42,Cao,3,Không,2019-10-27,Đông,Đồi núi,Rừng ngập mặn,28
+Yến núi,63384960,196,Không,2.45,Cao,8,Không,2019-11-03,Đông,Trung du,Ôn đới,70
+Yến núi,63543423,214,Không,3.96,Thấp,4,Không,2019-11-10,Xuân,Đồi núi,Rừng ngập mặn,16
+Yến núi,63702281,128,Không,4.25,Trung bình,4,Không,2019-11-17,Hạ,Đồi núi,Ôn đới,48
+Yến núi,63861537,114,Một phần,2.89,Cao,1,Không,2019-11-24,Xuân,Đồng bằng,Rừng ngập mặn,72
+Yến núi,64021191,18,Không,3.38,Thấp,5,Không,2019-12-01,Thu,Đồng bằng,Rừng ngập mặn,92
+Yến núi,64181244,424,Không,4.57,Trung bình,9,Không,2019-12-08,Đông,Trung du,Rừng ngập mặn,74
+Yến núi,64341697,275,Có,3.57,Cao,10,Không,2019-12-15,Hạ,Trung du,Ôn đới,8
+Yến núi,64502551,215,Một phần,2.33,Trung bình,6,Không,2019-12-22,Hạ,Đồng bằng,Rừng ngập mặn,99
+Yến núi,64663808,238,Có,2.72,Cao,2,Không,2019-12-29,Xuân,Trung du,Ôn đới,98
+Yến núi,64825467,272,Có,3.19,Trung bình,5,Không,2020-01-05,Xuân,Trung du,Ôn đới,38
+Yến núi,64987531,17,Một phần,4.65,Cao,7,Không,2020-01-12,Đông,Trung du,Nhiệt đới,3
+Yến núi,65150000,101,Có,3.43,Cao,9,Không,2020-01-19,Hạ,Đồi núi,Nhiệt đới,76
+Yến núi,65312875,457,Một phần,2.46,Trung bình,7,Không,2020-01-26,Hạ,Đồng bằng,Rừng ngập mặn,11
+Yến núi,65476157,339,Có,4.65,Trung bình,8,Không,2020-02-02,Xuân,Trung du,Ôn đới,36
+Yến núi,65639847,494,Một phần,2.53,Cao,5,Không,2020-02-09,Thu,Đồi núi,Nhiệt đới,23
+Yến núi,65803947,272,Có,2.51,Trung bình,3,Không,2020-02-16,Hạ,Đồi núi,Ôn đới,84
+Yến núi,65968457,158,Có,4.62,Trung bình,5,Không,2020-02-23,Thu,Đồng bằng,Nhiệt đới,53
+Yến núi,66133378,482,Không,3.92,Trung bình,5,Không,2020-03-01,Hạ,Đồng bằng,Ôn đới,62
+Yến núi,66298711,245,Có,3.49,Cao,10,Không,2020-03-08,Xuân,Đồng bằng,Nhiệt đới,7
+Yến núi,66464458,110,Có,2.25,Thấp,5,Không,2020-03-15,Đông,Đồi núi,Nhiệt đới,45
+Yến núi,66630619,314,Một phần,2.8,Cao,10,Không,2020-03-22,Xuân,Đồng bằng,Rừng ngập mặn,23
+Yến núi,66797196,493,Có,1.72,Cao,7,Không,2020-03-29,Đông,Trung du,Nhiệt đới,84
+Yến núi,66964189,188,Không,3.91,Thấp,3,Không,2020-04-05,Xuân,Đồi núi,Ôn đới,74
+Yến núi,67131599,138,Một phần,3.91,Thấp,3,Không,2020-04-12,Hạ,Trung du,Ôn đới,88
+Yến núi,67299428,478,Một phần,2.5,Cao,10,Không,2020-04-19,Xuân,Trung du,Nhiệt đới,51
+Yến núi,67467677,354,Một phần,2.06,Trung bình,5,Không,2020-04-26,Xuân,Đồi núi,Rừng ngập mặn,67
+Yến núi,67636346,100,Không,3.94,Thấp,9,Không,2020-05-03,Thu,Trung du,Ôn đới,87
+Yến núi,67805437,104,Có,1.8,Trung bình,7,Không,2020-05-10,Đông,Đồi núi,Rừng ngập mặn,9
+Yến núi,67974951,16,Có,4.84,Trung bình,1,Không,2020-05-17,Đông,Đồi núi,Rừng ngập mặn,42
+Yến núi,68144888,34,Có,4.22,Thấp,9,Không,2020-05-24,Đông,Đồi núi,Rừng ngập mặn,22
+Yến núi,68315250,173,Một phần,3.83,Trung bình,5,Không,2020-05-31,Thu,Đồi núi,Ôn đới,66
+Yến núi,68486038,345,Một phần,4.54,Trung bình,2,Không,2020-06-07,Hạ,Trung du,Rừng ngập mặn,82
+Yến núi,68657253,366,Một phần,3.51,Thấp,4,Không,2020-06-14,Xuân,Trung du,Ôn đới,15
+Yến núi,68828896,77,Không,3.64,Thấp,9,Không,2020-06-21,Thu,Trung du,Rừng ngập mặn,96
+Yến núi,69000969,98,Không,2.24,Cao,3,Không,2020-06-28,Hạ,Trung du,Rừng ngập mặn,28
+Yến núi,69173471,398,Một phần,3.03,Trung bình,3,Không,2020-07-05,Hạ,Đồng bằng,Ôn đới,98
+Yến núi,69346405,316,Có,3.71,Thấp,10,Không,2020-07-12,Xuân,Trung du,Ôn đới,68
+Yến núi,69519771,495,Có,3.04,Thấp,7,Không,2020-07-19,Xuân,Đồng bằng,Nhiệt đới,28
+Yến núi,69693570,100,Có,4.91,Cao,2,Không,2020-07-26,Đông,Đồi núi,Nhiệt đới,23
+Yến núi,69867804,343,Không,1.62,Trung bình,3,Không,2020-08-02,Thu,Đồi núi,Nhiệt đới,29
+Yến núi,70042474,64,Có,4.9,Cao,4,Không,2020-08-09,Đông,Đồng bằng,Ôn đới,70
+Yến núi,70217580,122,Một phần,2.15,Trung bình,6,Không,2020-08-16,Thu,Đồi núi,Rừng ngập mặn,64
+Yến núi,70393124,211,Một phần,3.01,Trung bình,2,Không,2020-08-23,Thu,Trung du,Nhiệt đới,12
+Yến núi,70569107,127,Không,3.92,Thấp,7,Không,2020-08-30,Thu,Trung du,Ôn đới,44
+Yến núi,70745529,181,Có,3.64,Trung bình,7,Không,2020-09-06,Đông,Đồi núi,Rừng ngập mặn,33
+Yến núi,70922393,327,Một phần,4.08,Thấp,9,Không,2020-09-13,Hạ,Đồng bằng,Nhiệt đới,91
+Yến núi,71099699,371,Không,1.83,Thấp,1,Không,2020-09-20,Xuân,Trung du,Nhiệt đới,25
+Yến núi,71277448,149,Không,2.85,Trung bình,8,Không,2020-09-27,Thu,Đồng bằng,Ôn đới,84
+Yến núi,71455642,73,Một phần,1.25,Trung bình,1,Không,2020-10-04,Đông,Đồi núi,Rừng ngập mặn,19
+Yến núi,71634281,485,Không,2.27,Trung bình,3,Không,2020-10-11,Thu,Đồi núi,Nhiệt đới,71
+Yến núi,71813367,423,Có,2.64,Thấp,5,Không,2020-10-18,Hạ,Đồng bằng,Rừng ngập mặn,84
+Yến núi,71992900,38,Một phần,2.87,Trung bình,6,Không,2020-10-25,Hạ,Trung du,Rừng ngập mặn,86
+Yến núi,72172883,409,Một phần,2.8,Trung bình,1,Không,2020-11-01,Thu,Đồng bằng,Nhiệt đới,77
+Yến núi,72353315,124,Không,4.65,Thấp,8,Không,2020-11-08,Hạ,Đồng bằng,Ôn đới,74
+Yến núi,72534198,343,Có,2.8,Thấp,2,Không,2020-11-15,Hạ,Đồng bằng,Nhiệt đới,31
+Yến núi,72715534,450,Có,1.34,Cao,4,Không,2020-11-22,Đông,Đồi núi,Ôn đới,58
+Yến núi,72897322,254,Một phần,5.0,Trung bình,4,Không,2020-11-29,Xuân,Trung du,Ôn đới,29
+Yến núi,73079566,224,Không,2.66,Trung bình,1,Không,2020-12-06,Hạ,Trung du,Ôn đới,35
+Yến núi,73262265,432,Không,2.89,Cao,10,Không,2020-12-13,Thu,Đồng bằng,Rừng ngập mặn,20
+Yến núi,73445420,386,Không,3.03,Trung bình,7,Không,2020-12-20,Hạ,Đồi núi,Ôn đới,82
+Yến núi,73629034,374,Một phần,4.49,Trung bình,1,Không,2020-12-27,Đông,Trung du,Ôn đới,33
+Yến núi,73813106,15,Một phần,2.45,Trung bình,3,Không,2021-01-03,Hạ,Đồng bằng,Ôn đới,41
+Yến núi,73997639,492,Có,1.31,Thấp,7,Không,2021-01-10,Thu,Đồi núi,Ôn đới,17
+Yến núi,74182633,31,Không,3.11,Thấp,9,Không,2021-01-17,Hạ,Đồi núi,Rừng ngập mặn,33
+Yến núi,74368090,449,Có,4.69,Thấp,7,Không,2021-01-24,Đông,Trung du,Ôn đới,67
+Yến núi,74554010,341,Có,2.58,Trung bình,4,Không,2021-01-31,Đông,Trung du,Nhiệt đới,92
+Yến núi,74740395,334,Có,2.8,Thấp,2,Không,2021-02-07,Xuân,Đồng bằng,Ôn đới,14
+Yến núi,74927246,189,Một phần,3.79,Trung bình,4,Không,2021-02-14,Hạ,Đồng bằng,Ôn đới,10
+Yến núi,75114564,97,Không,4.7,Trung bình,10,Không,2021-02-21,Đông,Trung du,Nhiệt đới,0
+Yến núi,75302351,252,Có,4.19,Cao,8,Không,2021-02-28,Hạ,Đồng bằng,Nhiệt đới,17
+Yến núi,75490607,87,Không,2.17,Thấp,3,Không,2021-03-07,Hạ,Đồi núi,Rừng ngập mặn,41
+Yến núi,75679333,121,Không,4.14,Cao,10,Không,2021-03-14,Thu,Đồng bằng,Ôn đới,56
+Yến núi,75868531,226,Một phần,4.89,Thấp,7,Không,2021-03-21,Thu,Trung du,Rừng ngập mặn,76
+Yến núi,76058203,49,Một phần,4.85,Trung bình,2,Không,2021-03-28,Hạ,Đồi núi,Nhiệt đới,79
+Yến núi,76248348,335,Một phần,4.62,Trung bình,10,Không,2021-04-04,Đông,Đồng bằng,Rừng ngập mặn,71
+Yến núi,76438969,23,Không,1.81,Thấp,8,Không,2021-04-11,Thu,Đồi núi,Ôn đới,44
+Yến núi,76630067,423,Không,3.48,Cao,5,Không,2021-04-18,Đông,Đồi núi,Nhiệt đới,60
+Yến núi,76821642,163,Một phần,2.23,Cao,9,Không,2021-04-25,Đông,Đồi núi,Nhiệt đới,56
+Yến núi,77013696,82,Có,2.98,Cao,7,Không,2021-05-02,Thu,Đồng bằng,Ôn đới,76
+Yến núi,77206230,138,Một phần,4.69,Thấp,1,Không,2021-05-09,Thu,Đồng bằng,Ôn đới,22
+Yến núi,77399246,265,Có,4.33,Thấp,9,Không,2021-05-16,Thu,Đồi núi,Rừng ngập mặn,3
+Yến núi,77592744,143,Một phần,3.98,Trung bình,2,Không,2021-05-23,Xuân,Đồng bằng,Rừng ngập mặn,46
+Yến núi,77786726,418,Có,4.52,Thấp,8,Không,2021-05-30,Hạ,Đồi núi,Nhiệt đới,77
+Yến núi,77981192,188,Có,1.46,Trung bình,6,Không,2021-06-06,Thu,Trung du,Ôn đới,4
+Yến núi,78176145,490,Không,4.73,Trung bình,10,Không,2021-06-13,Đông,Đồng bằng,Ôn đới,99
+Yến núi,78371586,317,Có,2.01,Trung bình,3,Không,2021-06-20,Đông,Đồi núi,Nhiệt đới,10
+Yến núi,78567515,431,Có,4.41,Thấp,8,Không,2021-06-27,Đông,Đồng bằng,Ôn đới,1
+Yến núi,78763933,430,Một phần,4.46,Thấp,7,Không,2021-07-04,Xuân,Đồi núi,Ôn đới,29
+Yến núi,78960843,224,Một phần,2.8,Cao,3,Không,2021-07-11,Xuân,Đồi núi,Rừng ngập mặn,47
+Yến núi,79158245,262,Một phần,3.51,Thấp,5,Không,2021-07-18,Hạ,Đồi núi,Nhiệt đới,9
+Yến núi,79356141,247,Không,1.69,Trung bình,2,Không,2021-07-25,Hạ,Đồng bằng,Ôn đới,85
+Yến núi,79554531,257,Một phần,2.3,Cao,8,Không,2021-08-01,Xuân,Đồi núi,Nhiệt đới,80
+Yến núi,79753418,35,Một phần,1.18,Trung bình,9,Không,2021-08-08,Xuân,Đồng bằng,Nhiệt đới,47
+Yến núi,79952801,188,Không,3.57,Cao,7,Không,2021-08-15,Hạ,Đồi núi,Rừng ngập mặn,70
+Yến núi,80152683,125,Không,3.37,Thấp,1,Không,2021-08-22,Thu,Đồng bằng,Ôn đới,93
+Yến núi,80353065,156,Một phần,4.46,Thấp,6,Không,2021-08-29,Hạ,Đồng bằng,Ôn đới,34
+Yến núi,80553948,192,Có,3.56,Cao,7,Không,2021-09-05,Xuân,Đồi núi,Ôn đới,62
+Yến núi,80755333,127,Không,2.28,Thấp,1,Không,2021-09-12,Xuân,Đồi núi,Rừng ngập mặn,81
+Yến núi,80957221,464,Một phần,3.67,Trung bình,7,Không,2021-09-19,Đông,Đồng bằng,Rừng ngập mặn,63
+Yến núi,81159614,207,Một phần,2.06,Trung bình,5,Không,2021-09-26,Hạ,Trung du,Ôn đới,8
+Yến núi,81362513,67,Có,2.21,Thấp,8,Không,2021-10-03,Xuân,Đồi núi,Nhiệt đới,89
+Yến núi,81565919,18,Không,2.1,Thấp,7,Không,2021-10-10,Hạ,Trung du,Nhiệt đới,16
+Yến núi,81769834,125,Một phần,2.77,Cao,8,Không,2021-10-17,Đông,Đồi núi,Ôn đới,68
+Yến núi,81974259,54,Không,2.15,Cao,1,Không,2021-10-24,Đông,Đồi núi,Nhiệt đới,29
+Yến núi,82179194,341,Không,2.36,Trung bình,8,Không,2021-10-31,Thu,Trung du,Rừng ngập mặn,0
+Yến núi,82384642,398,Một phần,3.29,Cao,7,Không,2021-11-07,Đông,Đồi núi,Ôn đới,34
+Yến núi,82590604,287,Không,1.07,Cao,10,Không,2021-11-14,Đông,Đồng bằng,Rừng ngập mặn,33
+Yến núi,82797080,345,Không,1.27,Trung bình,9,Không,2021-11-21,Xuân,Đồi núi,Ôn đới,18
+Yến núi,83004073,307,Không,1.6,Cao,10,Không,2021-11-28,Hạ,Đồi núi,Nhiệt đới,61
+Yến núi,83211583,367,Có,1.72,Trung bình,10,Không,2021-12-05,Đông,Trung du,Ôn đới,45
+Yến núi,83419612,403,Một phần,2.32,Trung bình,8,Không,2021-12-12,Xuân,Đồi núi,Ôn đới,60
+Yến núi,83628161,53,Không,4.16,Cao,5,Không,2021-12-19,Đông,Trung du,Nhiệt đới,17
+Yến núi,83837232,243,Có,3.4,Cao,3,Không,2021-12-26,Hạ,Đồi núi,Rừng ngập mặn,42
+Yến núi,84046825,136,Không,4.17,Trung bình,2,Không,2022-01-02,Thu,Đồi núi,Rừng ngập mặn,100
+Yến núi,84256942,397,Có,2.6,Thấp,1,Không,2022-01-09,Xuân,Đồi núi,Ôn đới,81
+Yến núi,84467584,180,Một phần,2.99,Thấp,2,Không,2022-01-16,Xuân,Đồi núi,Nhiệt đới,71
+Yến núi,84678753,16,Có,2.93,Trung bình,7,Không,2022-01-23,Thu,Đồng bằng,Ôn đới,59
+Yến núi,84890450,396,Một phần,2.43,Thấp,5,Không,2022-01-30,Xuân,Trung du,Nhiệt đới,0
+Yến núi,85102676,407,Không,1.75,Cao,6,Không,2022-02-06,Hạ,Trung du,Rừng ngập mặn,2
+Yến núi,85315433,264,Không,1.03,Thấp,10,Không,2022-02-13,Hạ,Đồng bằng,Rừng ngập mặn,59
+Yến núi,85528721,259,Có,3.95,Thấp,7,Không,2022-02-20,Thu,Đồi núi,Nhiệt đới,21
+Yến núi,85742543,457,Một phần,3.5,Thấp,10,Không,2022-02-27,Xuân,Đồng bằng,Nhiệt đới,51
+Yến núi,85956900,33,Không,1.6,Trung bình,3,Không,2022-03-06,Thu,Đồng bằng,Nhiệt đới,88
+Yến núi,86171792,79,Một phần,4.24,Thấp,1,Không,2022-03-13,Xuân,Đồng bằng,Rừng ngập mặn,76
+Yến núi,86387221,361,Có,3.89,Trung bình,5,Không,2022-03-20,Hạ,Đồng bằng,Ôn đới,69
+Yến núi,86603189,343,Không,3.39,Cao,4,Không,2022-03-27,Đông,Đồi núi,Ôn đới,21
+Yến núi,86819697,396,Có,4.27,Cao,1,Không,2022-04-03,Xuân,Đồng bằng,Rừng ngập mặn,7
+Yến núi,87036747,148,Một phần,1.26,Trung bình,8,Không,2022-04-10,Xuân,Trung du,Ôn đới,14
+Yến núi,87254338,16,Không,3.94,Trung bình,5,Không,2022-04-17,Hạ,Đồng bằng,Nhiệt đới,30
+Yến núi,87472474,480,Không,4.26,Trung bình,10,Không,2022-04-24,Hạ,Đồng bằng,Nhiệt đới,41
+Yến núi,87691155,237,Không,4.27,Thấp,7,Không,2022-05-01,Thu,Đồi núi,Ôn đới,86
+Yến núi,87910383,312,Một phần,2.71,Trung bình,7,Không,2022-05-08,Thu,Đồng bằng,Rừng ngập mặn,54
+Yến núi,88130159,223,Một phần,3.3,Cao,7,Không,2022-05-15,Xuân,Trung du,Ôn đới,62
+Yến núi,88350485,106,Không,4.98,Thấp,7,Không,2022-05-22,Đông,Trung du,Rừng ngập mặn,78
+Yến núi,88571361,53,Một phần,4.95,Thấp,6,Không,2022-05-29,Đông,Trung du,Ôn đới,5
+Yến núi,88792789,223,Một phần,1.21,Thấp,9,Không,2022-06-05,Xuân,Đồng bằng,Nhiệt đới,83
+Yến núi,89014771,293,Một phần,3.29,Thấp,4,Không,2022-06-12,Hạ,Đồi núi,Rừng ngập mặn,68
+Yến núi,89237308,481,Không,2.27,Trung bình,1,Không,2022-06-19,Hạ,Đồng bằng,Nhiệt đới,5
+Yến núi,89460402,44,Có,2.9,Thấp,3,Không,2022-06-26,Xuân,Trung du,Nhiệt đới,61
+Yến núi,89684053,500,Một phần,3.69,Trung bình,6,Không,2022-07-03,Thu,Đồi núi,Nhiệt đới,36
+Yến núi,89908263,173,Không,3.17,Trung bình,2,Không,2022-07-10,Hạ,Đồng bằng,Nhiệt đới,38
+Yến núi,90133033,414,Không,3.98,Cao,10,Không,2022-07-17,Xuân,Đồng bằng,Rừng ngập mặn,47
+Yến núi,90358366,339,Không,1.66,Cao,3,Không,2022-07-24,Hạ,Trung du,Ôn đới,13
+Yến núi,90584262,491,Một phần,3.5,Trung bình,4,Không,2022-07-31,Thu,Đồi núi,Ôn đới,1
+Yến núi,90810722,52,Không,3.02,Cao,3,Không,2022-08-07,Hạ,Trung du,Ôn đới,98
+Yến núi,91037749,55,Không,2.58,Cao,7,Không,2022-08-14,Thu,Trung du,Nhiệt đới,76
+Yến núi,91265344,130,Không,1.53,Thấp,6,Không,2022-08-21,Thu,Đồng bằng,Rừng ngập mặn,54
+Yến núi,91493507,88,Không,3.38,Cao,6,Không,2022-08-28,Xuân,Đồng bằng,Ôn đới,57
+Yến núi,91722241,235,Không,4.67,Trung bình,8,Không,2022-09-04,Đông,Trung du,Ôn đới,8
+Yến núi,91951546,306,Có,1.47,Cao,6,Không,2022-09-11,Đông,Đồng bằng,Nhiệt đới,19
+Yến núi,92181425,499,Có,1.93,Thấp,7,Không,2022-09-18,Hạ,Đồng bằng,Rừng ngập mặn,62
+Yến núi,92411879,228,Không,1.58,Cao,6,Không,2022-09-25,Xuân,Đồi núi,Rừng ngập mặn,15
+Yến núi,92642909,411,Không,4.19,Trung bình,7,Không,2022-10-02,Hạ,Đồi núi,Nhiệt đới,85
+Yến núi,92874516,52,Một phần,4.41,Thấp,9,Không,2022-10-09,Xuân,Đồng bằng,Rừng ngập mặn,94
+Yến núi,93106702,431,Một phần,2.41,Trung bình,7,Không,2022-10-16,Thu,Đồng bằng,Nhiệt đới,52
+Yến núi,93339469,233,Một phần,1.19,Trung bình,5,Không,2022-10-23,Đông,Đồi núi,Nhiệt đới,3
+Yến núi,93572817,49,Có,4.57,Thấp,7,Không,2022-10-30,Xuân,Đồi núi,Nhiệt đới,13
+Yến núi,93806750,375,Có,4.45,Trung bình,3,Không,2022-11-06,Hạ,Trung du,Rừng ngập mặn,96
+Yến núi,94041266,179,Một phần,1.55,Trung bình,2,Không,2022-11-13,Xuân,Đồng bằng,Rừng ngập mặn,60
+Yến núi,94276370,43,Không,3.08,Trung bình,7,Không,2022-11-20,Xuân,Đồi núi,Rừng ngập mặn,12
+Yến núi,94512061,130,Có,2.73,Trung bình,4,Không,2022-11-27,Đông,Đồng bằng,Rừng ngập mặn,24
+Yến núi,94748341,209,Một phần,4.2,Thấp,5,Không,2022-12-04,Đông,Trung du,Nhiệt đới,16
+Yến núi,94985212,496,Không,2.04,Cao,6,Không,2022-12-11,Hạ,Đồng bằng,Nhiệt đới,77
+Yến núi,95222675,342,Một phần,3.98,Cao,1,Không,2022-12-18,Xuân,Đồi núi,Nhiệt đới,45
+Yến núi,95460731,387,Không,4.2,Trung bình,1,Không,2022-12-25,Đông,Đồng bằng,Rừng ngập mặn,91
+Yến núi,6499218809,473,Một phần,1.96,Thấp,6,Không,2023-01-01,Đông,Trung du,Rừng ngập mặn,24
+Yến núi,5743764453,252,Không,1.82,Thấp,1,Không,2023-01-08,Hạ,Đồng bằng,Nhiệt đới,12
+Yến núi,8169227169,456,Có,1.03,Trung bình,9,Không,2023-01-15,Đông,Đồng bằng,Rừng ngập mặn,95
+Yến núi,10712006617,363,Không,4.74,Trung bình,3,Không,2023-01-22,Đông,Đồng bằng,Rừng ngập mặn,10
+Yến núi,5715627752,441,Không,3.02,Thấp,2,Không,2023-01-29,Hạ,Đồi núi,Nhiệt đới,81
+Yến núi,9245583231,127,Có,1.92,Trung bình,7,Không,2023-02-05,Đông,Trung du,Rừng ngập mặn,66
+Yến núi,9354504568,319,Một phần,4.11,Cao,8,Không,2023-02-12,Hạ,Trung du,Ôn đới,91
+Yến núi,7422599121,470,Một phần,4.39,Cao,5,Không,2023-02-19,Hạ,Đồi núi,Rừng ngập mặn,52
+Yến núi,7097391765,17,Không,1.46,Thấp,8,Không,2023-02-26,Xuân,Trung du,Rừng ngập mặn,58
+Yến núi,7940878315,21,Có,3.82,Thấp,4,Không,2023-03-05,Hạ,Trung du,Ôn đới,77
+Yến núi,9666098745,438,Có,4.49,Cao,6,Không,2023-03-12,Đông,Đồi núi,Nhiệt đới,57
+Yến núi,6327065501,123,Có,4.73,Trung bình,6,Không,2023-03-19,Hạ,Trung du,Rừng ngập mặn,73
+Yến núi,8180051947,136,Một phần,4.07,Cao,7,Không,2023-03-26,Đông,Đồi núi,Rừng ngập mặn,79
+Yến núi,11230522663,364,Không,3.76,Cao,10,Không,2023-04-02,Đông,Đồi núi,Ôn đới,53
+Yến núi,16366213126,215,Một phần,3.65,Thấp,8,Không,2023-04-09,Đông,Trung du,Ôn đới,92
+Yến núi,13918250308,231,Một phần,3.45,Cao,8,Không,2023-04-16,Hạ,Trung du,Nhiệt đới,67
+Yến núi,11792396530,185,Có,4.17,Thấp,3,Không,2023-04-23,Thu,Trung du,Rừng ngập mặn,37
+Yến núi,6631518923,324,Một phần,4.81,Thấp,3,Không,2023-04-30,Đông,Trung du,Ôn đới,89
+Yến núi,15134797633,329,Không,2.49,Thấp,4,Không,2023-05-07,Thu,Đồng bằng,Ôn đới,52
+Yến núi,13892846180,107,Có,3.86,Thấp,3,Không,2023-05-14,Đông,Trung du,Ôn đới,2
+Yến núi,7185946588,22,Không,3.68,Trung bình,6,Không,2023-05-21,Đông,Đồng bằng,Rừng ngập mặn,79
+Yến núi,8360090622,54,Có,4.57,Thấp,1,Không,2023-05-28,Hạ,Đồi núi,Rừng ngập mặn,56
+Yến núi,11735432290,375,Không,2.49,Trung bình,1,Không,2023-06-04,Hạ,Trung du,Nhiệt đới,11
+Yến núi,17583232975,112,Có,3.98,Trung bình,7,Không,2023-06-11,Hạ,Trung du,Ôn đới,84
+Yến núi,18060186010,441,Không,2.38,Cao,2,Không,2023-06-18,Xuân,Trung du,Rừng ngập mặn,51
+Yến núi,23257285769,481,Có,3.42,Thấp,3,Không,2023-06-25,Xuân,Đồi núi,Rừng ngập mặn,8
+Yến núi,10485350380,335,Có,2.79,Cao,6,Không,2023-07-02,Xuân,Đồng bằng,Nhiệt đới,74
+Yến núi,23880727709,15,Không,4.39,Trung bình,1,Không,2023-07-09,Xuân,Đồng bằng,Rừng ngập mặn,13
+Yến núi,15721882123,67,Một phần,1.91,Cao,10,Không,2023-07-16,Thu,Trung du,Ôn đới,21
+Yến núi,10383953311,285,Có,2.39,Thấp,1,Không,2023-07-23,Đông,Đồi núi,Rừng ngập mặn,63
+Yến núi,16427552368,428,Một phần,1.67,Trung bình,2,Không,2023-07-30,Hạ,Đồng bằng,Rừng ngập mặn,15
+Yến núi,21141751472,320,Không,2.42,Cao,2,Không,2023-08-06,Đông,Đồng bằng,Ôn đới,46
+Yến núi,22982450570,331,Không,4.17,Cao,5,Không,2023-08-13,Thu,Trung du,Nhiệt đới,59
+Yến núi,21914312457,485,Không,2.49,Cao,10,Không,2023-08-20,Đông,Trung du,Rừng ngập mặn,12
+Yến núi,10836448153,229,Có,3.94,Thấp,1,Không,2023-08-27,Thu,Đồi núi,Nhiệt đới,27
+Yến núi,8976896123,59,Không,2.7,Cao,5,Không,2023-09-03,Đông,Đồi núi,Ôn đới,64
+Yến núi,9136478189,265,Một phần,1.84,Cao,9,Không,2023-09-10,Hạ,Đồng bằng,Rừng ngập mặn,55
+Yến núi,22725730683,164,Một phần,3.06,Cao,8,Không,2023-09-17,Đông,Trung du,Nhiệt đới,39
+Yến núi,12545433683,398,Một phần,2.29,Thấp,3,Không,2023-09-24,Hạ,Trung du,Rừng ngập mặn,97
+Yến núi,19954064715,76,Không,2.17,Cao,2,Không,2023-10-01,Đông,Đồng bằng,Nhiệt đới,24
+Yến núi,29662680445,12,Một phần,3.95,Cao,6,Không,2023-10-08,Hạ,Đồi núi,Nhiệt đới,28
+Yến núi,9301757271,177,Một phần,4.58,Cao,6,Không,2023-10-15,Thu,Trung du,Nhiệt đới,6
+Yến núi,37609120100,107,Không,2.2,Trung bình,2,Không,2023-10-22,Thu,Đồng bằng,Ôn đới,82
+Yến núi,26384147941,115,Một phần,3.01,Cao,4,Không,2023-10-29,Hạ,Đồi núi,Nhiệt đới,20
+Yến núi,37573283784,499,Có,4.08,Trung bình,5,Không,2023-11-05,Hạ,Trung du,Ôn đới,4
+Yến núi,20664474764,361,Một phần,3.34,Cao,1,Không,2023-11-12,Đông,Đồi núi,Ôn đới,50
+Yến núi,27696675701,304,Có,4.85,Trung bình,9,Không,2023-11-19,Xuân,Trung du,Nhiệt đới,72
+Yến núi,23746816861,286,Một phần,2.55,Trung bình,1,Không,2023-11-26,Thu,Đồng bằng,Rừng ngập mặn,39
+Yến núi,11534074561,382,Một phần,1.42,Cao,10,Không,2023-12-03,Xuân,Đồi núi,Rừng ngập mặn,91
+Yến núi,13550213170,409,Có,2.72,Thấp,7,Không,2023-12-10,Đông,Trung du,Rừng ngập mặn,83
+Yến núi,10908969650,214,Có,2.4,Cao,7,Không,2023-12-17,Hạ,Đồi núi,Ôn đới,40
+Yến núi,15538351451,132,Có,3.59,Cao,4,Không,2023-12-24,Thu,Trung du,Nhiệt đới,74
+Yến núi,26180212551,294,Có,1.67,Thấp,5,Không,2023-12-31,Đông,Trung du,Ôn đới,66
+Yến núi,12917463236,209,Không,4.68,Thấp,2,Không,2024-01-07,Hạ,Đồi núi,Ôn đới,88
+Yến núi,11834253651,356,Một phần,1.99,Thấp,9,Không,2024-01-14,Đông,Trung du,Rừng ngập mặn,41
+Yến núi,16653754432,203,Có,2.03,Trung bình,5,Không,2024-01-21,Đông,Trung du,Rừng ngập mặn,79
+Yến núi,23037510698,377,Một phần,3.65,Thấp,5,Không,2024-01-28,Đông,Đồng bằng,Nhiệt đới,24
+Yến núi,20953187108,500,Có,2.75,Trung bình,4,Không,2024-02-04,Hạ,Trung du,Nhiệt đới,54
+Yến núi,15605709107,475,Một phần,4.19,Trung bình,9,Không,2024-02-11,Hạ,Trung du,Rừng ngập mặn,29
+Yến núi,16576625299,426,Một phần,2.72,Cao,6,Không,2024-02-18,Thu,Đồi núi,Nhiệt đới,67
+Yến núi,14503725304,500,Một phần,4.91,Trung bình,9,Không,2024-02-25,Xuân,Trung du,Nhiệt đới,72
+Yến núi,23582584046,360,Có,1.3,Cao,4,Không,2024-03-03,Hạ,Đồng bằng,Nhiệt đới,43
+Yến núi,48168047476,284,Không,1.05,Trung bình,7,Không,2024-03-10,Hạ,Đồi núi,Ôn đới,37
+Yến núi,24612134561,304,Có,3.58,Trung bình,2,Không,2024-03-17,Hạ,Đồi núi,Nhiệt đới,97
+Yến núi,49193979693,92,Có,2.0,Trung bình,9,Không,2024-03-24,Thu,Đồi núi,Nhiệt đới,64
+Yến núi,63340328643,265,Một phần,1.45,Trung bình,4,Không,2024-03-31,Đông,Đồi núi,Nhiệt đới,11
+Yến núi,17335882118,154,Có,4.8,Thấp,7,Không,2024-04-07,Hạ,Trung du,Nhiệt đới,75
+Yến núi,24612690141,253,Có,1.2,Thấp,4,Không,2024-04-14,Thu,Trung du,Rừng ngập mặn,64
+Yến núi,25089976221,177,Một phần,2.36,Cao,2,Không,2024-04-21,Xuân,Trung du,Rừng ngập mặn,73
+Yến núi,28063589796,61,Không,2.97,Thấp,9,Không,2024-04-28,Xuân,Đồng bằng,Ôn đới,34
+Yến núi,29119725795,131,Có,2.78,Cao,7,Không,2024-05-05,Xuân,Đồi núi,Rừng ngập mặn,17
+Yến núi,67850541237,358,Không,2.7,Thấp,9,Không,2024-05-12,Xuân,Đồi núi,Rừng ngập mặn,95
+Yến núi,41322831828,228,Không,2.85,Cao,5,Không,2024-05-19,Hạ,Trung du,Nhiệt đới,31
+Yến núi,20997750504,414,Không,1.86,Trung bình,9,Không,2024-05-26,Đông,Đồi núi,Rừng ngập mặn,52
+Yến núi,20894319599,109,Không,1.87,Thấp,8,Không,2024-06-02,Xuân,Đồng bằng,Nhiệt đới,35
+Yến núi,39979678441,59,Có,1.7,Trung bình,3,Không,2024-06-09,Thu,Đồng bằng,Ôn đới,94
+Yến núi,58556809356,487,Có,4.33,Cao,4,Không,2024-06-16,Xuân,Đồi núi,Nhiệt đới,10
+Yến núi,24315156095,233,Không,4.01,Cao,3,Không,2024-06-23,Hạ,Trung du,Rừng ngập mặn,100
+Yến núi,27654703922,212,Không,2.69,Trung bình,8,Không,2024-06-30,Đông,Đồi núi,Rừng ngập mặn,48
+Yến núi,23008344371,293,Một phần,1.18,Thấp,7,Không,2024-07-07,Hạ,Đồng bằng,Rừng ngập mặn,85
+Yến núi,89062687118,382,Một phần,1.23,Trung bình,4,Không,2024-07-14,Hạ,Trung du,Ôn đới,73
+Yến núi,73502481438,257,Không,3.47,Thấp,1,Không,2024-07-21,Thu,Trung du,Rừng ngập mặn,60
+Yến núi,48509617839,498,Không,3.72,Trung bình,2,Không,2024-07-28,Hạ,Đồng bằng,Nhiệt đới,49
+Yến núi,74558054007,121,Có,1.94,Cao,10,Không,2024-08-04,Đông,Trung du,Ôn đới,5
+Yến núi,49190533929,247,Có,1.42,Thấp,2,Không,2024-08-11,Đông,Đồng bằng,Ôn đới,69
+Yến núi,98882993305,173,Có,3.31,Cao,8,Không,2024-08-18,Xuân,Trung du,Rừng ngập mặn,60
+Yến núi,95138174736,324,Một phần,2.38,Cao,6,Không,2024-08-25,Hạ,Đồi núi,Rừng ngập mặn,19
+Yến núi,23788992964,295,Có,1.57,Cao,3,Không,2024-09-01,Thu,Đồng bằng,Nhiệt đới,44
+Yến núi,69729124621,81,Không,1.79,Trung bình,4,Không,2024-09-08,Hạ,Đồng bằng,Ôn đới,20
+Yến núi,36230525621,257,Có,2.99,Thấp,10,Không,2024-09-15,Hạ,Đồi núi,Ôn đới,57
+Yến núi,95335733694,318,Không,1.25,Thấp,2,Không,2024-09-22,Xuân,Trung du,Ôn đới,80
+Yến núi,64964470323,94,Có,1.1,Cao,9,Không,2024-09-29,Thu,Đồng bằng,Rừng ngập mặn,48
+Yến núi,57201487458,28,Một phần,3.8,Trung bình,5,Không,2024-10-06,Xuân,Đồng bằng,Ôn đới,52
+Yến núi,34634299862,57,Có,1.52,Cao,2,Không,2024-10-13,Thu,Đồng bằng,Ôn đới,57
+Yến núi,41972990335,216,Không,1.76,Trung bình,6,Không,2024-10-20,Hạ,Đồi núi,Ôn đới,88
+Yến núi,43322258463,441,Không,4.56,Thấp,9,Không,2024-10-27,Thu,Trung du,Ôn đới,49
+Yến núi,28709441153,99,Có,1.18,Trung bình,8,Không,2024-11-03,Đông,Đồi núi,Nhiệt đới,90
+Yến núi,93861697667,144,Không,2.81,Trung bình,5,Không,2024-11-10,Thu,Đồng bằng,Ôn đới,11
+Yến núi,82428153729,309,Một phần,4.1,Trung bình,1,Không,2024-11-17,Xuân,Đồi núi,Nhiệt đới,74
+Yến núi,25620790587,222,Có,1.81,Cao,5,Không,2024-11-24,Xuân,Đồng bằng,Nhiệt đới,79
+Yến núi,67561839154,359,Không,1.97,Trung bình,6,Không,2024-12-01,Xuân,Trung du,Rừng ngập mặn,38
+Yến núi,33895707696,177,Không,4.93,Thấp,3,Không,2024-12-08,Đông,Trung du,Rừng ngập mặn,30
+Yến núi,119835678385,193,Một phần,1.97,Trung bình,7,Không,2024-12-15,Thu,Trung du,Rừng ngập mặn,0
+Yến núi,55283875111,402,Một phần,2.26,Cao,9,Không,2024-12-22,Xuân,Đồng bằng,Nhiệt đới,2
+Yến núi,50319686444,489,Không,4.48,Thấp,3,Không,2024-12-29,Hạ,Đồng bằng,Ôn đới,18
