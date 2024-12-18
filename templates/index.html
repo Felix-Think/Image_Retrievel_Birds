@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Search and Forecast Population of Birds</title>
+</head>
+<body>
+    <h1 style="text-align:center; font-family:Merriweather; color:Blue">Birds Population Forecasting</h1>
+    <h2 class="title">Guides to Birds</h2>
+
+    <div class="showroom">
+        <div class="showroom-item">
+            <img id="chaomao" src="/static/Images/chaomao/104.jpg" alt="Chào mào">
+            <p>Chào mào</p>
+        </div>
+        <div class="showroom-item">
+            <img id="cugay" src="/static/Images/cugay/444.jpg" alt="Cu gáy">
+            <p>Cu gáy</p>
+        </div>
+        <div class="showroom-item">
+            <img id="cong" src="/static/Images/concong/321.jpg" alt="Công">
+            <p>Công</p>
+        </div>
+        <div class="showroom-item">
+            <img id="bungvang" src="/static/Images/catnhobungvang/1.jpg" alt="Bụng vàng">
+            <p>Cắt nhỏ bụng vàng</p>
+        </div>
+    </div>
+
+    <section class="upload-section">
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <h2 for="file">Upload Bird Image:</h2>
+            <input type="file" name="file" id="file" accept="image/*">
+            <input type="submit" value="Upload">
+        </form>
+    </section>
+
+
+    <div class="header-container">
+        <h2 class="left-header">Image Search Results</h2>
+        <h2 class="right-header">Similar Images</h2>  
+    </div>
+
+    <div class="results-section">
+        <div class="uploaded-section">
+            <h3>Uploaded Image:</h3>
+            <img src="{{ filepath }}" alt="Uploaded Image" width="200">
+        </div>
+        <div class="container">
+            {% for result in results %}
+            <div class="image-card">
+                <img src="{{ result['image_link'] }}" alt="Image {{ result['index'] }}">
+                <p><b>Index:</b> {{ result['index'] }}</p>
+                <p><b>Score:</b> {{ result['score'] }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+
+
+    <div class ="yes">
+        <form action="/Du-doan" method="GET" class="form-container">
+            <label class="forecast-label">HINT: Days you want to forecast population</label><br>
+            <input type="text" id="days" name="day" placeholder="Enter days" required><br>
+            <button type="submit">Forecast</button><br>
+
+        </form>
+        {% if prediction %}
+        <img src="{{ prediction }}" alt="Forecast" width="400">
+        {% endif %}
+        <p>{{ predit_RF }}</p>
+    </div>
+
+</body>
+</html>
+
+
+

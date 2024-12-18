@@ -1,0 +1,320 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    font-size: 50px;
+    background-color: #13568d;
+    color: #fff;
+    padding: 30px;
+    position: relative;
+}
+
+/* Title */
+#title {
+    text-align: center;
+    font-size: 60px;
+    color: red;
+    margin: 20px 0;
+}
+
+/* Showroom grid */
+.showroom {
+    display: grid;
+    grid-template-columns: repeat(2, 200px);
+    grid-gap: 30px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.showroom img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.showroom p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: purple;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* File input container */
+#file-input {
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    border: 2px dashed #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-size: 20px;
+    color: green;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+/* Output box (image results) */
+.output-box {
+    display: grid;
+    grid-template-columns: repeat(2, 150px);
+    grid-gap: 20px;
+    margin-top: 20px;
+    justify-content: flex-start;
+}
+
+.output-item {
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.output-box img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.output-box p {
+    font-size: 14px;
+    color: #555;
+}
+
+/* Header styles for image sections */
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: green;
+    cursor: pointer;
+    text-align: center;
+}
+
+/* Upload Section */
+.upload-section {
+    margin-left: 350px;
+    width: 30%;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.upload-section form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.upload-section input[type="file"] {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.upload-section input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.upload-section input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+/* Results Section */
+.results-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.results-section .uploaded-section {
+    width: 30%;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.uploaded-section img {
+    width: 70%;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+/* Container for similar images */
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    width: 60%;
+    padding: 10px;
+}
+
+.image-card {
+    background-color: #f8f8f8;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.image-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.image-card p {
+    font-size: 14px;
+    color: #555;
+    margin: 8px 0;
+}
+
+/* Styling for the header layout */
+
+.header-container {
+    display: flex;
+    justify-content: space-between; /* Căn giữa hai phần tử trái phải */
+    width: 100%;
+}
+
+.left-header, .right-header {
+    margin-left: 60px;  /* Loại bỏ margin mặc định */
+    margin-right: 200px;
+    font-size: 24px;
+    color: #333;  /* Màu chữ */
+}
+
+.yes{
+    padding-left: 300px;
+}
+
+
+/* Centering the results section headers */
+.results-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.left-header, .right-header {
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+}
+
+
+/* Container chứa form */
+.form-container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+}
+
+/* Style cho label với lớp forecast-label */
+.forecast-label {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color: green;
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+/* Hover effect cho label */
+.forecast-label:hover {
+    color: #0066cc;
+    background: linear-gradient(90deg, rgba(0, 102, 204, 1) 0%, rgba(0, 204, 255, 1) 100%);
+    color: transparent;
+}
+
+/* Style cho input */
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+/* Focus effect cho input */
+input[type="text"]:focus {
+    border-color: #0066cc;
+    outline: none;
+}
+
+/* Style cho button */
+button {
+    background-color: #0066cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect cho button */
+button:hover {
+    background-color: #005bb5;
+}
+
+/* Style cho container chứa kết quả */
+.result{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
